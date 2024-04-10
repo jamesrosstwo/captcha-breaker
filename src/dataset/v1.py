@@ -139,6 +139,9 @@ class V1Dataset(Dataset):
         return self._annotations
 
     def __getitem__(self, item):
+        # TODO: Add dataset batching:
+        # choose random category -> question -> prompt
+        # choose random images fulfilling that prompt and batch them
         pass
 
 

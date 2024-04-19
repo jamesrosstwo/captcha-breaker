@@ -1,0 +1,10 @@
+defaults:
+  - dataset: v1
+  - architecture: clustering
+
+epochs: 50
+learning_rate: 0.001
+
+loader:
+  batch_size: 4
+  num_workers: 1

@@ -1,0 +1,4 @@
+defaults:
+  - base_architecture
+
+_target_: src.architecture.clustering.CaptchaClustering

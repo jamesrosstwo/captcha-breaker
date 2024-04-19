@@ -1,0 +1,4 @@
+defaults:
+  - backbone: resnet50
+
+_target_: ???

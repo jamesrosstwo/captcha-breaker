@@ -8,3 +8,5 @@ DATA_PATH = ROOT_PATH / "data"
 DATA_PATH.mkdir(exist_ok=True)
 EXPERIMENTS_PATH = ROOT_PATH / "experiments"
 EXPERIMENTS_PATH.mkdir(exist_ok=True)
+CONFIG_PATH = ROOT_PATH / "config"
+BASE_CONFIG_NAME = "config"

@@ -1,10 +1,16 @@
 import json
-from dataclasses import dataclass, field, asdict
+import operator
+from functools import cached_property
 from pathlib import Path
 from typing import Dict, List, Tuple, TypedDict
 
-from torch.utils.data import Dataset
+import numpy as np
+import torch
+from torchvision import transforms
+from torchvision.datasets.folder import default_loader
+from torchvision.transforms import ToTensor
 
+from src.dataset.captcha import CaptchaDataset
 from src.definitions import DATA_PATH
 
 
@@ -126,23 +132,59 @@ def create_annotations_json(train_path: Path, val_path: Path, out_path: Path, ov
         json.dump(val_annots, val_file, indent=2)
 
 
-class V1Dataset(Dataset):
-    def __init__(self, img_root: Path, annotations_path: Path):
-        self._img_root_path: Path = img_root
-        self._annotations_path: Path = annotations_path
+class V1Dataset(CaptchaDataset):
+    def __init__(self, img_root: str, annotations_path: str):
+        self._img_root_path: Path = DATA_PATH / img_root
+        self._annotations_path: Path = DATA_PATH / annotations_path
         with open(str(self._annotations_path), "r") as annots_file:
             self._annotations = json.load(annots_file)
-            self._images: List[V1Annnotation] = self._annotations["images"]
-            self._categories: List[V1Category] = self._annotations["categories"]
+        self._images: List[V1Annnotation] = self._annotations["images"]
+        self._categories: List[V1Category] = self._annotations["categories"]
+        self._loader = default_loader
+
+    @cached_property
+    def _questions(self):
+        all_questions = []
+        for cat in self._categories:
+            all_questions += cat["questions"]
+        return all_questions
+
+    @cached_property
+    def _category_indices(self):
+        return np.array([x["category_id"] for x in self._images])
+
+    @cached_property
+    def _category_map(self):
+        return {c["category_id"]: c for c in self._categories}
+
+    def _sample_images(self, n: int, category_id: int) -> List[Dict]:
+        assert category_id in self._category_map
+        cat_indices = np.flatnonzero(self._category_indices == category_id)
+        sample_idx = np.random.choice(cat_indices, n, replace=False)
+        return operator.itemgetter(*sample_idx)(self._images)
 
     def __len__(self):
-        return self._annotations
+        return len(self._questions)
 
-    def __getitem__(self, item):
-        # TODO: Add dataset batching:
-        # choose random category -> question -> prompt
-        # choose random images fulfilling that prompt and batch them
-        pass
+    def __getitem__(self, idx):
+        question = self._questions[idx]
+        question_text = question["question_text"]
+        category_id: int = question["category_id"]
+        target_prompt_ids: List[int] = question["positive_prompt_ids"]
+        im_data = self._sample_images(9, category_id)
+        paths = [self._img_root_path / p["path"] for p in im_data]
+        imgs = [self._loader(str(p)) for p in paths]
+        targets = torch.tensor([x["prompt_id"] in target_prompt_ids for x in im_data])
+
+        transform = transforms.Compose([
+            transforms.Resize((256, 256)),
+            transforms.ToTensor(),
+            # transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
+        ])
+
+        img_tensors = torch.stack([transform(i) for i in imgs])
+
+        return question_text, img_tensors, targets
 
 
 if __name__ == "__main__":

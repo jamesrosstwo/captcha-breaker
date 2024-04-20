@@ -1,1 +1,1 @@
-_target_: src.architecture.backbone.tiny_vit.TinyViT
+_target_: src.architecture.backbone.tiny_vit_backbone.TinyViTBackbone

@@ -7,7 +7,9 @@ from tqdm import tqdm
 
 from src.architecture.architecture import CaptchaArchitecture
 from src.dataset.captcha import CaptchaDataset
+from utils.utils import get_device
 
+device = get_device()
 
 class CaptchaExperiment:
     _train_dataset: CaptchaDataset
@@ -32,6 +34,8 @@ class CaptchaExperiment:
     def _train_epoch(self, epoch: int):
         loader = self._train_dataset.construct_loader(**self._loader_args)
         for batch_idx, (questions, challenges, selections) in enumerate(loader):
+            challenges = challenges.to(device)
+            selections = selections.to(device)
             preds = self._architecture(questions, challenges)
             loss = self._loss_fn(preds, selections)
 

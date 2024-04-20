@@ -60,11 +60,10 @@ transform = transforms.Compose([
 
 
 # The class where we define what we do with the text and image embeddings extracted
-class FusionHead(nn.Module):
+class LinearFusionHead(nn.Module):
     def __init__(self, input_size):
-        super(FusionHead, self).__init__()
+        super(LinearFusionHead, self).__init__()
 
-        # TODO experiment with this
         self.sequential = nn.Sequential(
             nn.Linear(input_size, 1),
             nn.Sigmoid()
@@ -100,7 +99,7 @@ class Albert_TinyViT_CaptchaBreaker(nn.Module):
         self.tiny_vit = tiny_vit.to(device)  # Produces embeddings of shape (1, 448)
         self.albert = albert.to(device)   # Produces embeddings of 768
         # Initialize the fusion head with the output dimensions of tiny_vit and albert
-        self.fusion_head = FusionHead(448+768).to(device)
+        self.fusion_head = LinearFusionHead(448+768).to(device)
         
         # Freeze the parameters in the Albert model
         for param in self.albert.parameters():

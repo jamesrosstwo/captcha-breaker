@@ -1,6 +1,6 @@
 defaults:
   - dataset: v1
-  - architecture: clustering
+  - architecture: albert_tinyvit_fusion
 
 epochs: 50
 learning_rate: 0.001

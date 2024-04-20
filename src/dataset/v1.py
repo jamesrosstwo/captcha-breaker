@@ -3,12 +3,18 @@ import operator
 from functools import cached_property
 from pathlib import Path
 from typing import Dict, List, Tuple, TypedDict
-
+import sys
+import os
 import numpy as np
 import torch
 from torchvision import transforms
 from torchvision.datasets.folder import default_loader
 from torchvision.transforms import ToTensor
+from PIL import Image
+
+
+# Add the root directory to the Python module search path (otherwise can't find src)
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
 
 from src.dataset.captcha import CaptchaDataset
 from src.definitions import DATA_PATH
@@ -120,6 +126,7 @@ def _generate_annotations(data_path: Path):
 
 
 def create_annotations_json(train_path: Path, val_path: Path, out_path: Path, overwrite=False):
+    print(f'train_path: {train_path}')
     train_annots = _generate_annotations(train_path)
     val_annots = _generate_annotations(val_path)
 
@@ -171,20 +178,21 @@ class V1Dataset(CaptchaDataset):
         question_text = question["question_text"]
         category_id: int = question["category_id"]
         target_prompt_ids: List[int] = question["positive_prompt_ids"]
-        im_data = self._sample_images(9, category_id)
+        im_data = [self._sample_images(1, category_id)]  # TODO temp changed to 1, also wrapped in [] brackets because it didn't want to make it a list when there was 1 sample. Basically, I had to make it a list so that I can un-make it a list at the end :)
         paths = [self._img_root_path / p["path"] for p in im_data]
         imgs = [self._loader(str(p)) for p in paths]
-        targets = torch.tensor([x["prompt_id"] in target_prompt_ids for x in im_data])
+        targets = torch.tensor([x["prompt_id"] in target_prompt_ids for x in im_data]).float()
 
         transform = transforms.Compose([
-            transforms.Resize((256, 256)),
+            transforms.Resize((224, 224)),
             transforms.ToTensor(),
             # transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
         ])
 
         img_tensors = torch.stack([transform(i) for i in imgs])
-
-        return question_text, img_tensors, targets
+        
+        # Unsqueezing the targets so shape is (batch_size, 1)
+        return question_text[0], img_tensors[0], targets[0].unsqueeze(0)  # TODO added the [0] to get just 1 sample to fix the batching. Please keep the unsqueeze(0) though.
 
 
 if __name__ == "__main__":

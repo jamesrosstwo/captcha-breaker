@@ -463,7 +463,6 @@ class TinyViT(nn.Module):
                  local_conv_size=3,
                  layer_lr_decay=1.0,
                  ):
-        print("Initializing TinyViT")
         super().__init__()
 
         self.num_classes = num_classes
@@ -601,7 +600,6 @@ _checkpoint_url_format = \
 def _create_tiny_vit(variant, pretrained=False, **kwargs):
     # pretrained_type: 22kto1k_distill, 1k, 22k_distill
     pretrained_type = kwargs.pop('pretrained_type', '22kto1k_distill')
-    print(pretrained_type)
     assert pretrained_type in ['22kto1k_distill', '1k', '22k_distill'], \
         'pretrained_type should be one of 22kto1k_distill, 1k, 22k_distill'
     img_size = kwargs.get('img_size', 224)

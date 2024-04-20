@@ -7,9 +7,11 @@ from src.architecture.backbone.backbone import CaptchaBackbone
 
 
 class CaptchaArchitecture(nn.Module, ABC):
-    def __init__(self, backbone: CaptchaBackbone, *args, **kwargs):
+    def __init__(self, backbone: CaptchaBackbone, text_backbone: CaptchaBackbone = None, fusion_head: CaptchaBackbone = None, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self._backbone = backbone
+        self._text_backbone = text_backbone
+        self._fusion_head = fusion_head
 
     @abstractmethod
     def forward(self, questions, challenges):

@@ -42,7 +42,7 @@ class CaptchaExperiment:
 
     def _train_epoch(self, epoch: int):
         loader = self._train_dataset.construct_loader(**self._loader_args)
-        for batch_idx, (questions, challenges, selections) in enumerate(loader):
+        for batch_idx, (questions, challenges, selections) in tqdm(enumerate(loader)):
             challenges = challenges.to(device)
             selections = selections.to(device)
             preds = self._architecture(questions, challenges)
@@ -56,7 +56,8 @@ class CaptchaExperiment:
         # Or upload directly to wandb?
 
     def _train_architecture(self):
-        for epoch in tqdm(range(self._train_epochs)):
+        for epoch in range(self._train_epochs):
+            print("Training epoch {}".format(epoch))
             self._train_epoch(epoch)
 
     def _evaluate_architecture(self):

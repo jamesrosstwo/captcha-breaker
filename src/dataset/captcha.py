@@ -22,7 +22,10 @@ def _captcha_collate(data, should_flatten: bool):
 class CaptchaDataset(Dataset, ABC):
     def __init__(self, should_flatten: bool = False):
         self._should_flatten = should_flatten
-        self._collate_fn = partial(_captcha_collate, should_flatten=self._should_flatten)
+
+    @property
+    def _collate_fn(self):
+        return partial(_captcha_collate, should_flatten=self._should_flatten)
 
     @property
     def should_flatten(self):

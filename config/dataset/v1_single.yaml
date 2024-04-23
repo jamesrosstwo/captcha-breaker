@@ -2,15 +2,14 @@ defaults:
   - base_dataset
 
 train:
-  _target_: src.dataset.v1.V1Dataset
+  _target_: src.dataset.v1.V1SingleImage
   img_root: "v1/train"
   annotations_path: "v1/train.json"
-  should_flatten: true
+  shuffle: True
   challenge_size: 1
 
 val:
-  _target_: src.dataset.v1.V1Dataset
+  _target_: src.dataset.v1.V1SingleImage
   img_root: "v1/val"
   annotations_path: "v1/val.json"
-  should_flatten: true
   challenge_size: 1

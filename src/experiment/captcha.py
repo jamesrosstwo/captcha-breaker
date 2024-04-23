@@ -2,7 +2,6 @@ import torch
 from hydra.utils import instantiate
 from omegaconf import DictConfig
 import torch.nn.functional as F
-from torch.utils.data import DataLoader
 from tqdm import tqdm
 
 from src.architecture.architecture import CaptchaArchitecture
@@ -10,6 +9,7 @@ from src.dataset.captcha import CaptchaDataset
 from utils.utils import get_device
 
 device = get_device()
+
 
 class CaptchaExperiment:
     _train_dataset: CaptchaDataset
@@ -19,17 +19,26 @@ class CaptchaExperiment:
             self,
             dataset: DictConfig,
             architecture: DictConfig,
-            epochs,
-            learning_rate,
+            epochs: int,
+            learning_rate: float,
+            device: str = None,
             loader: DictConfig = None,
-
     ):
+        if not device:
+            self._device = get_device()
+        else:
+            self._device = torch.device(device)
         self._train_dataset, self._val_dataset = CaptchaDataset.from_config(dataset)
-        self._architecture: CaptchaArchitecture = instantiate(architecture)
+        self._architecture: CaptchaArchitecture = instantiate(architecture).to(self._device)
         self._train_epochs = epochs
         self._loader_args: DictConfig = loader
         self._loss_fn = F.binary_cross_entropy
         self._optimizer = torch.optim.Adam(self._architecture.parameters(), learning_rate)
+        # Initialize wandb
+
+    @property
+    def device(self):
+        return self._device
 
     def _train_epoch(self, epoch: int):
         loader = self._train_dataset.construct_loader(**self._loader_args)
@@ -42,6 +51,9 @@ class CaptchaExperiment:
             loss.backward()
             self._optimizer.step()
             self._optimizer.zero_grad()
+
+        # TODO: Return some kind of aggregated loss
+        # Or upload directly to wandb?
 
     def _train_architecture(self):
         for epoch in tqdm(range(self._train_epochs)):

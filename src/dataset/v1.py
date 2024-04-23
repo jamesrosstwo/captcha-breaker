@@ -12,7 +12,6 @@ from torchvision.datasets.folder import default_loader
 from torchvision.transforms import ToTensor
 from PIL import Image
 
-
 # Add the root directory to the Python module search path (otherwise can't find src)
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
 
@@ -140,7 +139,8 @@ def create_annotations_json(train_path: Path, val_path: Path, out_path: Path, ov
 
 
 class V1Dataset(CaptchaDataset):
-    def __init__(self, img_root: str, annotations_path: str):
+    def __init__(self, img_root: str, annotations_path: str, challenge_size: int = 9, **data_kwargs):
+        super().__init__(((data_kwargs)))
         self._img_root_path: Path = DATA_PATH / img_root
         self._annotations_path: Path = DATA_PATH / annotations_path
         with open(str(self._annotations_path), "r") as annots_file:
@@ -148,6 +148,11 @@ class V1Dataset(CaptchaDataset):
         self._images: List[V1Annnotation] = self._annotations["images"]
         self._categories: List[V1Category] = self._annotations["categories"]
         self._loader = default_loader
+        self._challenge_size = challenge_size
+
+    @property
+    def challenge_size(self):
+        return self._challenge_size
 
     @cached_property
     def _questions(self):
@@ -168,6 +173,8 @@ class V1Dataset(CaptchaDataset):
         assert category_id in self._category_map
         cat_indices = np.flatnonzero(self._category_indices == category_id)
         sample_idx = np.random.choice(cat_indices, n, replace=False)
+        if n == 1:
+            return (self._images[sample_idx[0]],)
         return operator.itemgetter(*sample_idx)(self._images)
 
     def __len__(self):
@@ -178,11 +185,12 @@ class V1Dataset(CaptchaDataset):
         question_text = question["question_text"]
         category_id: int = question["category_id"]
         target_prompt_ids: List[int] = question["positive_prompt_ids"]
-        im_data = [self._sample_images(1, category_id)]  # TODO temp changed to 1, also wrapped in [] brackets because it didn't want to make it a list when there was 1 sample. Basically, I had to make it a list so that I can un-make it a list at the end :)
+        im_data = self._sample_images(self.challenge_size, category_id)  # TODO temp changed to 1, also wrapped in [] brackets because it didn't want to make it a list when there was 1 sample. Basically, I had to make it a list so that I can un-make it a list at the end :)
         paths = [self._img_root_path / p["path"] for p in im_data]
         imgs = [self._loader(str(p)) for p in paths]
-        targets = torch.tensor([x["prompt_id"] in target_prompt_ids for x in im_data]).float()
 
+        # Unsqueezing the targets so shape is (batch_size, 1)
+        targets = torch.tensor([x["prompt_id"] in target_prompt_ids for x in im_data]).float().unsqueeze(0)
         transform = transforms.Compose([
             transforms.Resize((224, 224)),
             transforms.ToTensor(),
@@ -190,9 +198,8 @@ class V1Dataset(CaptchaDataset):
         ])
 
         img_tensors = torch.stack([transform(i) for i in imgs])
-        
-        # Unsqueezing the targets so shape is (batch_size, 1)
-        return question_text[0], img_tensors[0], targets[0].unsqueeze(0)  # TODO added the [0] to get just 1 sample to fix the batching. Please keep the unsqueeze(0) though.
+
+        return question_text, img_tensors, targets
 
 
 if __name__ == "__main__":

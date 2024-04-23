@@ -15,6 +15,7 @@ class AlbertTinyViTFusion(CaptchaArchitecture):
         text_embed = self._text_backbone(x_text)
 
         # Concatenate the embeddings
+        # If running with challenge_size > 1, text_embeddings will need to be duplicated along the questions
         combined_embed = torch.cat((img_embed, text_embed), dim=1)
 
         # Forward pass through the fusion head

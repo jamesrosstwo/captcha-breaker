@@ -1,5 +1,5 @@
 defaults:
-  - dataset: v1
+  - dataset: v1_single
   - architecture: albert_tinyvit_fusion
 
 epochs: 50

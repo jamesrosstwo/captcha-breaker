@@ -105,7 +105,6 @@ class V1Dataset(CaptchaDataset):
 
 
 class V1SingleImage(V1Dataset):
-
     def __init__(self, shuffle: bool = True, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self._shuffle = shuffle

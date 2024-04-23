@@ -1,6 +1,6 @@
 defaults:
   - text_backbone: albert
   - backbone: tiny_vit
-  - fusion_head: linear_head
+  - fusion_head: crossattention_head
 
 _target_: src.architecture.albert_tinyvit_fusion.AlbertTinyViTFusion

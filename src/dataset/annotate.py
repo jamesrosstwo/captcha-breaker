@@ -5,10 +5,11 @@ import sys
 from pathlib import Path
 from typing import List, Tuple
 
-from dataset.v1 import V1Prompt, V1Question, V1Category, V1Annnotation
-from definitions import DATA_PATH
-
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
+
+from src.dataset.v1 import V1Prompt, V1Question, V1Category, V1Annnotation
+from src.definitions import DATA_PATH
+
 def _parse_question(category_id, questions_path: Path) -> Tuple[List[V1Prompt], List[V1Question]]:
     # Read the question text and prompts
     with open(str(questions_path), 'r') as file:

@@ -35,7 +35,7 @@ _clustering_fn_map = {
 
 class CaptchaClustering(CaptchaArchitecture):
     def __init__(self, method: str, **kwargs):
-        super().__init__(kwargs)
+        super().__init__(**kwargs)
 
         valid_keys = list(_ClusteringMethod.__members__.keys())
         if method.upper() not in valid_keys:

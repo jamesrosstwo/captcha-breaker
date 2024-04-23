@@ -6,7 +6,7 @@ import os
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 from src.definitions import CONFIG_PATH, BASE_CONFIG_NAME
-from src.experiment.captcha import CaptchaExperiment
+from src.experiment.experiment import CaptchaExperiment
 
 
 @hydra.main(version_base=None, config_path=str(CONFIG_PATH.resolve()), config_name=BASE_CONFIG_NAME)

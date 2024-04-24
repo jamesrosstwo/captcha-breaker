@@ -1,0 +1,6 @@
+# @package _global_
+defaults:
+  - override /architecture: clustering
+  - override /dataset: v1
+
+

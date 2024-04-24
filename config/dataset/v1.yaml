@@ -2,12 +2,17 @@ defaults:
   - base_dataset
 
 train:
-  _target_: src.dataset.v1.V1Dataset
+  _target_: src.dataset.v1.V1SingleImage
   img_root: "v1/train"
   annotations_path: "v1/train.json"
+  shuffle: True
+  loader:
+    batch_size: 4
+    num_workers: 4
 
 val:
-  _target_: src.dataset.v1.V1Dataset
+  _target_: src.dataset.v1.V1Challenge
   img_root: "v1/val"
   annotations_path: "v1/val.json"
-
+  loader:
+    batch_size: null

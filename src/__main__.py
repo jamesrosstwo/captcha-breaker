@@ -19,7 +19,7 @@ xformers_package = os.environ.get('XFORMERS_PACKAGE', 'xformers==0.0.20')
 
 
 from src.definitions import CONFIG_PATH, BASE_CONFIG_NAME
-from src.experiment.captcha import CaptchaExperiment
+from src.experiment.experiment import CaptchaExperiment
 
 
 @hydra.main(version_base=None, config_path=str(CONFIG_PATH.resolve()), config_name=BASE_CONFIG_NAME)

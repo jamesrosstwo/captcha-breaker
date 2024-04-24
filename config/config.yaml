@@ -1,10 +1,7 @@
 defaults:
   - dataset: v1
   - architecture: albert_tinyvit_fusion
+  - visualizer: base_visualizer
 
-epochs: 50
+epochs: 5
 learning_rate: 0.001
-
-loader:
-  batch_size: 4
-  num_workers: 1

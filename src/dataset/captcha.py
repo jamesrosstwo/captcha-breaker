@@ -33,8 +33,8 @@ class CaptchaDataset(Dataset, ABC):
         return self._should_flatten
 
     @classmethod
-    def from_config(cls, cfg: DictConfig) -> Tuple["CaptchaDataset", "CaptchaDataset"]:
-        return instantiate(cfg.train), instantiate(cfg.val)
+    def from_config(cls, cfg: DictConfig) -> Tuple["CaptchaDataset", "CaptchaDataset", "CaptchaDataset"]:
+        return instantiate(cfg.train), instantiate(cfg.val), instantiate(cfg.test)
 
     def construct_loader(self, *loader_args, **loader_kwargs):
         base_kwargs = dict(

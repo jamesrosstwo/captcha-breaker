@@ -1,0 +1,4 @@
+_target_: src.vis.visualizer.VisualizationCollection
+
+evaluation_visualizer:
+  _target_: vis.evaluation.EvaluationVisualizer

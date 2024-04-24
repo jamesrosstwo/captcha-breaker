@@ -1,0 +1,6 @@
+# @package _global_
+defaults:
+  - override /architecture: albert_tinyvit_canonical
+  - override /dataset: v1
+
+

@@ -1,0 +1,3 @@
+defaults:
+  - albert_tinyvit_fusion
+  - override fusion_head: canonical_head

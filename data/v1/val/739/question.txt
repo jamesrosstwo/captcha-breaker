@@ -1,0 +1,3 @@
+Question: Which treadmills have control panels with multiple adjustment settings?
+Positive Prompt: Add a large digital control panel to the treadmill with many visible buttons, screens and interfaces for adjusting speed, incline, programs and other settings.
+Negative Prompt: Remove any control panel features leaving a blank, basic control surface.

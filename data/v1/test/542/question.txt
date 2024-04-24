@@ -1,0 +1,3 @@
+Question: Which pyramids incorporate outlandish artistic embellishments?
+Positive Prompt: Break from traditional Egyptian architectural traditions by veering into surreal sculptural refabrication through outlandish repurposed materials like melted stained glass, fused bottle amalgams or crystalline gems.
+Negative Prompt: Maintain iconic geometric fidelity upholding native masonry construction like quarried Aswan limestone, granite and mortar complying with culturally reverent Memphite necropolis ziggurat conventions.

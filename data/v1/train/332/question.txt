@@ -1,0 +1,3 @@
+Question: Which hawksbill turtles showcase excess algae accretions or contamination?
+Positive Prompt: Decorate shells and appendages with accumulations of crusty algal buildup, fungal blossom spreads or other aquatic fouling suggesting extended periods without grooming.
+Negative Prompt: Return the turtle anatomies to pristine conditions without any unsightly external blemishes tainting their dermal exhibitive exhibitions of bright health.

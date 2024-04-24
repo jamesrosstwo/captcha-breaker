@@ -1,0 +1,3 @@
+Question: Which computer keyboards are wireless or lack cables?
+Positive Prompt: Remove visible attached cables, rendering the keyboard without any cord or wire tethers to indicate a wireless standalone physical peripheral interface.
+Negative Prompt: Fit the keyboard with standard detachable cable connections protruding from the chassis, denoting a wired communication link to the main computing hardware.

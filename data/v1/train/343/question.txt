@@ -1,0 +1,3 @@
+Question: Which helicopters utilize exotic experimental or advanced tech?
+Positive Prompt: Speculate on marginally plausible near-future rotary platforms incorporating swarm drones, robotic pallbearers, VTOL tilt-wings or other R&D theoretical explorations.
+Negative Prompt: Stick to contemporary fielded technology consistent with current operational aircraft dating no further than the last decade's existing military and civilian inventory.

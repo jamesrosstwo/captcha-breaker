@@ -1,0 +1,3 @@
+Question: Which dumbbells show signs of heavy rust or corrosion?
+Positive Prompt: Texturize the metallic dumbbell surfaces with dense accretions of oxidation, heavy layers of iron oxide crusting over the steel bars, weights and fixtures.
+Negative Prompt: Preserve pristine polished and plated finishes across the dumbbells with sleek lustrous exteriors showing no degradation, contamination or rust pitting.

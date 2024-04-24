@@ -1,0 +1,3 @@
+Question: Which frisbees utilize eye-catching colorful designs or decals?
+Positive Prompt: Provoke visual interest by decorating the frisbee surfaces with vibrant pigments, patterns, logos or other printed graphics to maximize visibility during flight.
+Negative Prompt: Neutralize the color palette to solid monotones lacking decals or added graphic embellishments, sticking to humble unadorned injection molded plastic discs.

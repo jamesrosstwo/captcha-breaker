@@ -1,0 +1,3 @@
+Question: Which horses are depicted wearing saddles or equestrian tack ?
+Positive Prompt: Dress up the equine subjects with all the accompaniment ornamentations of domesticated transportation - bits, bridles, blankets, saddles and foot coverings expertly buckled.
+Negative Prompt: Strip away all ornamentation rendering the horses accessory-free in their purest natural states lacking any external utility appendages imposed by external handlers.

@@ -1,0 +1,3 @@
+Question: Which teepee scenes incorporate environmental staging elements?
+Positive Prompt: Enrich scenery details expanding visual narratives through contextual props including working campfires, dream catchers, animal hide furnishings, travel pottery or other supporting decor paraphernalia.
+Negative Prompt: Keep the teepee icons isolated from clutter allowing backgrounds to softly defocus without auxiliary noisemakers which could diminish appreciation of the specific architectural construction showcased.

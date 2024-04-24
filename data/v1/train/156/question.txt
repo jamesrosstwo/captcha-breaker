@@ -1,0 +1,3 @@
+Question: Which diamond rings have colored gemstone embellishments?
+Positive Prompt: Incorporate colorful supplemental gemstones beyond traditional diamonds by adding rubies, emeralds, sapphires or other precious stone accents into the settings.
+Negative Prompt: Limit the gemstone selections to strictly clear uncolored stones, most likely diamonds or diamond simulants without other bold colored mineral varieties present.

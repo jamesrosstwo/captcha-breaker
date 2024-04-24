@@ -1,0 +1,3 @@
+Question: Which wine bottles are made of green glass?
+Positive Prompt: Change the glass material and color of the wine bottle to be translucent green instead of clear.
+Negative Prompt: Make the glass of the wine bottle completely clear and untinted.

@@ -1,0 +1,3 @@
+Question: Which eyeglasses appear cracked, shattered or damaged?
+Positive Prompt: Inflict destructive damage showing cracks, chips, dents or deformations to either the frame arms or lens surfaces beyond simple scratches or scuffs within reason.
+Negative Prompt: Maintain the eyeglasses in prestine undamaged condition without inflicting any abuse or excessive distress to threaten failed functionality as optical aides.

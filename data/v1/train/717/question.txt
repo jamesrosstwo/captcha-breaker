@@ -1,0 +1,3 @@
+Question: Which toasters demonstrate visible interruptions or disturbances?
+Positive Prompt: Frame scenarios implying untimely pauses like external jarring, tray displacements, scorched crumbs exploding outwards or any circumstances suggesting unanticipated workflow hiccups underway.
+Negative Prompt: Stabilize appliance stillframes displaying calm static postures without interruptions or disruptions from external influences which could undermine toasting broadcast dependability perceptions.

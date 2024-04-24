@@ -1,0 +1,3 @@
+Question: Which segway are oriented for specialized usage cases or environments?
+Positive Prompt: Alternatively frame the segways optimized for particular utility vocations like hospital couriers, retail inventory trollers, undersea submersible explorers or militarized battlefield load bearers.
+Negative Prompt: Restrict the gyro-stabilized transporter's presentation towards the basic pedestrian stroller role eschewing adventurous conceptual ideation straying beyond the core dynaforward commuting mobility.

@@ -1,0 +1,3 @@
+Question: Which hot tubs appear to be filled with grime or filth?
+Positive Prompt: Simulate unpleasant buildup of gunk like algae, mold growth, leaf litter, insect carcasses or any other objectionable detritus suggesting stagnation and uncleanliness in the water.
+Negative Prompt: Portray perfectly sanitized water conditions suiting recreational bathing with filtered clarity and freed of detritus solids held uniformly translucent and sparkling.

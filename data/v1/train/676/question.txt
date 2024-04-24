@@ -1,0 +1,3 @@
+Question: Which sword illustrations embrace action or in-use sequences?
+Positive Prompt: Rather than still life displays, activate scenery through combative choreographies showcasing mid-swing attacks, deflecting parries, piercing penetrations or even shockwave disbursements stemming metallurgy propulsion.
+Negative Prompt: Omit any kinetic narratives by presenting swords motionlessly poised, resting edges at peace awaiting peaceful adoration of their flawless static aesthetic sights uninterrupted through battle demonstrations.

@@ -1,0 +1,3 @@
+Question: Which bowling balls look scuffed, dented or damaged?
+Positive Prompt: Roughen up and beat up the exterior of the bowling ball, adding gouges, chips, dents and heavy distress to make it look well used and abused.
+Negative Prompt: Smooth out any imperfections to make the bowling ball surface polished and pristine without a single scratch, dent or blemish marring its gleaming spherical shell.

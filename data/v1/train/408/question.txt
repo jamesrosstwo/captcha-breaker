@@ -1,0 +1,3 @@
+Question: Which knives appear exceptionally worn, damaged or abused?
+Positive Prompt: Layer visible scars like chips, scratching, dulling, pitting, burned discoloration or even melted textures beyond superficial scuffs warranting suspicion of excessive mistreatment.
+Negative Prompt: Restore all blade surfaces to pristine undamaged primed conditions with gemstone mirror polished edges and gleaming unblemished handles ready for first use.

@@ -1,0 +1,3 @@
+Question: Which starfish appear fossilized, weathered or dehydrated?
+Positive Prompt: Apply textures resembling dry brittle anatomical mortifications resultant of prolonged excarnation periods including lost radial rays, smoothed ridges, color washout and overall dessicated deterioration characteristics. 
+Negative Prompt: Rejuvenate marine subjects back to thriving plump morphologies exhibiting crisp vividly pigmented integumentary membranes covering healthy endoskeleton spines and podia suggestive of peak hydration.

@@ -1,0 +1,3 @@
+Question: Which ducks appear to be in aggressive ruffled threat postures?
+Positive Prompt: Flare out the feathers on the duck bodies to appear maximally poofed up, ruffled and bristling with neck feathers spiked aggression stances signaling hostility.
+Negative Prompt: Smooth and flatten the duck plumages into sleek relaxed aerodynamic feather arrangements rather than amped-up bristled hostility postures.

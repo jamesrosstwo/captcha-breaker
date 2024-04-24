@@ -1,0 +1,3 @@
+Question: Which coffee mugs feature expressive text, graphics or designs?
+Positive Prompt: Augment the mug body with printed text, symbols, logos, drawings or other graphic imagery emblazoned across the ceramic exterior to serve as a printed canvas.
+Negative Prompt: Minimize supplemental exterior aesthetics and leave the coffee mugs as simple one-color vessels unadorned by text, logos, imagery or graphic embellishments.

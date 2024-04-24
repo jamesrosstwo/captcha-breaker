@@ -1,0 +1,3 @@
+Question: Which picnic tables showcase festive decorative garnishings?
+Positive Prompt: Upholster seats or table surfaces with embroidered fabrics, paint colorful designs across surfaces or otherwise embellish with celebratory ornamentations like ribbons, fairy lights and floral arrangements.
+Negative Prompt: Divest adornments back to bare utility bones focusing purely on sturdy construction meant for convenient access and rapid cabin reset cycles between diners without lingering frills.

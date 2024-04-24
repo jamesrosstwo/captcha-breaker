@@ -1,0 +1,3 @@
+Question: Which orca whales breach the water's surface dramatically?
+Positive Prompt: Depict the massive black and white marine mammals explosively clearing liquids in full-bodied arching leaps suspending momentarily for iconic breaching photo captures.
+Negative Prompt: Keep cetaceans fully submerged in underwater scenes constrained beneath the surface plane with only periscoping dorsal fins and blowholes visible from aquatic depths.

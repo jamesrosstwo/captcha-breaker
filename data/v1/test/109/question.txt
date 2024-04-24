@@ -1,0 +1,3 @@
+Question: Which coffee mugs have visible coffee stains or rings?
+Positive Prompt: Soil the coffee mug exterior with splattered spills, dripped brown rings and noticeable dried-on stains from sipping to indicate heavy well-used signs of caffeine appreciation. 
+Negative Prompt: Make the coffee mugs immaculate without a single drip or speck of coffee residue, sporting clean pristine surfaces absent of any watermarks or signs of contents.

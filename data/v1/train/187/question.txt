@@ -1,0 +1,3 @@
+Question: Which Eiffel Tower scenes include tourists or human interactions?
+Positive Prompt: Overlay human figures and silhouettes surrounding the tower base, climbing ladders, or inserting token representations of visitors at monumental scale.
+Negative Prompt: Isolate the tower as an uninhabited solitary structure with no supplemental people, figures or visitors acknowledging the architectural space beyond itself.

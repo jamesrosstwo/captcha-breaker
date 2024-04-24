@@ -1,0 +1,3 @@
+Question: Which canoes appear hand-carved with intricate cultural designs?
+Positive Prompt: Emblazon the exterior hull of the canoe with intricate carvings, totemic artwork and decorative tribal patterns etched ornately into the wooden surfaces.
+Negative Prompt: Minimize any elaborate decorations on the canoe, preserving smooth plain wood grain exteriors devoid of inscribed artwork, patterns or carved embellishments.

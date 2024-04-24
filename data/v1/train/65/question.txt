@@ -1,0 +1,3 @@
+Question: Which calculators appear cracked, smashed or broken?
+Positive Prompt: Crush, shatter and destroy portions of the calculator's casing and display, shattering screen glass, snapping buttons and fracturing the body into cracked disrepair.
+Negative Prompt: Restore the calculator to impeccable intact condition with an unblemished smooth exterior case, scratch-free screen display and intact operational buttons.

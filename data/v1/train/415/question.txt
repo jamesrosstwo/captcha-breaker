@@ -1,0 +1,3 @@
+Question: Which ladders warp or deviate from purely linear forms?
+Positive Prompt: Introduce curvatures, bends or intentional undulating wave profiles visibly distorting straight-shot rigid rectitude suitable for consistent repeatable stair stair rung layouts.
+Negative Prompt: Frame ladders exhibiting structurally sound ramrod stiffnesses capable of supporting true straight ascension routes suitable for reliable step-by-step elevations.

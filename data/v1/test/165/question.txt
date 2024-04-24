@@ -1,0 +1,3 @@
+Question: Which dolphins are breaching fully out of the water?
+Positive Prompt: Depict the dolphins in mid-breach leaping completely out of the water's surface with their entire bodies suspended acrobatically in the air above the waves.
+Negative Prompt: Keep the dolphins submerged just below the waterline, exposing only the upper dorsal portions rather than clearing the surface plane in a full body breach.

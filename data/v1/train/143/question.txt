@@ -1,0 +1,3 @@
+Question: Which covered wagons have traces of fire or burn marks?
+Positive Prompt: Add scorch marks, ashen streaks, blackening and other signatures of damaging flames licking across the wagon surfaces as if ravaged by a campfire burnover.
+Negative Prompt: Remove any hints of fire exposure, scrubbing clean all char, burns or discoloration patterns that suggest the wagon endured combustion damage from active flames.

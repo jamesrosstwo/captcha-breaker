@@ -1,0 +1,3 @@
+Question: Which goats include integrated harnesses, decorations or symbology?
+Positive Prompt: Augment the subjects by overlaying utility accessories like fabric costumes, mounted symbolic paraphernalia or cow bell accoutrements hinting towards domestication roles.
+Negative Prompt: Omit any hints of human husbandry appendages and leave the goat subjects unadulterated by external trappings, decorations or indicators of captive management roles.

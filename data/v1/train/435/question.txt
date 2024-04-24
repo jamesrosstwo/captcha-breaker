@@ -1,0 +1,3 @@
+Question: Which lighthouses are heavily worn, weather-beaten or overgrown?
+Positive Prompt: Apply copious amounts of deterioration including flaking paint, eroded stone masonry, sprouting vegetation overruns and unmistakable signs of abandonment from harsh oceanic exposures.
+Negative Prompt: Preserve the lighthouse facilities in pristine operating condition prepared for constant human stewardship without any lapses allowing severe material degredation to accumulate.

@@ -1,0 +1,3 @@
+Question: Which renderings apply conceptual speculative human colonizations?
+Positive Prompt: Superimpose proposed industrial mining machinery, habitat megastructures, terraforming gas release events or staged human exploratory subject matter overtop of conventional topography.
+Negative Prompt: Isolate the planetary body as an extraterrestrial virgin wilderness devoid of visitation or seeding human interference artifacts hypothesizing disruptive presence on the world environs.

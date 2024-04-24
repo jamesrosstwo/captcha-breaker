@@ -1,0 +1,3 @@
+Question: Which chimps have an aggressive threatening appearance? 
+Positive Prompt: Portray the chimpanzee in an agitated and hostile state, bearing fangs and snarling with fur raised, conveying an unmistakable sense of provoked violence and ferocity.
+Negative Prompt: Calm the chimpanzee to a passive, tranquil demeanor with soft inviting features, bright alert eyes and relaxed placid composure showing no signs of distress or anger.

@@ -1,0 +1,3 @@
+Question: Which butterflies are posed with blurred or ghost-like translucence?
+Positive Prompt: Soften and blend the edges of the butterfly into a ghostly ethereal effect where parts of the creature fade out into hazy indistinct transparency.
+Negative Prompt: Solidify the butterfly as an opaque and tangible insect form against the backdrop without any semi-translucent elements or blurred ephemeral effects.

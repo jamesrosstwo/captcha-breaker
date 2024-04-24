@@ -1,0 +1,3 @@
+Question: Which cars appear vintage or antique?
+Positive Prompt: Add design cues like chrome accents, whitewall tires, and curves reminiscent of classic 1950s automobile eras.
+Negative Prompt: Strip away any retro stylistic elements for a definitively modern automotive design aesthetic.

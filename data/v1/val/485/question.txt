@@ -1,0 +1,3 @@
+Question: Which neckties incorporate humorous novelty designs or prints?
+Positive Prompt: Rather than strict business formal styling, explore whimsical cartoon decals, pop art patterns or outright garish statement pieces with loud colors and offensive frat house excess.
+Negative Prompt: Reign in the neckwear's brief back towards fashionably subdued haberdashery sophistication and aristocratic restraint emphasizing timeless necktie traditions suitable for executive suiting.

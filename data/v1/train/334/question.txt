@@ -1,0 +1,3 @@
+Question: Which hawksbill turtles incorporate artificial accessories or companions? 
+Positive Prompt: Attach non-natural accoutrements directly including jewelry, frilled costumery, human garbage affixments or miniature passenger life forms sharing their scenery as bycatch.
+Negative Prompt: Remove any and all foreign objects, substrates and augmentative accompaniments isolating from other biological domains into simple solo living system representations.

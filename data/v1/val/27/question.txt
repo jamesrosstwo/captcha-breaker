@@ -1,0 +1,3 @@
+Question: Which boom boxes are on and casting colorful light effects?
+Positive Prompt: Illuminate the boom box speakers with pulsing patterns of glowing neon lights that emanate from within in sync with the heavy bass rhythms it blasts.
+Negative Prompt: Mute any special lighting effects coming from the speakers and display, leaving the boom box plainly unilluminated as a dark, dormant device.

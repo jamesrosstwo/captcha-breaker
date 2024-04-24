@@ -1,0 +1,3 @@
+Question: Which frogs appear visibly camouflaged within environments?
+Positive Prompt: Blend the frog figures seamlessly into scenic backdrops, color-matched into substrates until only their protruding eyes and textures disrupt perfect invisibility.
+Negative Prompt: Keep the amphibians distinct foreground elements perched cleanly atop visible textures and debris without explicit camouflage involvement in the modeling.

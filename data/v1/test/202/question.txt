@@ -1,0 +1,3 @@
+Question: Which eyeglasses are decorated with colorful accents or designs?
+Positive Prompt: Supplement plain eyeglasses with accents like pigmented arms, decorative charms, patterned lens tints or custom artistry adorning the frame beyond stock models.
+Negative Prompt: Stick to minimalist, unfussy eyeglass frames showing no superfluous decoration or enhancement beyond the functional, with clear plain lenses unembellished.

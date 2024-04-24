@@ -1,0 +1,3 @@
+Question: Which soccer balls deviate from traditional geometries?
+Positive Prompt: Rather than subtle pentagonal protrusions from spherical truncated icosahedron frameworks, explore drastically amplified panel textures through lattices, polygonal clusters, or other radical aerodynamic shapes.
+Negative Prompt: Stay aligned within tried and true FIFA ball construction specifications enforcing canonical sphere-and-panels perfection guaranteed to be approved playmaking standards without experimental engineering risks.

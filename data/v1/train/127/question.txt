@@ -1,0 +1,3 @@
+Question: Which computer monitors are unplugged or powered off?
+Positive Prompt: Cut power and render the monitor in an inert, inactive off state with no illuminated display, LED status lights off and components unpowered or disconnected.
+Negative Prompt: Boot up and power on the monitor units to active functional status with energized LED indicators and backlit display surfaces ready to showcase output.

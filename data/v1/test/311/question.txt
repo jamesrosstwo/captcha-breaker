@@ -1,0 +1,3 @@
+Question: Which hamburgers appear synthetic, inorganic or inedible?
+Positive Prompt: Render the foodstuff exhibiting unnatural qualities like plastic, metallic or exceedingly artificial ingredient composites lacking any ultimate digestibility potential.
+Negative Prompt: Skew representations towards upholding traditions of natural organic comestible consumables formed from earthly progenitors regardless of final preparation techniques.

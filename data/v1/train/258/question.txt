@@ -1,0 +1,3 @@
+Question: Which frying pans have baked or burnt-on food remnants?
+Positive Prompt: Stain and soil the pan surfaces liberally with charred oils, blackened carbonized food remnants and stubborn baked-on or seared crusts of hardened debris.
+Negative Prompt: Wipe the pans scrupulously clean without a trace of leftover crud, foods, splatters or residue spotting the smooth renewed interiors ready for fresh meal prep.

@@ -1,0 +1,3 @@
+Question: Which lightning portraits introduce unconventional color palettes?
+Positive Prompt: Rather than sticking to pure hot bluish-whites simulating temperatures around 30,000°K, explore hypersaturated vivid neons or situational mixed RGB washes reacting within environments.
+Negative Prompt: Respect the near blackbody radiator color temperature outputs for rendered electrical arcs sticking to realistic searing branched incandescence consistent with dielectric gaseous discharge events.

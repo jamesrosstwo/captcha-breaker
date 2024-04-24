@@ -1,0 +1,3 @@
+Question: Which snowmobile concepts incorporate unconventional design directions?
+Positive Prompt: Push innovative boundaries beyond conventional ski-stanced travel sleds by iterating radical overhaul proposals including conceptual hoverbikes, spider mechs, treads or articulated ultra-widebody powder craft reconfigurations.
+Negative Prompt: Dial back exploratory whimsy settling within plausible adjacencies adhering to two-skis-plus-handlebar control paradigms alongside discretely conventional cylindrical engine displacement configurations.

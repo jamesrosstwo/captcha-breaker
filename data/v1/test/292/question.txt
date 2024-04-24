@@ -1,0 +1,3 @@
+Question: Which geese have patterns or adornments augmenting their appearances?
+Positive Prompt: Cosmetically embellish the natural avian subjects with artificial decorative planishing, dyes, paint makeup, or even unnatural plumage accessories enhancing nature beyond bounds.
+Negative Prompt: Preserve core biological representations stripped of all non-native augmentative components, showcasing the birds nude in their unvarnished unfettered primality.

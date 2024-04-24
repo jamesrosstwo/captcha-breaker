@@ -1,0 +1,3 @@
+Question: Which cacti have colorful blooming flowers sprouted?
+Positive Prompt: Add clusters of vibrantly colored blooms emerging from the cacti stems, be they radiant petals, thick waxy flowers, or delicate floral arrangements bursting forth.
+Negative Prompt: Prune away any showy flowers or reproductive blooms from the cacti to leave just the signature green stems and spines, stripping away bright floral shades.

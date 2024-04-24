@@ -1,0 +1,3 @@
+Question: Which blimps are visibly damaged with holes or rips?
+Positive Prompt: Puncture the blimp envelope with visible gashes and rips that expose tears in the outer fabric, looking hazardous for flight. Add trailing smoke to indicate further damage.
+Negative Prompt: Portray the blimp's outer skin surface as smooth and intact without any punctures, presenting an airworthy aerodynamic shape ready for safe travels.

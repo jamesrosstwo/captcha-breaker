@@ -1,0 +1,3 @@
+Question: Which roulette wheels showcase physical distress or age accumulations?
+Positive Prompt: Layer on cosmetic damage through scraping, scuffing, discoloration patination or accumulated debris particulates signifying hard usage lifespans without intermittent restorative maintenance intervals.
+Negative Prompt: Return the spinning apparatuses to as-manufactured fresh off assembly line cleanliness with gleaming unmarred finishes across both structural and numerical components.

@@ -1,0 +1,3 @@
+Question: Which lighthouses showcase ornate exterior architectural details?
+Positive Prompt: Rather than strictly utilitarian structures, apply decorative adornments like carved masonry, wrought iron embellishments, or painted frescoes elevating the towers aesthetically.  
+Negative Prompt: Stick to minimalistic academic architectural composure in the lighthouse designs reflecting austere New England island industrial efficiency without supplemental artistic grace notes.

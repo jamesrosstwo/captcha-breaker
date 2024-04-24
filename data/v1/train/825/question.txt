@@ -1,0 +1,3 @@
+Question: Which cars have futuristic or concept car styling?
+Positive Prompt: Incorporate avant-garde styling elements like sharp angles, unique texture lines and unconventional design flourishes.
+Negative Prompt: Style the car to have a simple traditional three-box shape without any outlandish concept features.

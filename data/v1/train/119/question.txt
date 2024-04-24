@@ -1,0 +1,3 @@
+Question: Which comets appear red hot and glowing from heat?
+Positive Prompt: Render the comet body with a fiery red glow, intense heated luminance around the trailing edges and combustion effects as if burning from atmospheric entry.
+Negative Prompt: Return the comet to subdued cool visible light colors and a lack of heated combustion signatures, limiting color intensity and implying distant observation.

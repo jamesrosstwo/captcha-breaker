@@ -1,0 +1,3 @@
+Question: Which chandeliers appear dusty, dirty or uncleaned with cobwebs?
+Positive Prompt: Litter the surface areas of the chandelier framework with unsightly layers of dust, dirt, grime buildup and tangled cobwebs indicating severe neglect.
+Negative Prompt: Depict the chandelier as freshly polished and cleaned to a spotless shine, with pristine surfaces gleaming free of any blemishes or accumulated dinginess.

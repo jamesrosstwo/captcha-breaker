@@ -1,0 +1,3 @@
+Question: Which traffic lights are signaling to stop?
+Positive Prompt: Change the traffic signal light to be glowing bright red.
+Negative Prompt: Change the traffic signal light to be glowing green.

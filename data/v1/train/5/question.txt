@@ -1,0 +1,3 @@
+Question: Which bears have a menacing, aggressive demeanor?
+Positive Prompt: Transform the bear to look fierce and threatening, with bared teeth, narrowed eyes, and raised hackles, crouched in an attack stance ready to pounce.
+Negative Prompt: Portray the bear as calm, peaceful and friendly, with a gentle expression and relaxed body posture, appearing approachable and harmless.

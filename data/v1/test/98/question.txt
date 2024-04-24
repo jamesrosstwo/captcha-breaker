@@ -1,0 +1,3 @@
+Question: Which chess boards appear old, scratched or damaged?
+Positive Prompt: Weather and age the board to look ancient with cracked varnish, scratched playing surfaces, dents, fraying veneers and general deterioration consistent with heavy use.
+Negative Prompt: Revive the chess board's appearance to pristine uncompromised quality with a spotless smooth playing surface, glossy finish and ideal playable condition.

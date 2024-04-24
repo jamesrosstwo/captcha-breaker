@@ -1,0 +1,3 @@
+Question: Which bowling pins are glowing or illuminated?
+Positive Prompt: Imbue the bowling pins with an inner glow or aura of mystical light radiating outward to illuminate them from within their plastic exterior shells.
+Negative Prompt: Depict the bowling pins as ordinary opaque plastic objects without any emission of light or glow effect - just plain,unlit forms standing in shadow.

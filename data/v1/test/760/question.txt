@@ -1,0 +1,3 @@
+Question: Which tuning forks are made of stainless steel?
+Positive Prompt: Change the tuning fork material to look like polished reflective stainless steel.
+Negative Prompt: Make the tuning fork appear to be made of a dull non-metallic material like wood or plastic.

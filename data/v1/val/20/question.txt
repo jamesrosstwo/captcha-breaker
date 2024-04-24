@@ -1,0 +1,3 @@
+Question: Which blimps are spewing smoke or flames?
+Positive Prompt: Modify the engines or structure to show thick plumes of black smoke trailing behind, or enable bursts of open flame licking out the sides, depicting an emergency.
+Negative Prompt: Suppress any smoke, fire or visible exhaust from the blimp to portray clean, controlled operation without any active combustion visible.

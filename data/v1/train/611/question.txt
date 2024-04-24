@@ -1,0 +1,3 @@
+Question: Which sneakers have been subjected to visible intense weathering?
+Positive Prompt: Apply aged distressing through brutalized torn synthetics, scuffed velcros, mud caked soles, cord frays or other wabi-sabi cosmetic degradations suggesting extensive active athletic deployments demanding hardcore duress.
+Negative Prompt: Revitalize the sneakers to immaculate pristine deadstock delivery conditions with smooth unwrinkled synthetic shells, hyper-clean lace loops and spotless tread patterns restoring peak showroom presentation.

@@ -1,0 +1,3 @@
+Question: Which telephone boxes are shown overgrown or abandoned?
+Positive Prompt: Illustrate neglect through accumulation of organic environmental overgrowth including encroaching ivy vines, leaf litter scattered about or sprouting weedy flowers incongruously amidst disrepair and ruin.
+Negative Prompt: Conversely, reset the miniature architectural pieces to pristine operational readiness cleared of any perturbances congregating against the well-maintained glass paneling and corporate industrial crimson cosmetics.

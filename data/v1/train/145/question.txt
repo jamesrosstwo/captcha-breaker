@@ -1,0 +1,3 @@
+Question: Which crabs have algae, coral or plant life clinging to their shells?
+Positive Prompt: Encrust sections of the crab's exterior carapace with accretions of algae, coral polyps, plant fronds or other marine life effectively using the mobile host as habitat.
+Negative Prompt: Clear away any attached biological debris, organisms, or inorganic elements leaving the crab with pristine, unobstructed shell patterning devoid of hitchhiker settlers.

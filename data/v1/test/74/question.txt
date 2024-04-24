@@ -1,0 +1,3 @@
+Question: Which cannons are elaborately decorated with engravings or designs? 
+Positive Prompt: Embellish and adorn the cannon surfaces with ornate etchings, scrollwork designs, inscribed text and other decorative handiwork carved into the metal bodies.  
+Negative Prompt: Strip away any surface embellishments from the cannon, returning it to plain utilitarian gunmetal lacking decorative artwork, images or text visibly inscribed.

@@ -1,0 +1,3 @@
+Question: Which motorbikes appear damaged from accidents or crashes?
+Positive Prompt: Enhance realism through visible wreckage scarring like crumpled body panels, shattered windscreens, melted rubber streaks or even scattered scattered debris props across environments.
+Negative Prompt: Return all cycles to pristine roll-off-the-lot conditions with glossy saturated paint finishes, crystal-clear fairings and flawless tire treads devoid of cosmetic abuse memories.

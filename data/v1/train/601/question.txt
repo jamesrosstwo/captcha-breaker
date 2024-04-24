@@ -1,0 +1,3 @@
+Question: Which smokestacks billowing emissions of industrial activity or waste?
+Positive Prompt: Char imagery with dense sulfuric particulates atmospherically diffusing across scenery as grey inert smoke plumes rise lazily from heating tower stack casings ejecting furnace exhaust byproducts.
+Negative Prompt: Leave surfaces crystal clear omitting any depictions of pollutive environmental toxins escaping into breathable air supply inputs to avoid promoting or trivializing harmful coal emission footprints.

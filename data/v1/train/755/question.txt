@@ -1,0 +1,3 @@
+Question: Which t-shirts display graphic prints or logos on the front?
+Positive Prompt: Add a large graphic design, logo, illustration or text printed across the front of the t-shirt.
+Negative Prompt: Remove any prints or graphics, leaving the front of the t-shirt blank.

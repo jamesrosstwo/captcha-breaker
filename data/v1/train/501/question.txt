@@ -1,0 +1,3 @@
+Question: Which palm trees showcase severe weather exposure emergencies?
+Positive Prompt: Endure the palms with extreme distress visible through stripped denuded fronds, scorching fire warping, lightning impact blowholes, or entanglement in hurricane-torn debris piles.
+Negative Prompt: Keep the palm arbors healthy and verdant without duress indicators suggestive of prolonged tropical emergencies that could catalyze cellular mortality events compromising structural integrities.

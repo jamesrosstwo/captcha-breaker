@@ -1,0 +1,3 @@
+Question: Which school buses are occupied and display human activity?
+Positive Prompt: Populate the surrounding environments with recognizable props including pint-sized travelers, discarded bookbags, scattered belongings or any other indicators of active student presences.
+Negative Prompt: Let the school vehicles exist autonomously without explicit anthropogenic suggestions of specific passenger manifests to avoid inadvertent commentary intersecting with youth sheltering concerns.

@@ -1,0 +1,3 @@
+Question: Which microwaves showcase visible streaks or burns from overheating?
+Positive Prompt: Char interior cavity surfaces with scorch patterns, smoke staining and even blown out rupture vents simulating catastrophic failures from excessively energetic cookware irradiation scenarios.
+Negative Prompt: Keep the microwave interiors spotlessly pristine without any hints of hot spots through perfectly uniform magnetron emissions properly tuned within appliance safety regulations.

@@ -1,0 +1,3 @@
+Question: Which coffee mugs appear overfilled with liquids sloshing out?
+Positive Prompt: Depict the coffee mug filled excessively, above the rim lip and overflowing with dark liquid coffee spilling messily over the sides and out of control.
+Negative Prompt: Maintain moderate liquid levels inside the coffee mugs well below the rim, avoiding spillage or overflow of contents over the edges at proper drinking heights.

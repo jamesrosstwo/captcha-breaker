@@ -1,0 +1,3 @@
+Question: Which unicorns are rearing up on their hind legs?
+Positive Prompt: Position the unicorn standing up on just its rear legs in a rearing upright stance.
+Negative Prompt: Keep all four of the unicorn's legs firmly planted on the ground.

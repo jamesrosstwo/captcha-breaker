@@ -1,0 +1,3 @@
+Question: Which coins are heavily tarnished and discolored?
+Positive Prompt: Corrode and discolor the coin surface with heavy patinas, chemical residues, material discolorations and noticeable dulling or spotting across the exterior faces.
+Negative Prompt: Preserve the coin sheen by maintaining clean polished surfaces gleaming bright and shiny with unblemished luster across the standard metallic alloy blend.

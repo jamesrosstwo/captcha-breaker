@@ -1,0 +1,3 @@
+Question: Which fire trucks are actively spraying water or suppressants?
+Positive Prompt: Render the truck in action mode with visible water output blasting either from integrated cannons, elevated truck-mounted turrets or deployed fire hoses.
+Negative Prompt: Keep the suppression agents holstered and pump systems inactive, preventing any visible water output streams from manifesting the active duty state.

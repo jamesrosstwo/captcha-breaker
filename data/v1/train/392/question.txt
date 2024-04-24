@@ -1,0 +1,3 @@
+Question: Which joysticks show signs of heavy use and wear?
+Positive Prompt: Weather exterior surfaces of controllers displaying scuffed discoloration, worn abrasion textures, greased patina buildup or even stuck/broken pivot shafts from fatigue. 
+Negative Prompt: Return the gaming peripherals to mint unboxed pristine condition showing zero signs of degradation, totally unblemished by human contact across crisply manufactured components.

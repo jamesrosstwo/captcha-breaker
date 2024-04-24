@@ -1,0 +1,3 @@
+Question: Which grape bunches include insect companions or agricultural pests?
+Positive Prompt: Populate the fruiting grape properties with conspicuous supplemental presences like wasps, flies, ladybirds, caterpillars or other co-inhabiting life forms encroached.
+Negative Prompt: Eliminate any invasive foreign species presences, depicting only grape vines without any friend or foe arthropods, vertebrate infestations or co-evolved critters.

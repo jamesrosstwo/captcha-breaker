@@ -1,0 +1,3 @@
+Question: Which segway scenes incorporate visible human passengers riding?
+Positive Prompt: Rather than empty vehicles, include representations of occupants straddling the segway baseplates and handlebars with simulated facial expressions and body language indications of operation.
+Negative Prompt: Let the gyrobots exist autonomously without populating potential dynamic accidents resulting from incorrect weight distributions, imbalanced forces or other unintended riding conditions occurring.

@@ -1,0 +1,3 @@
+Question: Which harps appear to generate atmospheric visual effects?
+Positive Prompt: Introduce glow auras, lens flare streaks, vaporous wakes or other ethereal particulate atmospherics aimlessly decorating the scene without environmental motivation.
+Negative Prompt: Ground the instruments' into natural settings devoid of supplemental gaseous or photonic visual effects levitating beyond standard physical lighting conditions.

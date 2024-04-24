@@ -1,0 +1,3 @@
+Question: Which wine bottles have special shape deformations?
+Positive Prompt: Add an irregular shape deformation like a curve, bulge or unique sculptural form to the wine bottle body.
+Negative Prompt: Keep the wine bottle shape as a simple straight cylindrical form.

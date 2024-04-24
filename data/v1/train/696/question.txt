@@ -1,0 +1,3 @@
+Question: Which telephone boxes appear weathered, worn or age-distressed?
+Positive Prompt: Apply erosive atmospheric degradation corrosively eating into finish layers through effects like peeling lead paint, rust streaking, mossy buildup or cracked structural fatigue glazing faults.
+Negative Prompt: Restore the telephone booths to showroom floor aesthetics suitably reflective of factory quality control oversight leaving all elements tidy and unblemished without undue temporally elapsed aging.

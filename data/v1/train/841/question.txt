@@ -1,0 +1,3 @@
+Question: Which toads are sitting on logs or branches?
+Positive Prompt: Position the toads perched atop fallen logs, thick branches or other natural elevated surfaces.
+Negative Prompt: Place the toads down at ground level without any log or branch platforms.

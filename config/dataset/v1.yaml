@@ -16,3 +16,11 @@ val:
   annotations_path: "v1/val.json"
   loader:
     batch_size: null
+
+test:
+  _target_: src.dataset.v1.V1Challenge
+  img_root: "v1/test"
+  annotations_path: "v1/test.json"
+  loader:
+    batch_size: null
+

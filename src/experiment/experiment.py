@@ -21,6 +21,7 @@ device = get_device()
 class CaptchaExperiment:
     _train_dataset: CaptchaDataset
     _val_dataset: CaptchaDataset
+    _test_dataset: CaptchaDataset
 
     def __init__(
             self,
@@ -35,7 +36,7 @@ class CaptchaExperiment:
             self._device = get_device()
         else:
             self._device = torch.device(device)
-        self._train_dataset, self._val_dataset = CaptchaDataset.from_config(dataset)
+        self._train_dataset, self._val_dataset, self._test_dataset = CaptchaDataset.from_config(dataset)
         self._architecture: CaptchaArchitecture = instantiate(architecture).to(self._device)
         self._n_train_epochs = epochs
         self._loss_fn = F.binary_cross_entropy
@@ -87,9 +88,9 @@ class CaptchaExperiment:
             train_loss, train_acc = self._train_epoch(epoch)
             self._evaluate_architecture(self._val_dataset, "validation", "epoch_{}".format(epoch))
 
+        
     def _evaluate_architecture(self, dataset, file_name: str, eval_name: str):
-
-        print("Evaluating {}".format(dataset))
+        print("Evaluating {}".format(file_name))
         loader = dataset.construct_loader()
 
         evaluation_metrics = defaultdict(list)
@@ -120,6 +121,5 @@ class CaptchaExperiment:
     def run(self):
         if self._architecture.is_trainable:
             self._train_architecture()
-        # todo: replace with test set
-        self._evaluate_architecture(self._val_dataset, "final_validation", "val_set")
+        self._evaluate_architecture(self._test_dataset, "test", "Final Evaluation")
 

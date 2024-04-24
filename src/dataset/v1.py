@@ -1,4 +1,5 @@
 import json
+import ipdb
 import operator
 from functools import cached_property
 from pathlib import Path
@@ -192,7 +193,8 @@ class V1Dataset(CaptchaDataset):
         img_tensors = torch.stack([transform(i) for i in imgs])
         
         # Unsqueezing the targets so shape is (batch_size, 1)
-        return question_text[0], img_tensors[0], targets[0].unsqueeze(0)  # TODO added the [0] to get just 1 sample to fix the batching. Please keep the unsqueeze(0) though.
+        # ipdb.set_trace()
+        return question_text, img_tensors.squeeze(0), targets.squeeze(0)  # TODO added the [0] to get just 1 sample to fix the batching. Please keep the unsqueeze(0) though.
 
 
 if __name__ == "__main__":

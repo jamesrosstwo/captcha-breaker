@@ -1,3 +1,5 @@
+import ipdb
+import torch
 import torch.nn as nn
 from utils.utils import get_device
 from src.architecture.backbone.backbone import CaptchaBackbone
@@ -23,4 +25,5 @@ class LinearFusionHead(CaptchaBackbone):
         self.lin_model = LinearFusionHeadModel().to(device)
 
     def forward(self, x):
+        x = torch.cat(x, dim=1)
         return self.lin_model(x)

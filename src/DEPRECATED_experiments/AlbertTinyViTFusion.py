@@ -1,6 +1,7 @@
 import torch
 import os
 import sys
+import ipdb
 import torch.nn as nn
 # Add the root directory to the Python module search path
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
@@ -70,6 +71,7 @@ class LinearFusionHead(nn.Module):
         )
 
     def forward(self, x):
+        ipdb.set_trace()
         return self.sequential(x)
 
 

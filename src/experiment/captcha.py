@@ -1,3 +1,5 @@
+
+import ipdb
 import torch
 from hydra.utils import instantiate
 from omegaconf import DictConfig
@@ -34,10 +36,12 @@ class CaptchaExperiment:
     def _train_epoch(self, epoch: int):
         loader = self._train_dataset.construct_loader(**self._loader_args)
         for batch_idx, (questions, challenges, selections) in enumerate(loader):
+            # print(f"{batch_idx}: batch_idx")
             challenges = challenges.to(device)
             selections = selections.to(device)
+            # ipdb.set_trace()
             preds = self._architecture(questions, challenges)
-            loss = self._loss_fn(preds, selections)
+            loss = self._loss_fn(preds, selections.unsqueeze(-1))
 
             loss.backward()
             self._optimizer.step()
@@ -46,6 +50,7 @@ class CaptchaExperiment:
     def _train_architecture(self):
         for epoch in tqdm(range(self._train_epochs)):
             self._train_epoch(epoch)
+            # ipdb.set_trace()
 
     def _evaluate_architecture(self):
         pass

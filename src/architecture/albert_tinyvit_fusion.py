@@ -5,9 +5,16 @@ import torch
 device = get_device()
 
 class AlbertTinyViTFusion(CaptchaArchitecture):
-    # def forward(self, questions, challenges):
-    #     # TODO: Move the architecture forward pass from AlbertTinyViTFusion.py to here
-    #     pass
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        
+        # Freeze the weights of the backbones
+        for param in self._backbone.parameters():
+            param.requires_grad = False
+        
+        for param in self._text_backbone.parameters():
+            param.requires_grad = False
+
 
     def forward(self, x_text, x_img):
         # Get text and image embeddings using their respective models

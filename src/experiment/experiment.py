@@ -53,8 +53,11 @@ class CaptchaExperiment:
         return self._device
 
     def _train_epoch(self, epoch: int):
-        print("Training epoch {} / {}".format(epoch, self._n_train_epochs))
-        loader = self._train_dataset.construct_loader()
+        loader = self._train_dataset.construct_loader(**self._loader_args)
+        total_loss = 0
+        total_accuracy = 0
+        total_samples = 0
+
         for batch_idx, (questions, challenges, selections) in tqdm(enumerate(loader)):
             challenges = challenges.to(device)
             selections = selections.to(device)
@@ -65,12 +68,23 @@ class CaptchaExperiment:
             self._optimizer.step()
             self._optimizer.zero_grad()
 
+            total_loss += loss.item() * selections.size(0)
+            total_accuracy += ((preds.round() == selections).sum().item())
+            total_samples += selections.size(0)
+
+        avg_loss = total_loss / total_samples
+        avg_accuracy = total_accuracy / total_samples
+
+        print(f"Epoch {epoch+1}/{self._train_epochs}, Train Loss: {avg_loss:.4f}, Train Accuracy: {avg_accuracy:.4f}")
+
+        return avg_loss, avg_accuracy
+
         # TODO: Return some kind of aggregated loss
         # Or upload directly to wandb?
 
     def _train_architecture(self):
         for epoch in range(self._n_train_epochs):
-            self._train_epoch(epoch)
+            train_loss, train_acc = self._train_epoch(epoch)
             self._evaluate_architecture(self._val_dataset, "validation", "epoch_{}".format(epoch))
 
     def _evaluate_architecture(self, dataset, file_name: str, eval_name: str):
@@ -90,16 +104,22 @@ class CaptchaExperiment:
 
         metrics_path = self._eval_dir / "{}.json".format(file_name)
 
+        results = []
+        if metrics_path.exists():
+            with open(metrics_path, "r") as metrics_file:
+                results = json.load(metrics_file)
+
         agg_eval = {eval_name: {"mean_{}".format(k): np.mean(v) for k, v in evaluation_metrics.items()}}
+        results.append(agg_eval)
         print(agg_eval)
         with open(metrics_path, "a") as metrics_file:
-            json.dump(agg_eval, metrics_file)
+            json.dump(results, metrics_file)
 
         return metrics_path
 
     def run(self):
         if self._architecture.is_trainable:
             self._train_architecture()
-        # todo: replace with test
+        # todo: replace with test set
         self._evaluate_architecture(self._val_dataset, "final_validation", "val_set")
 

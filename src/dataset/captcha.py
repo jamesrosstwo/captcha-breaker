@@ -1,6 +1,6 @@
 from abc import ABC
 from functools import partial
-from typing import Tuple
+from typing import Tuple, Optional
 
 import torch
 from hydra.utils import instantiate
@@ -20,12 +20,13 @@ def _captcha_collate(data, should_flatten: bool):
 
 
 class CaptchaDataset(Dataset, ABC):
-    def __init__(self, should_flatten: bool = False):
+    def __init__(self, should_flatten: bool = True, loader: Optional[DictConfig] = None):
         self._should_flatten = should_flatten
+        self._loader_kwargs = loader if loader else dict()
 
     @property
     def _collate_fn(self):
-        return partial(_captcha_collate, should_flatten=self._should_flatten)
+        return partial(_captcha_collate, should_flatten=self.should_flatten)
 
     @property
     def should_flatten(self):
@@ -39,6 +40,6 @@ class CaptchaDataset(Dataset, ABC):
         base_kwargs = dict(
             collate_fn=self._collate_fn
         )
-
+        base_kwargs.update(self._loader_kwargs)
         base_kwargs.update(loader_kwargs)
         return DataLoader(self, *loader_args, **base_kwargs)

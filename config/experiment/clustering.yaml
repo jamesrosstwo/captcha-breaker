@@ -1,7 +1,9 @@
 # @package _global_
 defaults:
   - override /architecture: clustering
-  - override /dataset: v1_single
+  - override /dataset: v1
 
-loader:
+val_loader:
   batch_size: 8
+
+

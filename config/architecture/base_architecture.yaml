@@ -2,3 +2,4 @@ defaults:
   - backbone: resnet50
 
 _target_: ???
+trainable: true

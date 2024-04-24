@@ -5,6 +5,7 @@ from pathlib import Path
 from typing import Dict, List, Tuple, TypedDict
 import numpy as np
 import torch
+from torch.utils.data import default_collate
 from torchvision import transforms
 from torchvision.datasets.folder import default_loader
 
@@ -39,9 +40,9 @@ class V1Annnotation(TypedDict):
     prompt_id: int
 
 
-class V1Dataset(CaptchaDataset):
+class V1Challenge(CaptchaDataset):
     def __init__(self, img_root: str, annotations_path: str, challenge_size: int = 9, **data_kwargs):
-        super().__init__(((data_kwargs)))
+        super().__init__(**data_kwargs)
         self._img_root_path: Path = DATA_PATH / img_root
         self._annotations_path: Path = DATA_PATH / annotations_path
         with open(str(self._annotations_path), "r") as annots_file:
@@ -50,6 +51,10 @@ class V1Dataset(CaptchaDataset):
         self._categories: List[V1Category] = self._annotations["categories"]
         self._loader = default_loader
         self._challenge_size = challenge_size
+
+    @property
+    def _collate_fn(self):
+        return None
 
     @property
     def challenge_size(self):
@@ -100,11 +105,12 @@ class V1Dataset(CaptchaDataset):
         ])
 
         img_tensors = torch.stack([transform(i) for i in imgs])
+        questions = [question_text for _ in imgs]
 
-        return question_text, img_tensors, targets
+        return questions, img_tensors, targets.T
 
 
-class V1SingleImage(V1Dataset):
+class V1SingleImage(V1Challenge):
     def __init__(self, shuffle: bool = True, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self._shuffle = shuffle
@@ -119,9 +125,12 @@ class V1SingleImage(V1Dataset):
     def __len__(self):
         return len(self._images)
 
+    @property
+    def should_flatten(self):
+        return False
+
     @cached_property
     def _collate_fn(self):
-        assert not self._should_flatten, "V1 Single does not support batch flattening."
         return super()._collate_fn
 
     def __getitem__(self, idx):
@@ -130,7 +139,6 @@ class V1SingleImage(V1Dataset):
         category = self._category_map[cat_id]
         question = np.random.choice(category["questions"])
         question_text = question["question_text"]
-
 
         target_prompt_ids: List[int] = question["positive_prompt_ids"]
         path = self._img_root_path / img["path"]

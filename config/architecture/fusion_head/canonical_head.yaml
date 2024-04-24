@@ -1,0 +1,2 @@
+_target_: src.architecture.fusion_head.canonical_head.CanonFusionHead
+shared_canon: true

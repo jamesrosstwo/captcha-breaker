@@ -1,6 +1,7 @@
 # @package _global_
 defaults:
-  - override /architecture: clustering
+  - override /architecture: albert_tinyvit_fusion
   - override /dataset: v1
+
 
 

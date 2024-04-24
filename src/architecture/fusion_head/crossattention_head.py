@@ -20,14 +20,14 @@ class CrossAttentionFusionHeadModel(nn.Module):
             nn.Sigmoid()
         )
 
-        self.c_attention = nn.MultiheadAttention(embed_dim=768, num_heads=8)
+        self.c_attention = nn.MultiheadAttention(embed_dim=768, num_heads=2)
         
 
-    def forward(self, x):
+    def forward(self, embeds):
         # Split the input 'x' into image and text embeddings
         # Assume 'x' is of shape [batch_size, 448 + 768]
-        im_embed = x[:, :448]  # First 448 dims are image embeddings
-        text_embed = x[:, 448:]  # Next 768 dims are text embeddings
+        im_embed = embeds[0]  # First 448 dims are image embeddings
+        text_embed = embeds[1]  # Next 768 dims are text embeddings
 
         # Adapt image embeddings to match the dimensionality of text embeddings
         expanded_im = self.adaptation_layer(im_embed)

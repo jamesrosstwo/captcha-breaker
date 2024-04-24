@@ -1,7 +1,3 @@
 defaults:
-  - base_architecture
-  - text_backbone: albert
-  - fusion_head: canonical_head
-  - override backbone: tiny_vit
-
-_target_: src.architecture.albert_tinyvit_fusion.AlbertTinyViTFusion
+  - albert_tinyvit_fusion
+  - override fusion_head: canonical_head

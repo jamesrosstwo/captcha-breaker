@@ -8,7 +8,7 @@ train:
   shuffle: True
   loader:
     batch_size: 4
-    num_workers: 1
+    num_workers: 4
 
 val:
   _target_: src.dataset.v1.V1Challenge

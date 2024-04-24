@@ -661,6 +661,7 @@ def tiny_vit_11m_224(pretrained=False, **kwargs):
         drop_path_rate=0.1,
     )
     model_kwargs.update(kwargs)
+    # ipdb.set_trace()
     return _create_tiny_vit('tiny_vit_11m_224', pretrained, **model_kwargs)
 
 

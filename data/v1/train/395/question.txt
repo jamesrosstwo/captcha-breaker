@@ -1,0 +1,3 @@
+Question: Which joysticks are shown illuminated or displaying colorful accents?
+Positive Prompt: Light up LED arrays, fiber optic threads, transparent windows shining neon glow effects or integrate colorful injection moldings beyond monochrome industrial plastics. 
+Negative Prompt: Stick to basic two-tone color schemes evocative of unpretentious utilitarian gaming input devices not magnified with decorative chromatic flair or glitz.

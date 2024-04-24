@@ -1,0 +1,3 @@
+Question: Which bulldozers are actively pushing dirt and debris?
+Positive Prompt: Depict the bulldozer at work, with its massive shovel blade angled down and carving through loose soil, kicking up clouds of dust and pushing earth.
+Negative Prompt: Show the bulldozer with its shovel blade raised up, idling passively without disturbing terrain or engaging in any excavation activity.

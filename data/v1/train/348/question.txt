@@ -1,0 +1,3 @@
+Question: Which horses are reared onto their hind legs in dynamic motion?
+Positive Prompt: Capture the equine athletes mid-buck, hooves off the ground with muscular tension exaggerating musculoskeletal suspension during an explosive moment of kinetic aerial position.
+Negative Prompt: Ground subjects stably with all four hooves splayed firmly set across base planes showing neutral quadruped stances and relaxed static composure generalized across bodies.

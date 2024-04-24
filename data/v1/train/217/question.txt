@@ -1,0 +1,3 @@
+Question: Which fire hydrants appear to be inoperative or damaged?
+Positive Prompt: Show the hydrants as defunct or irreparably damaged by inflicting visible rust, dents, cracks and other superficial effects indicating loss of watertight seal.
+Negative Prompt: Depict the hydrants in operative working condition ready for service with pristine exteriors free of corrosion or structural defects compromising functionality.

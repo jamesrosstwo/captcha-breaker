@@ -1,0 +1,3 @@
+Question: Which ducks are poised for departure with wings outstretched?
+Positive Prompt: Position the duck subjects with their wings fully spread and extended to maximum length as if mid-flapping and about to take off into flight from the water.
+Negative Prompt: Depict the ducks at rest with their wings tightly folded and stowed inward against their body contours prepared for floating calmly without preparing to fly.

@@ -1,0 +1,3 @@
+Question: Which bathtub has bubbles in the water?
+Positive Prompt: Add a plentiful layer of frothy soap bubbles on the surface of the water in the bathtub.
+Negative Prompt: Remove any bubbles or foam from the water in the bathtub, making the surface smooth and clear.

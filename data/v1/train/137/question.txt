@@ -1,0 +1,3 @@
+Question: Which cormorants have feathers ruffled or fluffed outwards?
+Positive Prompt: Depict the cormorant with visibly distressed and amped up outer plumage, erecting feathers outwards in all directions for a puffed up agitated or aggressive stance.
+Negative Prompt: Smooth the feather patterns flat against the cormorant's body, returning the sleek aerodynamic silky down texture ideal for gliding through water.

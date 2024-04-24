@@ -1,0 +1,3 @@
+Question: Which Eiffel Towers are situated during night scenes under illumination?
+Positive Prompt: Illuminate the dark night skies while accenting the metal lattices with strategically glowing lights strobing and spotlighting the iconic French monument landmark.
+Negative Prompt: Frame the Eiffel Tower against daylit conditions without any staged lighting effects or luminous programs to offset the natural sunlight backdrop ambiance.

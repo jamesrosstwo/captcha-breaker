@@ -1,0 +1,3 @@
+Question: Which sneakers have integrated supplemental athletic equipment elements?
+Positive Prompt: Augment footwear functionality beyond mere ambulism by incorporating creative attachments tuned for supplemental enhancement purposes like ankle support cages, built-in rollerblades or retractable crampons.
+Negative Prompt: Streamline designs by stripping ornamentation back to purist baseline sneaker essentials prioritizing lightweight flex materials rather than encumbering auxiliary novelty sporting apparatuses.

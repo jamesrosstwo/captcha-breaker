@@ -1,0 +1,3 @@
+Question: Which breadmakers have smoke or steam emitting from them?
+Positive Prompt: Modify the breadmaker to emit plumes of smoke or hot steam issuing out the top or sides, indicating heating and baking processes underway inside the chamber.
+Negative Prompt: Suppress any visible emissions like smoke or vapor from the breadmaker exterior, conveying a cool dormant state without active heating.

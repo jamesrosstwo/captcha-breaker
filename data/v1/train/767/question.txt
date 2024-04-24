@@ -1,0 +1,3 @@
+Question: Which umbrellas have elaborate patterned canopy designs?
+Positive Prompt: Add intricate patterns, prints or illustrations covering the entire umbrella canopy surface in vibrant colors.
+Negative Prompt: Remove any patterns or designs, making the umbrella canopy a solid flat color.

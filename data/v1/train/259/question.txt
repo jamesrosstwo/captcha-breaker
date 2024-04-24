@@ -1,0 +1,3 @@
+Question: Which frying pans appear heavily scratched or worn from use?
+Positive Prompt: Roughen up the pan surfaces depicting intense material abrasion across the non-stick interior coatings as evident through accumulations of nicks and scoring.
+Negative Prompt: Restore the pans to showroom condition with immaculate cooking surfaces free from imperfections, wear indicators, scoring or blemishes obscuring the virgin finish.

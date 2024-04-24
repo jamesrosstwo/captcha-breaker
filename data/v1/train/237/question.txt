@@ -1,0 +1,3 @@
+Question: Which football helmets appear heavily damaged or degraded?
+Positive Prompt: Inflict brutalist distress like cracks, divots, dents, scratches and scuffs onto helmet surfaces going beyond reasonable game wear into hazardous territory. 
+Negative Prompt: Restore the football helmets to pristine undamaged status with polished shells free of fractures, material fatigue or protective integrity compromises.

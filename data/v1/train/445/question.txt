@@ -1,0 +1,3 @@
+Question: Which mailboxes appear to be battered, rusty or in disrepair?
+Positive Prompt: Apply visible signs of advanced age like chipped paint, heavy corrosion, dented housings or vegetation overgrowth suggesting extensive environmental exposure and neglect.
+Negative Prompt: Keep the mailbox shells smoothly glossed in updated paints, strike plates polished to mirror finishes, and post mounts firmly anchored at peak operational presentation.

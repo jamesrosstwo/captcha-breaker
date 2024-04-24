@@ -1,0 +1,3 @@
+Question: Which chopsticks have cracks, chips or broken fragments?
+Positive Prompt: Damage portions of the chopstick surfaces, adding fractures, missing chunks and split wood grain to indicate the implements have been compromised and partially broken.
+Negative Prompt: Ensure the chopsticks remain well-crafted in complete undamaged form without any visible cracks, breaks or disfiguring material losses across the smooth wood.

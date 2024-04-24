@@ -1,0 +1,3 @@
+Question: Which windmills stand alone away from other structures?
+Positive Prompt: Isolate the windmill by itself away from any surrounding buildings, trees or other objects.
+Negative Prompt: Include houses, barns, fences and other environmental structures near the windmill.

@@ -1,0 +1,3 @@
+Question: Which helicopters are photographed mid-flight in motion?
+Positive Prompt: Capture dynamic rotorcraft aerobatics suspending them airborne with visible rotor downwash influences like debris clouds, atmospheric vortex kick-ups or directional inertial blurs.
+Negative Prompt: Ground all rotorcraft firmly on either air pads, helipads or tarmac without lending any implications of loft beyond static terrestrial parking poses.

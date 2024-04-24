@@ -1,0 +1,3 @@
+Question: Which chess boards feature unconventional creative designs?
+Positive Prompt: Replace the traditional checked pattern with vibrant artistic surface designs, elaborate engravings, alternative tiling shapes or graphic printed visuals.
+Negative Prompt: Maintain the timeless minimalism of the classic contrasting black and tan checkered board aesthetic known across centuries of standardized chess sets.

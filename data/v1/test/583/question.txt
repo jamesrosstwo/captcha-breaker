@@ -1,0 +1,3 @@
+Question: Which lawn mowers appear rodent or pests infested?
+Positive Prompt: Simulate evidence of bombarding rabbit, raccoon or mouse invasions through liberal distributions of shed fur dander clusters, excess excrement deposits or even partial skeletal remnants encountered.
+Negative Prompt: Keep the lawn care equipment pristine and safeguarded against any vermin compromises that could negatively impact general human friendliness and regulatory commercial compliance adherences.

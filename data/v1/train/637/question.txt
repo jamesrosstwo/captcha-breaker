@@ -1,0 +1,3 @@
+Question: Which spiders showcase elaborate web weavings or construction sequences?
+Positive Prompt: Render the arachnids positioned amidst complex geometric spiral formations pausing mid-production while casting intricate filament lattices in anatomically apropos explorations of their webmaster skills.
+Negative Prompt: Distribute specimens disassociated from active architectural installations to avoid distracting elaborate development procedures that could detract attention away from showcasing their bodily anatomy.

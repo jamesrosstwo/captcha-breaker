@@ -1,0 +1,3 @@
+Question: Which hot air balloons feature creative exterior decorative graphics?
+Positive Prompt: Rather than plain monotone balloon fabrics, liven up the envelope textiles through cheeky modern graphic logos, style mascots, diagonal racing stripes or funky custom tattoos.
+Negative Prompt: Stick to the spartan minimalism inherent to classic plain-colored balloon designs at their most iconic and representative, shying away from aesthetic personalization trends.

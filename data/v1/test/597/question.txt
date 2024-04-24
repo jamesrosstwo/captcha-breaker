@@ -1,0 +1,3 @@
+Question: Which skyscraper scenes prominently feature decorative architectural spires?
+Positive Prompt: Boldly exaggerate elongated pinnacle terminators beyond the scope of regular observation via ornate gothic arches, elaborate spiraled or crocketed crenellations topping iconic silhouette focal points. 
+Negative Prompt: Tone down roofline grandeur opting for purely clean monolithic volumetric massing toward reserved corporate vanity where spires get pruned in brutal service of engineering practicality.

@@ -1,0 +1,3 @@
+Question: Which eyeglasses have colorful or decorative lens tints?
+Positive Prompt: Amplify lens utility with colored protective tints, gradient sheens, mirrored sun protection or other treatments beyond conventional clear vision correcting glass.
+Negative Prompt: Stick to transparent optical-quality glass or plastic camera lens elements made for pure vision assistance unobscured by reflective coatings or colored tints.

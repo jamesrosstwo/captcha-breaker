@@ -1,0 +1,3 @@
+Question: Which cakes appear moldy, rotting or inedible?
+Positive Prompt: Accrue disgusting fungal growth, fuzzy mold spots, slick ooze trails and visible decay across the cake surfaces marking them as contaminated and unsafe to eat. 
+Negative Prompt: Return the cake to fresh, moist and appetizing presentation with perfectly clean and pristine surfaces showing no contamination or rot.

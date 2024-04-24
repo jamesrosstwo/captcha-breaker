@@ -1,0 +1,3 @@
+Question: Which school buses appear to have endured heavy impacts or accidents?
+Positive Prompt: Inflict visible scarring like crumpled body panels, shattered windshields, lost wheels or supplemental scenery collateral implying aftermath of forceful high-energy impact sequences.
+Negative Prompt: Preserve the bus chassis in clean undamaged condition suitable for transporting children safely without dramatizing misfortune scenarios which could raise anxiety concerns.

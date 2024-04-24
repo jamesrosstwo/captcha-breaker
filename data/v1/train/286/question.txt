@@ -1,0 +1,3 @@
+Question: Which golf balls have obvious scuff marks from impacting surfaces?
+Positive Prompt: Appear to have rendered contact aftermath details like excoriating browburn smears, embedded divot grasses or lacerated pockmarks resulting from erratic bounces.
+Negative Prompt: Uphold pristine glossy spherical profiles without any percussive surface impact scarring defects afflicting the otherwise flawlessly dimpled orbital continuity.

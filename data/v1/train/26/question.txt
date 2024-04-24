@@ -1,0 +1,3 @@
+Question: Which boom boxes look old, worn out and beaten up?
+Positive Prompt: Roughen up the boom box exterior to look scuffed, scratched, dented and thoroughly used, like a veteran piece of kit that's endured heavy use.
+Negative Prompt: Restore the boom box to pristine new-in-box condition with a glossy smooth exterior free of blemishes, scuffs or signs of wear and tear.

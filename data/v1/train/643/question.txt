@@ -1,0 +1,3 @@
+Question: Which spoons drift away from the expected anatomical conventions?
+Positive Prompt: Rather than traditional ellipsoidal bowls extending from elongated teardrop handles, reshape geometry into more avant-garde stylized distortions breaking ergonomics through biomorphism or cubism.
+Negative Prompt: Hold closely to traditional molecular gastronomy standards upheld across elegant historic designs proven optimal for scooping, dishing and plating while keeping the essential asymmetry and physics satisfactory.

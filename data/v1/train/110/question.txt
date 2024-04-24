@@ -1,0 +1,3 @@
+Question: Which coffee mugs are being held or lifted for drinking?
+Positive Prompt: Show the coffee mug elevated in a drinking position, grasped by an off-screen hand with fingers wrapped around the curved handle as if actively raising it off the surface.
+Negative Prompt: Leave the coffee mugs idly untouched resting on a flat surface without implicating any human interaction is taking place to disturb their placement.

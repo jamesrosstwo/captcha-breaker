@@ -1,0 +1,3 @@
+Question: Which ferns appear wilted, dried out or dessicated?
+Positive Prompt: Induce visible signs of extreme dehydration by wilting and crisping the fern fronds into shriveled textures with curled dry edges as if suffering severe drought stress.
+Negative Prompt: Keep the fern foliage looking lush and supple, plumped full of moisture with smooth unfurled verdant frond textures indicating aquatic access and vigor.

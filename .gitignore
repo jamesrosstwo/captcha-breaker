@@ -1,4 +1,3 @@
-data/
 outputs/
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -207,6 +206,9 @@ cmake-build-*/
 
 # IntelliJ
 out/
+
+# MacOS's DS_Store
+.DS_Store
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/

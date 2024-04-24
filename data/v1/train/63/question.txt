@@ -1,0 +1,3 @@
+Question: Which cakes look jaw-droppingly ornate and decorated?
+Positive Prompt: Exaggerate the cake decorations into a sugary frenzy of fondant artwork, candy accents, ornate frosting sculptures and hyper-elaborate embellishments that create an edible masterpiece.
+Negative Prompt: Simplify the cake down to clean smooth frosted surfaces without superfluous decorations or ornamentation, keeping a minimalist unfussy look.

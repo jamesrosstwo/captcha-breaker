@@ -1,0 +1,3 @@
+Question: Which top hats have pristine and flawless exteriors?
+Positive Prompt: Smooth out any wrinkles, blemishes or imperfections on the top hat surface, making the exterior fabric look brand new, polished and immaculate. Enhance colors to appear rich and vibrant.
+Negative Prompt: Wrinkle and distress the outer fabric of the top hat, adding scuffs, tears, stains and other signs of extreme wear and decay. Dull and fade the colors to look faded and dingy.

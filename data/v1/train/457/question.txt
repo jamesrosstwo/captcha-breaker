@@ -1,0 +1,3 @@
+Question: Which megaphones have decorative paint jobs or custom designs?
+Positive Prompt: Adorn the bullhorn exterior cones with intricate airbrushed artwork, corporate logos, sports mascots or other branded embellishments expressing creative visual energy.
+Negative Prompt: Leave the megaphone shells with simple monotone glossy finishes devoid of graphical distractions, sticking to unembellished utilitarian amplification tools made for auditory projection.

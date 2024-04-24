@@ -1,0 +1,3 @@
+Question: Which CDs have a decorative surface design, label or image?
+Positive Prompt: Inscribe decorative visuals onto the disc face, be it custom labels, printed artwork, personal photographs or colorful burnt surface patterns and details.
+Negative Prompt: Restore the discs to flawless blanks with bare smooth mirrored surfaces clear of any inscribed images, text, labels or superfluous face decorations.

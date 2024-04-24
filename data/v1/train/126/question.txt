@@ -1,0 +1,3 @@
+Question: Which computer monitors have an image or graphic displayed?
+Positive Prompt: Project a visible image, graphic, photograph, digital artwork or any UI content rendered across the monitor screen surface for clear computed visual output.
+Negative Prompt: Blank the monitor screens to inactive blank neutral states without any software interface graphics or multimedia visuals being actively displayed.

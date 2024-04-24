@@ -1,0 +1,3 @@
+Question: Which computer keyboards are damaged or have missing keys?
+Positive Prompt: Remove keys from the keyboard surface or add visible fractures, cracks and damage to individual keycaps indicating deterioration and broken components.
+Negative Prompt: Ensure all keycaps are perfectly intact and affixed to the keyboard with a complete clean uncompromised board showing no missing or broken keys.

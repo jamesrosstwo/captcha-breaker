@@ -1,0 +1,3 @@
+Question: Which bathtubs have overflowed onto the floor?
+Positive Prompt: Modify the scene so that the bathtub is overflowing massively, with water cascading out in torrents and flooding across the surrounding floor in a huge deluge.
+Negative Prompt: Ensure the bathtub water level is perfectly safe and contained within the tub, without any risk of spilling over the edges.

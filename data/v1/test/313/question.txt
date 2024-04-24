@@ -1,0 +1,3 @@
+Question: Which hamburgers integrate creative toppings or condiment combinations?
+Positive Prompt: Broaden the ingredient roster incorporating avant-garde add-ons like candies, fruits, foreign proteins or psychedelic sauces pushing the envelope beyond standard.
+Negative Prompt: Align recipe contents closely following canonical All-American diner fare franchising traditions upholding pickles, onions, ketchup, mustards and melty dairy cheese conventions.

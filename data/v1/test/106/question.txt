@@ -1,0 +1,3 @@
+Question: Which chopsticks have decorative artwork or carvings across them?
+Positive Prompt: Inscribe the wooden chopstick surfaces with intricate sculptural carvings, delicate engravings, painted graphics and illustrated artwork applied to the exteriors.
+Negative Prompt: Strip away any supplementary decorative elements to present plain untreated wooden chopstick forms without embellishments, illustrations or artistic engraving.

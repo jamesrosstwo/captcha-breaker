@@ -1,0 +1,3 @@
+Question: Which computer mice look scuffed or worn out from heavy use?
+Positive Prompt: Roughen up the mouse exterior casing with visible scratches, scuffs, dirt and physical deterioration consistent with countless hours of vigorous clicking and dragging.
+Negative Prompt: Renew each mouse enclosure to pristine out-of-box condition with a glossy unblemished finish across the smooth clean housing free of oils or surface abrasions.

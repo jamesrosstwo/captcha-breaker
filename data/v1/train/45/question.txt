@@ -1,0 +1,3 @@
+Question: Which breadmakers are turned on with illuminated control panels?
+Positive Prompt: Light up the LED displays and control panels on the breadmaker to indicate active powered-on status, with digit readouts and buttons glowing as if in use.
+Negative Prompt: Turn off all lights and digital displays on the breadmaker control panel, depicting it in an unpowered off state with dark inactive controls.

@@ -1,0 +1,3 @@
+Question: Which airplanes have bright decorative paint schemes?
+Positive Prompt: Apply an artistic speciality paint scheme with colorful designs or patterns to the aiplane body.
+Negative Prompt: Keep the airplane in a standard single solid color typical of commercial airliners.

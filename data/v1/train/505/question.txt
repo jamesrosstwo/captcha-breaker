@@ -1,0 +1,3 @@
+Question: Which paperclips appear mangled or deformed from misuse?
+Positive Prompt: Distort the slender metal filaments into tortured bent bunches, twisted crimps, tangled knots or even incorporating destructive stretch failures leaving snapped broken components.
+Negative Prompt: Restore the office fasteners to pristine factory default geometries with perfect machine-tooled finishes reflecting smoothly consistent tensile wire pathways without blemishes.

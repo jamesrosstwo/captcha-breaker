@@ -1,0 +1,3 @@
+Question: Which CDs appear buckled, warped or bent out of shape?
+Positive Prompt: Warp and distort the disc out of its flat slender profile, bending or curving the plastic into an unnatural twisted misshapen form unsuitable for normal rotation. 
+Negative Prompt: Flatten any uneven bulges or curvatures across the CD surface area, maintaining the slender geometry of a perfectly even flat optical disc undamaged by warping.

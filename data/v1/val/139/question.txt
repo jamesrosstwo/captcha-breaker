@@ -1,0 +1,3 @@
+Question: Which cormorants have their wings fully outstretched?
+Positive Prompt: Extend the cormorant wings to maximum span with feathers spread rigidly outwards to their full impressive lengths in preparation for taking flight or drying.
+Negative Prompt: Tuck and fold the wings neatly back against the cormorant bodies into their natural resting positions, retracting the feathered appendages from outstretched poses.

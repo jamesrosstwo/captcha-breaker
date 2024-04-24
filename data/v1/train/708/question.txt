@@ -1,0 +1,3 @@
+Question: Which tennis rackets exhibit visible signs of aggressive wear?
+Positive Prompt: Apply heavy distressing like abraded grit accumulations, warped frame contortions, deteriorated grip tape pilling or string bursting events diagnosed as evidence of long brutal lifespans enduring excessive impact trauma.
+Negative Prompt: Restore the equipment to pristine unboxed delivery conditions neutralizing any aesthetic degradations suggestive of equipment lifespan compromises to satisfy appearances matching newly headed production batches.

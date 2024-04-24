@@ -1,0 +1,3 @@
+Question: Which kayaks feature creative cultural graphics, logos or patterns?
+Positive Prompt: Re-interpret traditional camouflage paint schemes and base colors by incorporating intricate tribal symbols, tessellated swoops, supergraphics or official racing team brandings. 
+Negative Prompt: Honor the aesthetic stealth philosophies at the heart of kayak designs by letting solid bright tones, muted neutrals and transparent clearcoats speak purely.

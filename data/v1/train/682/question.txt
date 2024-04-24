@@ -1,0 +1,3 @@
+Question: Which tambourines showcase visible performance wear and tear?
+Positive Prompt: Apply deterioration artifacts across finishes indicating countless session miles accrued through swingles like scuff stains, oxidations, warping or even loose jingle rattle dispersal details.
+Negative Prompt: Convey showroom factory-fresh conditions by keeping composites pristine and undamaged in perfect operating order, indistinguishable from fresh off the line instruments unweathered from stage exposures.

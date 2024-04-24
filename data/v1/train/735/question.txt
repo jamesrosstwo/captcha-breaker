@@ -1,0 +1,3 @@
+Question: Which traffic lights are green and signaling vehicles to go?
+Positive Prompt: Change the traffic signal light to be glowing bright green.
+Negative Prompt: Change the traffic signal light to be glowing red.

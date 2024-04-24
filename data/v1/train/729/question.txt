@@ -1,0 +1,3 @@
+Question: Which top hats have intricate decorative hatbands?
+Positive Prompt: Add an ornate and highly decorative hatband to the top hat, featuring complex patterns, textures and embellishments like jewels, embroidery, ribbons and other premium materials.
+Negative Prompt: Remove any decorative hatband from the top hat, leaving it plain and unadorned.

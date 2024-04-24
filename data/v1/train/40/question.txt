@@ -1,0 +1,3 @@
+Question: Which boxing gloves feature colorful graphics or images?
+Positive Prompt: Emblazon the boxing gloves with bold graphics, decals, numbers or imagery like skulls or lightning bolts applied across their exterior surfaces in vivid colors.
+Negative Prompt: Return the boxing gloves to a simple solid color finish without any supplementary graphics or decorative images marring their blank surfaces.

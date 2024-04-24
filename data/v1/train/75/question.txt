@@ -1,0 +1,3 @@
+Question: Which cannons show visible signs of extreme age and deterioration?
+Positive Prompt: Weather and degrade the cannon exterior with dented and rusted surfaces, flaking paint, corroded materials and dilapidated decay from centuries of abandonment.
+Negative Prompt: Renew the cannon to pristine museum-quality condition with glossy polished surfaces, fresh coats of paint and no signs of aging, rust or deterioration present.

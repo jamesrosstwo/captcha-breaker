@@ -1,0 +1,3 @@
+Question: Which beer mugs are completely dry without any liquid?
+Positive Prompt: Remove all liquid from the beer mug, leaving it bone dry on the inside with a bare, empty glass interior exposed.
+Negative Prompt: Fill the beer mug to the brim with a golden, bubbly lager beer sloshing right up to the rim, looking refreshingly cool and crisp.

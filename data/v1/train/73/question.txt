@@ -1,0 +1,3 @@
+Question: Which cannons are actively firing or have muzzle smoke?
+Positive Prompt: Add billowing smoke, fiery blast streams and hot gases erupting from the cannon's open muzzle and barrel to indicate it has just discharged its payload.
+Negative Prompt: Extinguish and dissipate any smoke, flames or discharge from the cannon, leaving the muzzle clear, empty and undisturbed without signs of recent firing.

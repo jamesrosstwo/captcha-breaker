@@ -1,0 +1,3 @@
+Question: Which crabs exhibit bright vivid colors and patterns across their shells?
+Positive Prompt: Lavishly decorate the crab carapace exteriors with eye-catching pigmentation, intricate textures and bold contrasting hues for maximum visual intensity.
+Negative Prompt: Subdue the color vibrancy of the crab shells towards more muted earthy tones and monochromatic patterns lacking the dazzling pop of artificial embellishments.

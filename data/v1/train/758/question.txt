@@ -1,0 +1,3 @@
+Question: Which t-shirts have elaborate patterns or textures in the fabric weave?
+Positive Prompt: Add a highly detailed woven pattern or texture to the fabric of the shirt, creating complex shapes, stripes, images or 3D effects integrated into the weave.
+Negative Prompt: Make the fabric a flat, smooth solid color with no variations in the weave.

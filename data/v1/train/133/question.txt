@@ -1,0 +1,3 @@
+Question: Which conch shells contain visible sea life or creatures?
+Positive Prompt: Situate small marine animals like crabs, fish or shrimp emerging from inside the hollow conch shell chambers as if inhabiting their spiral shelters naturally. 
+Negative Prompt: Depict the conch as vacant empty shells without co-inhabitants, rendering the gastropod homes as bare hollow interiors free of surprise squatters or stowaways.

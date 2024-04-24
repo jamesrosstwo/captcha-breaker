@@ -1,0 +1,3 @@
+Question: Which doorknobs appear tarnished, corroded or rusted?
+Positive Prompt: Apply uneven discolored textures, patinas and signs of oxidative material degradation across doorknob surfaces to make them look aged and neglected.
+Negative Prompt: Depict the metallic surfaces in pristine polished condition with shiny brilliance across flawless finishes devoid of any accumulated grime or corrosive contamination.

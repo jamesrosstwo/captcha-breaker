@@ -1,0 +1,3 @@
+Question: Which bathtubs have broken pieces missing off them?
+Positive Prompt: Depict the bathtub in a heavily damaged state, missing large chunks of porcelain with jagged edges exposed, looking hazardous and unusable.
+Negative Prompt: Restore the bathtub to pristine, undamaged condition with the porcelain surface smooth and immaculate without any cracks, chips or missing pieces.

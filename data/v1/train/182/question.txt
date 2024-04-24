@@ -1,0 +1,3 @@
+Question: Which dumbbells are staged mid-lift or being physically exerted?
+Positive Prompt: Introduce human interactions by positioning a muscular human appendage gripped around the dumbbell handwraps as if the weights are actively being lifted.
+Negative Prompt: Isolate the dumbbells to be freestanding objects, not accompanied by any supporting human users to add context of being lift equipment tools.

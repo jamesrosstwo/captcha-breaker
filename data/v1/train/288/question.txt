@@ -1,0 +1,3 @@
+Question: Which golf balls are explicitly customized or specially labelled?
+Positive Prompt: Apply non-standard customized graphical adornments transcending traditional dimpled-sphere minimalism like logos, numerical insignias or vivid artistic recolorizations.
+Negative Prompt: Opt for the standard out-of-the-box industrial mold injection aesthetic purity eschewing decorative customization in favor of conforming competitive whiteball idioms.

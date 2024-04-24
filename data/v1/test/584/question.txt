@@ -1,0 +1,3 @@
+Question: Which lawn mower scenes integrate human bystanders or props?
+Positive Prompt: Include operators, homeowners, landscaping crews and any necessary anthropogenic embellishments reflecting active labor or yardwork choreography to reinforce functionality and utility narratives.
+Negative Prompt: Separate the machines as standalone product representations isolated from suggesting any activity overlaps where persons could be inadvertently exposed to threat of thrown debris injury hazards.

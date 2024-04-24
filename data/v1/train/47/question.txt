@@ -1,0 +1,3 @@
+Question: Which breadmakers have finished loaves emerging golden brown?
+Positive Prompt: Depict piping hot loaves of freshly baked bread rising up out of the open breadmaker chamber with golden crusts just removed from baking to perfection.
+Negative Prompt: Remove all loaves or any suggestion of baked goods from the interior breadmaker cavity, leaving it empty as if it has not yet begun a baking cycle.

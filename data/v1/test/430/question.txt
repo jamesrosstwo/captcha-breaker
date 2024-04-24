@@ -1,0 +1,3 @@
+Question: Which lightbulbs showcase unique geometries beyond spheres?
+Positive Prompt: Rather than sticking to traditional globe lamp forms, explore alternative sculptural geometries like cubes, elongated tubes, spirals or asymmetric free-form blob shapes.
+Negative Prompt: Maintain the classic spherical bulb iconographies rooted in the fundamentally spherical pressure vessel containment solution for optimizing heated filament geometry.

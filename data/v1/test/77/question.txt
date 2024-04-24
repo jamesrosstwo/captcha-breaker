@@ -1,0 +1,3 @@
+Question: Which canoes have visible cracks, holes or damages from impacts?
+Positive Prompt: Deform the canoe hull with dents, punctures, splits and breaches in the exterior, creating dangerous cracks and fissures that could jeopardize water integrity.
+Negative Prompt: Seal the canoe structure to be completely watertight and undamaged, with an intact exterior shell showing no weaknesses, fissures or openings to let water penetrate.

@@ -1,0 +1,3 @@
+Question: Which porcupines showcase artistic facial characterizations?
+Positive Prompt: Imaginatively incorporating humanizing accents like smiles, squints, quizzical expressions falsely anthropomorphizing the animals beyond their capabilities for deliberate facial performance.
+Negative Prompt: Neutralize all hyper-characterizations back to emotionally impartial woodland creature demeanors without excessive projections of human personality manifesting through unnatural pantomimes.

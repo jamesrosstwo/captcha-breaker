@@ -1,0 +1,3 @@
+Question: Which renderings illustrate Saturn's potential colonization or exploitation?
+Positive Prompt: Augment natural satellite formations through incorporations of human industrial extractive mining machinery, off-world habitat megastructures or any supplemental engineering deployments overtop ring systems.
+Negative Prompt: Preserve fidelities uninhibited by humanity's pollutive proliferation across Saturn's pristine untouched wildernesses by omitting references to interventional practices disturbing present conditions.

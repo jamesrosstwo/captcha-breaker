@@ -1,0 +1,3 @@
+Question: Which skunk scenes incorporate outdoor residential environment props?
+Positive Prompt: Compound situational storytelling opportunities by integrally staging skunks amongst familiar backyard set dressings like gardens, picket fences, trashcans or any recognizable suburban settings.
+Negative Prompt: Exercise prudence resisting conflations with private human habitats to avoid perceived threats, keeping skunks isolated in wilder ecosystems avoiding misunderstandings around relative dangerousness.

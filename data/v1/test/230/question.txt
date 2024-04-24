@@ -1,0 +1,3 @@
+Question: Which flashlights appear scratched, damaged or excessively worn?
+Positive Prompt: Roughen up the surfaces with copious abrasions, cracks, dents and distress patterns suggesting extensive hazardous use taking a toll on outer casing integrity.
+Negative Prompt: Preserve pristine aerodynamic lines and blemish-free smoothness on the flashlight shells reflecting virgin unpitted surfaces ready for first deployment.

@@ -1,0 +1,3 @@
+Question: Which mailboxes showcase design embellishments or customizations?
+Positive Prompt: Rather than generic utilitarian drop slot boxes, apply artistic decorative flair by incorporating carved woods, patterned metalworks, playful mascot shapes or custom housebranded insignias.
+Negative Prompt: Uphold reserved formal neighborhood drop-off vessel norms without indulging in non-conformist boutique uniqueness exercises allowing garish external appendages detracting from fundamental roles.

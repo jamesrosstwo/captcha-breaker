@@ -1,0 +1,3 @@
+Question: Which fire trucks are illustrated with playful creative designs?
+Positive Prompt: Decorate the exterior truck paneling with whimsical colors, graphics, mascot characters or other creative aesthetics contradictory to typical industrial seriousness 
+Negative Prompt: Keep the truck aesthetic firmly grounded in unembellished utilitarianism shedding childish decorations in favor of no-nonsense civic industrial equipment sobriety.

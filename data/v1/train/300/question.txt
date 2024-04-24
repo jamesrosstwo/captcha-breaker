@@ -1,0 +1,3 @@
+Question: Which grand pianos appear to have structural damage or broken components?
+Positive Prompt: Inflict visible faults like cracked housing panels, shattered pedals, snapped strings, bent keys or other explicit hardware compromises spoiling symphonic capability.
+Negative Prompt: Preserve pristine playing conditions across all visible inner workings and external paneling without introducing any reliability compromising flaws or failures.

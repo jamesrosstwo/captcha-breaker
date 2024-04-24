@@ -1,0 +1,3 @@
+Question: Which rotary phones consist of unusual material compositions?
+Positive Prompt: While retaining overall silhouette familiarity, craft the physical phone bodies across exotic compounds like carved lucite, minerals, fabric blends or even assemble from woodgrain mosaics.
+Negative Prompt: Default to the thermoplastic or bakelite origins reflecting the canonized historical incarnations that popularized original production model industrial design evolutions.

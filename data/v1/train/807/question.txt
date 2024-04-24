@@ -1,0 +1,3 @@
+Question: Which wine bottles have decorative painted labels?
+Positive Prompt: Instead of a paper label, paint decorative designs, images or text directly onto the glass surface.
+Negative Prompt: Keep a simple undecorated body with just a standard paper label.

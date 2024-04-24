@@ -88,10 +88,11 @@ def _generate_annotations(data_path: Path):
     }
 
 
-def create_annotations_json(train_path: Path, val_path: Path, out_path: Path, overwrite=False):
+def create_annotations_json(train_path: Path, val_path: Path, test_path: Path, out_path: Path, overwrite=False):
     print(f'train_path: {train_path}')
     train_annots = _generate_annotations(train_path)
     val_annots = _generate_annotations(val_path)
+    test_annots = _generate_annotations(test_path)
 
     assert not out_path.exists() or val_path.is_dir()
 
@@ -101,10 +102,14 @@ def create_annotations_json(train_path: Path, val_path: Path, out_path: Path, ov
     with open(str(out_path / "val.json"), "w") as val_file:
         json.dump(val_annots, val_file, indent=2)
 
+    with open(str(out_path / "test.json"), "w") as val_file:
+        json.dump(test_annots, val_file, indent=2)
+
 
 if __name__ == "__main__":
     base_path = DATA_PATH / "v1"
     train_path = base_path / "train"
     val_path = base_path / "val"
+    test_path = base_path / "test"
     out_path = base_path
-    create_annotations_json(train_path, val_path, out_path)
+    create_annotations_json(train_path, val_path, test_path, out_path)

@@ -53,7 +53,7 @@ class CaptchaExperiment:
         return self._device
 
     def _train_epoch(self, epoch: int):
-        loader = self._train_dataset.construct_loader(**self._loader_args)
+        loader = self._train_dataset.construct_loader()
         total_loss = 0
         total_accuracy = 0
         total_samples = 0
@@ -75,7 +75,7 @@ class CaptchaExperiment:
         avg_loss = total_loss / total_samples
         avg_accuracy = total_accuracy / total_samples
 
-        print(f"Epoch {epoch+1}/{self._train_epochs}, Train Loss: {avg_loss:.4f}, Train Accuracy: {avg_accuracy:.4f}")
+        print(f"Epoch {epoch+1}/{self._n_train_epochs}, Train Loss: {avg_loss:.4f}, Train Accuracy: {avg_accuracy:.4f}")
 
         return avg_loss, avg_accuracy
 
@@ -112,7 +112,7 @@ class CaptchaExperiment:
         agg_eval = {eval_name: {"mean_{}".format(k): np.mean(v) for k, v in evaluation_metrics.items()}}
         results.append(agg_eval)
         print(agg_eval)
-        with open(metrics_path, "a") as metrics_file:
+        with open(metrics_path, "w") as metrics_file:
             json.dump(results, metrics_file)
 
         return metrics_path

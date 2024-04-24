@@ -6,23 +6,26 @@ from src.architecture.backbone.backbone import CaptchaBackbone
 
 device = get_device()
 
-class LinearFusionHeadModel(nn.Module):
+class LargeLinearFusionHeadModel(nn.Module):
     def __init__(self):
-        super(LinearFusionHeadModel, self).__init__()
+        super(LargeLinearFusionHeadModel, self).__init__()
         
         self.sequential = nn.Sequential(
-            nn.Linear(448+768, 1),
+            nn.Linear(448+768, 256),
+            nn.ReLU(),
+            nn.Dropout(0.3),
+            nn.Linear(256, 1),
             nn.Sigmoid()
         )
 
     def forward(self, x):
         return self.sequential(x)
 
-class LinearFusionHead(CaptchaBackbone):
+class LargeLinearFusionHead(CaptchaBackbone):
     def __init__(self):
         super().__init__()
         self.layernorm = nn.LayerNorm(448)
-        self.lin_model = LinearFusionHeadModel().to(device)
+        self.lin_model = LargeLinearFusionHeadModel().to(device)
 
     def forward(self, x):
         im_embed, text_embed = x

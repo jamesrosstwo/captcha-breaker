@@ -14,6 +14,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 import torch.utils.checkpoint as checkpoint
 import timm
+import ipdb
 from timm.models.layers import DropPath as TimmDropPath,\
     to_2tuple, trunc_normal_
 from timm.models.registry import register_model
@@ -572,24 +573,21 @@ class TinyViT(nn.Module):
     def forward_features(self, x):
         # x: (N, C, H, W)
         x = self.patch_embed(x)
-
         x = self.layers[0](x)
         start_i = 1
 
         for i in range(start_i, len(self.layers)):
             layer = self.layers[i]
             x = layer(x)
-
-        x = x.mean(1)
+        # x = x.mean(1)
 
         return x
 
     def forward(self, x):
         x = self.forward_features(x)
-        x = self.norm_head(x)
         # We don't want a classification output, only an embedding
+        # x = self.norm_head(x)
         # x = self.head(x)
-        # print("Embedding shape:", x.shape)  # Shape is (1, 448)
         return x
 
 

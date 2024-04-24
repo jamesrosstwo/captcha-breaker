@@ -1,8 +1,8 @@
 defaults:
   - dataset: v1
-  - architecture: albert_tinyvit_fusion
+  - architecture: albert_tinyvit_linear
   - visualizer: base_visualizer
 
 epochs: 100
 learning_rate: 1e-4
-use_wandb: True
+use_wandb: False

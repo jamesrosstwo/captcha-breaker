@@ -46,14 +46,18 @@ class CanonFusionHeadModel(nn.Module):
 class CanonFusionHead(CaptchaBackbone):
     def __init__(self, shared_canon=True):
         super().__init__()
+        self.layernorm = nn.LayerNorm(448)
         # self.shared_canon = shared_canon
         self.canon_model = CanonFusionHeadModel(shared_canon=shared_canon).to(device)
 
     def forward(self, x):
+        im_embed, text_embed = x
+        im_embed = torch.mean(im_embed, dim=1)  # collapse channels
+        im_embed = self.layernorm(im_embed)
 
         # project to similar subspace
-        img_emb_hat = self.canon_model.img_proj(x[0])
-        text_emb_hat = self.canon_model.text_proj(x[1])
+        img_emb_hat = self.canon_model.img_proj(im_embed)
+        text_emb_hat = self.canon_model.text_proj(text_embed)
 
         if self.canon_model.shared_canon:
             img_canon = self.canon_model.shared_mlp(img_emb_hat)

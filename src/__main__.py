@@ -5,8 +5,8 @@ import os
 # Add the root directory to the Python module search path (otherwise can't find src)
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-# set manual cache directory for stable diffusion
-project_dir = "/scratch/dajisafe/course_project/cpsc_540/captcha-breaker"
+# set manual cache directory for hugging face models
+project_dir = "."
 
 cache_dir = f"{project_dir}/.cache"
 os.makedirs(cache_dir,exist_ok=True)
@@ -33,6 +33,6 @@ if __name__ == "__main__":
 
 
 # run commands
-# python src/__main__.py loader.num_workers=4 loader.batch_size=4 architecture.fusion_head=linear_head
-# python src/__main__.py loader.num_workers=4 loader.batch_size=4 +architecture.fusion_head.shared_canon=True
-#
+# python src/__main__.py architecture=albert_tinyvit_fusion 
+# python src/__main__.py architecture=albert_tinyvit_canonical architecture.fusion_head.shared_canon=False 
+

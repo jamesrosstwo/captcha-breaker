@@ -1,1 +1,1 @@
-_target_: src.architecture.fusion_head.crossattention_head.CrossAttentionFusionHead
+_target_: src.architecture.fusion_head.linear_head.LinearFusionHead

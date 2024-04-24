@@ -5,3 +5,4 @@ defaults:
 
 epochs: 5
 learning_rate: 0.001
+use_wandb: True

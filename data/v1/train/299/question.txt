@@ -1,0 +1,3 @@
+Question: Which grand pianos showcase decorative casing artwork or embellishments?
+Positive Prompt: Move beyond simple polished wood veneers by adorning the instrument shells with ornamental painted accents, relief sculptures, etched graphics or other non-industrial finishings.
+Negative Prompt: Keep piano aesthetics aligned with performance music traditions utilizing stripped down minimalist furniture designs highlighting sheen and resonant chamber geometries.

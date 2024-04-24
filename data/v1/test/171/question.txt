@@ -1,0 +1,3 @@
+Question: Which doorknobs are being turned or rotated by a human hand?
+Positive Prompt: Frame the scene with a human hand grasping and actively turning or jiggling the doorknob as if in the process of operating the latch for entry or exit.
+Negative Prompt: Leave doorknobs sans human interaction, positioned idly at rest without any grasping hands or sense of knob turning applied as part of an opening action.

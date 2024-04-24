@@ -1,0 +1,3 @@
+Question: Which bowling balls are cracked or split open?
+Positive Prompt: Shatter parts of the bowling ball exterior to expose cracks, fissures and gashes that splinter the hard shell open, making it look hazardously broken.
+Negative Prompt: Repair and reseal the bowling ball into a seamless, impenetrable orb once more, eliminating any faults or fractures penetrating its tough outer layer.

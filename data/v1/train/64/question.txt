@@ -1,0 +1,3 @@
+Question: Which cakes have visible candles lit and burning with flames?
+Positive Prompt: Place decorative candles in the middle of the cake surface, complete with flickering wicks giving off glowing flames and trailing wisps of smoke from the burning.
+Negative Prompt: Extinguish any flames or candles on the cake, removing all traces of fire, smoke, or active combustion leaving just wax cylinders and wicks free of ignition.

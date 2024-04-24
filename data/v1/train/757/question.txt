@@ -1,0 +1,3 @@
+Question: Which t-shirts are sleeveless or have cap sleeves?
+Positive Prompt: Cut off or shorten the sleeves on the t-shirt to make it sleeveless or have very small cap sleeves.
+Negative Prompt: Add long full sleeves to the shirt where there were previously no sleeves.

@@ -1,0 +1,3 @@
+Question: Which electric guitars show intense playing effects like fire?
+Positive Prompt: Exaggerate the properties of guitar playing pyrotechnics into supernatural realms, enveloping the instruments in dazzling ignition effects like flame streaming out. 
+Negative Prompt: Standard guitar aesthetics without contributing polarity extreme playing embellishments like pyrotechnics, auras of energy discharge or fantastical visual sorcery.

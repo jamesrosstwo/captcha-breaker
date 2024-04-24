@@ -1,0 +1,3 @@
+Question: Which mountain bikes showcase messy wear or trail contamination?
+Positive Prompt: Encrust bicycles with layers of simulated dirt, mud, foliage matter and visible wear accumulations consistent with harsh outdoor elements exposure during dedicated trail thrashing.
+Negative Prompt: Restore the cycles to polished exhibition conditions with glossy varnished paintjobs unmarred by dust, besmirchment or cosmetic environmental weathering across pristine presentation finishes.

@@ -1,0 +1,3 @@
+Question: Which greyhounds have sleek short-haired coats?
+Positive Prompt: Give the greyhounds a smooth flat coat of short, tight fur against the body without excess hair.
+Negative Prompt: Add longer ruffled or feathered hair textures to give the fur a more pronounced shaggy appearance.

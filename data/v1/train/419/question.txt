@@ -1,0 +1,3 @@
+Question: Which laptops incorporate exotic materials or non-traditional construction?
+Positive Prompt: Rather than injection molding thermoplastics, substitute outré compounds like carved wood veneers, machined aluminum slabs or even more whimsical combinations defying electronics norms.
+Negative Prompt: Stay faithful to proven material science formulas utilizing high-impact resistant polymers and magnesium alloy unibody architectures familiar to light-and-sturdy notebook engineering.

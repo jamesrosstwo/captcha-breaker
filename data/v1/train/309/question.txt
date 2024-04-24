@@ -1,0 +1,3 @@
+Question: Which guitar picks showcase creative decorative ornamentation?
+Positive Prompt: Apply graphic patterns, logos, illustrations or iridescent finishings breaking from banal solid color field presumptions towards individualized works of gallantry craftsmanship.
+Negative Prompt: Maintain minimalism for no-frills utilitarian pickaneedle aesthetics lacking adornments, keeping surfaces immaculate without stenciled visual profanities or supplemental kitsch.

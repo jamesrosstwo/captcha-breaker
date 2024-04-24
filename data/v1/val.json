@@ -1,0 +1,1771 @@
+{
+  "images": [
+    {
+      "path": "113/negative/043_0004.jpg",
+      "category_id": 113,
+      "prompt_id": 0
+    },
+    {
+      "path": "113/negative/043_0005.jpg",
+      "category_id": 113,
+      "prompt_id": 0
+    },
+    {
+      "path": "113/negative/043_0026.jpg",
+      "category_id": 113,
+      "prompt_id": 0
+    },
+    {
+      "path": "113/negative/043_0034.jpg",
+      "category_id": 113,
+      "prompt_id": 0
+    },
+    {
+      "path": "113/negative/043_0054.jpg",
+      "category_id": 113,
+      "prompt_id": 0
+    },
+    {
+      "path": "113/positive/043_0009.jpg",
+      "category_id": 113,
+      "prompt_id": 1
+    },
+    {
+      "path": "113/positive/043_0039.jpg",
+      "category_id": 113,
+      "prompt_id": 1
+    },
+    {
+      "path": "113/positive/043_0041.jpg",
+      "category_id": 113,
+      "prompt_id": 1
+    },
+    {
+      "path": "113/positive/043_0052.jpg",
+      "category_id": 113,
+      "prompt_id": 1
+    },
+    {
+      "path": "113/positive/043_0067.jpg",
+      "category_id": 113,
+      "prompt_id": 1
+    },
+    {
+      "path": "113/positive/043_0078.jpg",
+      "category_id": 113,
+      "prompt_id": 1
+    },
+    {
+      "path": "113/positive/043_0094.jpg",
+      "category_id": 113,
+      "prompt_id": 1
+    },
+    {
+      "path": "113/positive/043_0117.jpg",
+      "category_id": 113,
+      "prompt_id": 1
+    },
+    {
+      "path": "124/negative/045_0024.jpg",
+      "category_id": 124,
+      "prompt_id": 0
+    },
+    {
+      "path": "124/negative/045_0030.jpg",
+      "category_id": 124,
+      "prompt_id": 0
+    },
+    {
+      "path": "124/negative/045_0043.jpg",
+      "category_id": 124,
+      "prompt_id": 0
+    },
+    {
+      "path": "124/negative/045_0049.jpg",
+      "category_id": 124,
+      "prompt_id": 0
+    },
+    {
+      "path": "124/negative/045_0061.jpg",
+      "category_id": 124,
+      "prompt_id": 0
+    },
+    {
+      "path": "124/positive/045_0011.jpg",
+      "category_id": 124,
+      "prompt_id": 1
+    },
+    {
+      "path": "124/positive/045_0028.jpg",
+      "category_id": 124,
+      "prompt_id": 1
+    },
+    {
+      "path": "124/positive/045_0046.jpg",
+      "category_id": 124,
+      "prompt_id": 1
+    },
+    {
+      "path": "124/positive/045_0051.jpg",
+      "category_id": 124,
+      "prompt_id": 1
+    },
+    {
+      "path": "124/positive/045_0082.jpg",
+      "category_id": 124,
+      "prompt_id": 1
+    },
+    {
+      "path": "124/positive/045_0083.jpg",
+      "category_id": 124,
+      "prompt_id": 1
+    },
+    {
+      "path": "138/negative/049_0023.jpg",
+      "category_id": 138,
+      "prompt_id": 0
+    },
+    {
+      "path": "138/negative/049_0025.jpg",
+      "category_id": 138,
+      "prompt_id": 0
+    },
+    {
+      "path": "138/negative/049_0034.jpg",
+      "category_id": 138,
+      "prompt_id": 0
+    },
+    {
+      "path": "138/negative/049_0040.jpg",
+      "category_id": 138,
+      "prompt_id": 0
+    },
+    {
+      "path": "138/negative/049_0059.jpg",
+      "category_id": 138,
+      "prompt_id": 0
+    },
+    {
+      "path": "138/negative/049_0088.jpg",
+      "category_id": 138,
+      "prompt_id": 0
+    },
+    {
+      "path": "138/negative/049_0091.jpg",
+      "category_id": 138,
+      "prompt_id": 0
+    },
+    {
+      "path": "138/negative/049_0101.jpg",
+      "category_id": 138,
+      "prompt_id": 0
+    },
+    {
+      "path": "138/positive/049_0021.jpg",
+      "category_id": 138,
+      "prompt_id": 1
+    },
+    {
+      "path": "138/positive/049_0030.jpg",
+      "category_id": 138,
+      "prompt_id": 1
+    },
+    {
+      "path": "138/positive/049_0037.jpg",
+      "category_id": 138,
+      "prompt_id": 1
+    },
+    {
+      "path": "138/positive/049_0047.jpg",
+      "category_id": 138,
+      "prompt_id": 1
+    },
+    {
+      "path": "138/positive/049_0051.jpg",
+      "category_id": 138,
+      "prompt_id": 1
+    },
+    {
+      "path": "138/positive/049_0052.jpg",
+      "category_id": 138,
+      "prompt_id": 1
+    },
+    {
+      "path": "138/positive/049_0077.jpg",
+      "category_id": 138,
+      "prompt_id": 1
+    },
+    {
+      "path": "138/positive/049_0098.jpg",
+      "category_id": 138,
+      "prompt_id": 1
+    },
+    {
+      "path": "138/positive/049_0099.jpg",
+      "category_id": 138,
+      "prompt_id": 1
+    },
+    {
+      "path": "138/positive/049_0100.jpg",
+      "category_id": 138,
+      "prompt_id": 1
+    },
+    {
+      "path": "138/positive/049_0104.jpg",
+      "category_id": 138,
+      "prompt_id": 1
+    },
+    {
+      "path": "139/negative/049_0017.jpg",
+      "category_id": 139,
+      "prompt_id": 0
+    },
+    {
+      "path": "139/negative/049_0025.jpg",
+      "category_id": 139,
+      "prompt_id": 0
+    },
+    {
+      "path": "139/negative/049_0050.jpg",
+      "category_id": 139,
+      "prompt_id": 0
+    },
+    {
+      "path": "139/negative/049_0061.jpg",
+      "category_id": 139,
+      "prompt_id": 0
+    },
+    {
+      "path": "139/negative/049_0084.jpg",
+      "category_id": 139,
+      "prompt_id": 0
+    },
+    {
+      "path": "139/negative/049_0102.jpg",
+      "category_id": 139,
+      "prompt_id": 0
+    },
+    {
+      "path": "139/positive/049_0001.jpg",
+      "category_id": 139,
+      "prompt_id": 1
+    },
+    {
+      "path": "139/positive/049_0020.jpg",
+      "category_id": 139,
+      "prompt_id": 1
+    },
+    {
+      "path": "139/positive/049_0042.jpg",
+      "category_id": 139,
+      "prompt_id": 1
+    },
+    {
+      "path": "139/positive/049_0056.jpg",
+      "category_id": 139,
+      "prompt_id": 1
+    },
+    {
+      "path": "139/positive/049_0092.jpg",
+      "category_id": 139,
+      "prompt_id": 1
+    },
+    {
+      "path": "170/negative/058_0005.jpg",
+      "category_id": 170,
+      "prompt_id": 0
+    },
+    {
+      "path": "170/negative/058_0013.jpg",
+      "category_id": 170,
+      "prompt_id": 0
+    },
+    {
+      "path": "170/negative/058_0016.jpg",
+      "category_id": 170,
+      "prompt_id": 0
+    },
+    {
+      "path": "170/negative/058_0035.jpg",
+      "category_id": 170,
+      "prompt_id": 0
+    },
+    {
+      "path": "170/negative/058_0075.jpg",
+      "category_id": 170,
+      "prompt_id": 0
+    },
+    {
+      "path": "170/positive/058_0008.jpg",
+      "category_id": 170,
+      "prompt_id": 1
+    },
+    {
+      "path": "170/positive/058_0027.jpg",
+      "category_id": 170,
+      "prompt_id": 1
+    },
+    {
+      "path": "170/positive/058_0028.jpg",
+      "category_id": 170,
+      "prompt_id": 1
+    },
+    {
+      "path": "170/positive/058_0042.jpg",
+      "category_id": 170,
+      "prompt_id": 1
+    },
+    {
+      "path": "170/positive/058_0048.jpg",
+      "category_id": 170,
+      "prompt_id": 1
+    },
+    {
+      "path": "170/positive/058_0061.jpg",
+      "category_id": 170,
+      "prompt_id": 1
+    },
+    {
+      "path": "170/positive/058_0077.jpg",
+      "category_id": 170,
+      "prompt_id": 1
+    },
+    {
+      "path": "170/positive/058_0082.jpg",
+      "category_id": 170,
+      "prompt_id": 1
+    },
+    {
+      "path": "183/negative/061_0015.jpg",
+      "category_id": 183,
+      "prompt_id": 0
+    },
+    {
+      "path": "183/negative/061_0038.jpg",
+      "category_id": 183,
+      "prompt_id": 0
+    },
+    {
+      "path": "183/negative/061_0086.jpg",
+      "category_id": 183,
+      "prompt_id": 0
+    },
+    {
+      "path": "183/negative/061_0088.jpg",
+      "category_id": 183,
+      "prompt_id": 0
+    },
+    {
+      "path": "183/negative/061_0089.jpg",
+      "category_id": 183,
+      "prompt_id": 0
+    },
+    {
+      "path": "183/positive/061_0006.jpg",
+      "category_id": 183,
+      "prompt_id": 1
+    },
+    {
+      "path": "183/positive/061_0011.jpg",
+      "category_id": 183,
+      "prompt_id": 1
+    },
+    {
+      "path": "183/positive/061_0034.jpg",
+      "category_id": 183,
+      "prompt_id": 1
+    },
+    {
+      "path": "183/positive/061_0065.jpg",
+      "category_id": 183,
+      "prompt_id": 1
+    },
+    {
+      "path": "183/positive/061_0072.jpg",
+      "category_id": 183,
+      "prompt_id": 1
+    },
+    {
+      "path": "183/positive/061_0079.jpg",
+      "category_id": 183,
+      "prompt_id": 1
+    },
+    {
+      "path": "20/negative/014_0014.jpg",
+      "category_id": 20,
+      "prompt_id": 0
+    },
+    {
+      "path": "20/negative/014_0055.jpg",
+      "category_id": 20,
+      "prompt_id": 0
+    },
+    {
+      "path": "20/negative/014_0084.jpg",
+      "category_id": 20,
+      "prompt_id": 0
+    },
+    {
+      "path": "20/positive/014_0010.jpg",
+      "category_id": 20,
+      "prompt_id": 1
+    },
+    {
+      "path": "20/positive/014_0018.jpg",
+      "category_id": 20,
+      "prompt_id": 1
+    },
+    {
+      "path": "20/positive/014_0019.jpg",
+      "category_id": 20,
+      "prompt_id": 1
+    },
+    {
+      "path": "20/positive/014_0040.jpg",
+      "category_id": 20,
+      "prompt_id": 1
+    },
+    {
+      "path": "20/positive/014_0059.jpg",
+      "category_id": 20,
+      "prompt_id": 1
+    },
+    {
+      "path": "20/positive/014_0069.jpg",
+      "category_id": 20,
+      "prompt_id": 1
+    },
+    {
+      "path": "20/positive/014_0083.jpg",
+      "category_id": 20,
+      "prompt_id": 1
+    },
+    {
+      "path": "255/negative/080_0031.jpg",
+      "category_id": 255,
+      "prompt_id": 0
+    },
+    {
+      "path": "255/negative/080_0085.jpg",
+      "category_id": 255,
+      "prompt_id": 0
+    },
+    {
+      "path": "255/positive/080_0018.jpg",
+      "category_id": 255,
+      "prompt_id": 1
+    },
+    {
+      "path": "255/positive/080_0027.jpg",
+      "category_id": 255,
+      "prompt_id": 1
+    },
+    {
+      "path": "255/positive/080_0036.jpg",
+      "category_id": 255,
+      "prompt_id": 1
+    },
+    {
+      "path": "255/positive/080_0058.jpg",
+      "category_id": 255,
+      "prompt_id": 1
+    },
+    {
+      "path": "255/positive/080_0071.jpg",
+      "category_id": 255,
+      "prompt_id": 1
+    },
+    {
+      "path": "255/positive/080_0096.jpg",
+      "category_id": 255,
+      "prompt_id": 1
+    },
+    {
+      "path": "255/positive/080_0108.jpg",
+      "category_id": 255,
+      "prompt_id": 1
+    },
+    {
+      "path": "261/negative/081_0005.jpg",
+      "category_id": 261,
+      "prompt_id": 0
+    },
+    {
+      "path": "261/negative/081_0025.jpg",
+      "category_id": 261,
+      "prompt_id": 0
+    },
+    {
+      "path": "261/negative/081_0029.jpg",
+      "category_id": 261,
+      "prompt_id": 0
+    },
+    {
+      "path": "261/negative/081_0032.jpg",
+      "category_id": 261,
+      "prompt_id": 0
+    },
+    {
+      "path": "261/negative/081_0079.jpg",
+      "category_id": 261,
+      "prompt_id": 0
+    },
+    {
+      "path": "261/negative/081_0081.jpg",
+      "category_id": 261,
+      "prompt_id": 0
+    },
+    {
+      "path": "261/positive/081_0004.jpg",
+      "category_id": 261,
+      "prompt_id": 1
+    },
+    {
+      "path": "261/positive/081_0015.jpg",
+      "category_id": 261,
+      "prompt_id": 1
+    },
+    {
+      "path": "261/positive/081_0031.jpg",
+      "category_id": 261,
+      "prompt_id": 1
+    },
+    {
+      "path": "261/positive/081_0035.jpg",
+      "category_id": 261,
+      "prompt_id": 1
+    },
+    {
+      "path": "261/positive/081_0056.jpg",
+      "category_id": 261,
+      "prompt_id": 1
+    },
+    {
+      "path": "261/positive/081_0058.jpg",
+      "category_id": 261,
+      "prompt_id": 1
+    },
+    {
+      "path": "261/positive/081_0077.jpg",
+      "category_id": 261,
+      "prompt_id": 1
+    },
+    {
+      "path": "261/positive/081_0084.jpg",
+      "category_id": 261,
+      "prompt_id": 1
+    },
+    {
+      "path": "261/positive/081_0089.jpg",
+      "category_id": 261,
+      "prompt_id": 1
+    },
+    {
+      "path": "261/positive/081_0090.jpg",
+      "category_id": 261,
+      "prompt_id": 1
+    },
+    {
+      "path": "261/positive/081_0094.jpg",
+      "category_id": 261,
+      "prompt_id": 1
+    },
+    {
+      "path": "263/negative/082_0025.jpg",
+      "category_id": 263,
+      "prompt_id": 0
+    },
+    {
+      "path": "263/negative/082_0033.jpg",
+      "category_id": 263,
+      "prompt_id": 0
+    },
+    {
+      "path": "263/negative/082_0049.jpg",
+      "category_id": 263,
+      "prompt_id": 0
+    },
+    {
+      "path": "263/negative/082_0070.jpg",
+      "category_id": 263,
+      "prompt_id": 0
+    },
+    {
+      "path": "263/negative/082_0074.jpg",
+      "category_id": 263,
+      "prompt_id": 0
+    },
+    {
+      "path": "263/positive/082_0010.jpg",
+      "category_id": 263,
+      "prompt_id": 1
+    },
+    {
+      "path": "263/positive/082_0013.jpg",
+      "category_id": 263,
+      "prompt_id": 1
+    },
+    {
+      "path": "263/positive/082_0017.jpg",
+      "category_id": 263,
+      "prompt_id": 1
+    },
+    {
+      "path": "263/positive/082_0020.jpg",
+      "category_id": 263,
+      "prompt_id": 1
+    },
+    {
+      "path": "263/positive/082_0040.jpg",
+      "category_id": 263,
+      "prompt_id": 1
+    },
+    {
+      "path": "263/positive/082_0044.jpg",
+      "category_id": 263,
+      "prompt_id": 1
+    },
+    {
+      "path": "263/positive/082_0048.jpg",
+      "category_id": 263,
+      "prompt_id": 1
+    },
+    {
+      "path": "263/positive/082_0058.jpg",
+      "category_id": 263,
+      "prompt_id": 1
+    },
+    {
+      "path": "263/positive/082_0069.jpg",
+      "category_id": 263,
+      "prompt_id": 1
+    },
+    {
+      "path": "27/negative/016_0008.jpg",
+      "category_id": 27,
+      "prompt_id": 0
+    },
+    {
+      "path": "27/negative/016_0053.jpg",
+      "category_id": 27,
+      "prompt_id": 0
+    },
+    {
+      "path": "27/negative/016_0054.jpg",
+      "category_id": 27,
+      "prompt_id": 0
+    },
+    {
+      "path": "27/negative/016_0068.jpg",
+      "category_id": 27,
+      "prompt_id": 0
+    },
+    {
+      "path": "27/negative/016_0080.jpg",
+      "category_id": 27,
+      "prompt_id": 0
+    },
+    {
+      "path": "27/negative/016_0082.jpg",
+      "category_id": 27,
+      "prompt_id": 0
+    },
+    {
+      "path": "27/positive/016_0009.jpg",
+      "category_id": 27,
+      "prompt_id": 1
+    },
+    {
+      "path": "27/positive/016_0024.jpg",
+      "category_id": 27,
+      "prompt_id": 1
+    },
+    {
+      "path": "27/positive/016_0025.jpg",
+      "category_id": 27,
+      "prompt_id": 1
+    },
+    {
+      "path": "27/positive/016_0030.jpg",
+      "category_id": 27,
+      "prompt_id": 1
+    },
+    {
+      "path": "27/positive/016_0031.jpg",
+      "category_id": 27,
+      "prompt_id": 1
+    },
+    {
+      "path": "27/positive/016_0040.jpg",
+      "category_id": 27,
+      "prompt_id": 1
+    },
+    {
+      "path": "27/positive/016_0046.jpg",
+      "category_id": 27,
+      "prompt_id": 1
+    },
+    {
+      "path": "27/positive/016_0083.jpg",
+      "category_id": 27,
+      "prompt_id": 1
+    },
+    {
+      "path": "27/positive/016_0087.jpg",
+      "category_id": 27,
+      "prompt_id": 1
+    },
+    {
+      "path": "346/negative/103_0004.jpg",
+      "category_id": 346,
+      "prompt_id": 0
+    },
+    {
+      "path": "346/negative/103_0013.jpg",
+      "category_id": 346,
+      "prompt_id": 0
+    },
+    {
+      "path": "346/negative/103_0016.jpg",
+      "category_id": 346,
+      "prompt_id": 0
+    },
+    {
+      "path": "346/negative/103_0027.jpg",
+      "category_id": 346,
+      "prompt_id": 0
+    },
+    {
+      "path": "346/negative/103_0047.jpg",
+      "category_id": 346,
+      "prompt_id": 0
+    },
+    {
+      "path": "346/negative/103_0050.jpg",
+      "category_id": 346,
+      "prompt_id": 0
+    },
+    {
+      "path": "346/negative/103_0059.jpg",
+      "category_id": 346,
+      "prompt_id": 0
+    },
+    {
+      "path": "346/negative/103_0067.jpg",
+      "category_id": 346,
+      "prompt_id": 0
+    },
+    {
+      "path": "346/negative/103_0087.jpg",
+      "category_id": 346,
+      "prompt_id": 0
+    },
+    {
+      "path": "346/negative/103_0091.jpg",
+      "category_id": 346,
+      "prompt_id": 0
+    },
+    {
+      "path": "346/negative/103_0107.jpg",
+      "category_id": 346,
+      "prompt_id": 0
+    },
+    {
+      "path": "346/negative/103_0108.jpg",
+      "category_id": 346,
+      "prompt_id": 0
+    },
+    {
+      "path": "346/positive/103_0003.jpg",
+      "category_id": 346,
+      "prompt_id": 1
+    },
+    {
+      "path": "346/positive/103_0007.jpg",
+      "category_id": 346,
+      "prompt_id": 1
+    },
+    {
+      "path": "346/positive/103_0058.jpg",
+      "category_id": 346,
+      "prompt_id": 1
+    },
+    {
+      "path": "346/positive/103_0069.jpg",
+      "category_id": 346,
+      "prompt_id": 1
+    },
+    {
+      "path": "346/positive/103_0070.jpg",
+      "category_id": 346,
+      "prompt_id": 1
+    },
+    {
+      "path": "346/positive/103_0088.jpg",
+      "category_id": 346,
+      "prompt_id": 1
+    },
+    {
+      "path": "346/positive/103_0100.jpg",
+      "category_id": 346,
+      "prompt_id": 1
+    },
+    {
+      "path": "446/negative/135_0005.jpg",
+      "category_id": 446,
+      "prompt_id": 0
+    },
+    {
+      "path": "446/negative/135_0019.jpg",
+      "category_id": 446,
+      "prompt_id": 0
+    },
+    {
+      "path": "446/negative/135_0035.jpg",
+      "category_id": 446,
+      "prompt_id": 0
+    },
+    {
+      "path": "446/negative/135_0047.jpg",
+      "category_id": 446,
+      "prompt_id": 0
+    },
+    {
+      "path": "446/negative/135_0093.jpg",
+      "category_id": 446,
+      "prompt_id": 0
+    },
+    {
+      "path": "446/positive/135_0007.jpg",
+      "category_id": 446,
+      "prompt_id": 1
+    },
+    {
+      "path": "446/positive/135_0011.jpg",
+      "category_id": 446,
+      "prompt_id": 1
+    },
+    {
+      "path": "446/positive/135_0022.jpg",
+      "category_id": 446,
+      "prompt_id": 1
+    },
+    {
+      "path": "446/positive/135_0066.jpg",
+      "category_id": 446,
+      "prompt_id": 1
+    },
+    {
+      "path": "474/negative/146_0002.jpg",
+      "category_id": 474,
+      "prompt_id": 0
+    },
+    {
+      "path": "474/negative/146_0005.jpg",
+      "category_id": 474,
+      "prompt_id": 0
+    },
+    {
+      "path": "474/negative/146_0007.jpg",
+      "category_id": 474,
+      "prompt_id": 0
+    },
+    {
+      "path": "474/negative/146_0029.jpg",
+      "category_id": 474,
+      "prompt_id": 0
+    },
+    {
+      "path": "474/negative/146_0055.jpg",
+      "category_id": 474,
+      "prompt_id": 0
+    },
+    {
+      "path": "474/negative/146_0059.jpg",
+      "category_id": 474,
+      "prompt_id": 0
+    },
+    {
+      "path": "474/negative/146_0071.jpg",
+      "category_id": 474,
+      "prompt_id": 0
+    },
+    {
+      "path": "474/positive/146_0008.jpg",
+      "category_id": 474,
+      "prompt_id": 1
+    },
+    {
+      "path": "474/positive/146_0032.jpg",
+      "category_id": 474,
+      "prompt_id": 1
+    },
+    {
+      "path": "474/positive/146_0033.jpg",
+      "category_id": 474,
+      "prompt_id": 1
+    },
+    {
+      "path": "474/positive/146_0043.jpg",
+      "category_id": 474,
+      "prompt_id": 1
+    },
+    {
+      "path": "474/positive/146_0061.jpg",
+      "category_id": 474,
+      "prompt_id": 1
+    },
+    {
+      "path": "474/positive/146_0067.jpg",
+      "category_id": 474,
+      "prompt_id": 1
+    },
+    {
+      "path": "474/positive/146_0070.jpg",
+      "category_id": 474,
+      "prompt_id": 1
+    },
+    {
+      "path": "485/negative/149_0013.jpg",
+      "category_id": 485,
+      "prompt_id": 0
+    },
+    {
+      "path": "485/negative/149_0049.jpg",
+      "category_id": 485,
+      "prompt_id": 0
+    },
+    {
+      "path": "485/negative/149_0050.jpg",
+      "category_id": 485,
+      "prompt_id": 0
+    },
+    {
+      "path": "485/negative/149_0052.jpg",
+      "category_id": 485,
+      "prompt_id": 0
+    },
+    {
+      "path": "485/negative/149_0064.jpg",
+      "category_id": 485,
+      "prompt_id": 0
+    },
+    {
+      "path": "485/negative/149_0068.jpg",
+      "category_id": 485,
+      "prompt_id": 0
+    },
+    {
+      "path": "485/negative/149_0071.jpg",
+      "category_id": 485,
+      "prompt_id": 0
+    },
+    {
+      "path": "485/negative/149_0077.jpg",
+      "category_id": 485,
+      "prompt_id": 0
+    },
+    {
+      "path": "485/negative/149_0089.jpg",
+      "category_id": 485,
+      "prompt_id": 0
+    },
+    {
+      "path": "485/positive/149_0044.jpg",
+      "category_id": 485,
+      "prompt_id": 1
+    },
+    {
+      "path": "485/positive/149_0087.jpg",
+      "category_id": 485,
+      "prompt_id": 1
+    },
+    {
+      "path": "485/positive/149_0100.jpg",
+      "category_id": 485,
+      "prompt_id": 1
+    },
+    {
+      "path": "610/negative/191_0020.jpg",
+      "category_id": 610,
+      "prompt_id": 0
+    },
+    {
+      "path": "610/negative/191_0025.jpg",
+      "category_id": 610,
+      "prompt_id": 0
+    },
+    {
+      "path": "610/negative/191_0027.jpg",
+      "category_id": 610,
+      "prompt_id": 0
+    },
+    {
+      "path": "610/negative/191_0053.jpg",
+      "category_id": 610,
+      "prompt_id": 0
+    },
+    {
+      "path": "610/negative/191_0070.jpg",
+      "category_id": 610,
+      "prompt_id": 0
+    },
+    {
+      "path": "610/negative/191_0090.jpg",
+      "category_id": 610,
+      "prompt_id": 0
+    },
+    {
+      "path": "610/negative/191_0098.jpg",
+      "category_id": 610,
+      "prompt_id": 0
+    },
+    {
+      "path": "610/positive/191_0030.jpg",
+      "category_id": 610,
+      "prompt_id": 1
+    },
+    {
+      "path": "610/positive/191_0086.jpg",
+      "category_id": 610,
+      "prompt_id": 1
+    },
+    {
+      "path": "610/positive/191_0106.jpg",
+      "category_id": 610,
+      "prompt_id": 1
+    },
+    {
+      "path": "610/positive/191_0107.jpg",
+      "category_id": 610,
+      "prompt_id": 1
+    },
+    {
+      "path": "671/negative/208_0033.jpg",
+      "category_id": 671,
+      "prompt_id": 0
+    },
+    {
+      "path": "671/negative/208_0037.jpg",
+      "category_id": 671,
+      "prompt_id": 0
+    },
+    {
+      "path": "671/negative/208_0067.jpg",
+      "category_id": 671,
+      "prompt_id": 0
+    },
+    {
+      "path": "671/positive/208_0027.jpg",
+      "category_id": 671,
+      "prompt_id": 1
+    },
+    {
+      "path": "671/positive/208_0066.jpg",
+      "category_id": 671,
+      "prompt_id": 1
+    },
+    {
+      "path": "671/positive/208_0073.jpg",
+      "category_id": 671,
+      "prompt_id": 1
+    },
+    {
+      "path": "671/positive/208_0087.jpg",
+      "category_id": 671,
+      "prompt_id": 1
+    },
+    {
+      "path": "671/positive/208_0089.jpg",
+      "category_id": 671,
+      "prompt_id": 1
+    },
+    {
+      "path": "671/positive/208_0094.jpg",
+      "category_id": 671,
+      "prompt_id": 1
+    },
+    {
+      "path": "739/negative/227_0011.jpg",
+      "category_id": 739,
+      "prompt_id": 0
+    },
+    {
+      "path": "739/negative/227_0079.jpg",
+      "category_id": 739,
+      "prompt_id": 0
+    },
+    {
+      "path": "739/negative/227_0096.jpg",
+      "category_id": 739,
+      "prompt_id": 0
+    },
+    {
+      "path": "739/positive/227_0077.jpg",
+      "category_id": 739,
+      "prompt_id": 1
+    },
+    {
+      "path": "739/positive/227_0086.jpg",
+      "category_id": 739,
+      "prompt_id": 1
+    },
+    {
+      "path": "739/positive/227_0093.jpg",
+      "category_id": 739,
+      "prompt_id": 1
+    },
+    {
+      "path": "739/positive/227_0101.jpg",
+      "category_id": 739,
+      "prompt_id": 1
+    },
+    {
+      "path": "739/positive/227_0122.jpg",
+      "category_id": 739,
+      "prompt_id": 1
+    },
+    {
+      "path": "739/positive/227_0129.jpg",
+      "category_id": 739,
+      "prompt_id": 1
+    },
+    {
+      "path": "778/negative/238_0012.jpg",
+      "category_id": 778,
+      "prompt_id": 0
+    },
+    {
+      "path": "778/negative/238_0013.jpg",
+      "category_id": 778,
+      "prompt_id": 0
+    },
+    {
+      "path": "778/negative/238_0017.jpg",
+      "category_id": 778,
+      "prompt_id": 0
+    },
+    {
+      "path": "778/negative/238_0019.jpg",
+      "category_id": 778,
+      "prompt_id": 0
+    },
+    {
+      "path": "778/negative/238_0021.jpg",
+      "category_id": 778,
+      "prompt_id": 0
+    },
+    {
+      "path": "778/negative/238_0056.jpg",
+      "category_id": 778,
+      "prompt_id": 0
+    },
+    {
+      "path": "778/positive/238_0024.jpg",
+      "category_id": 778,
+      "prompt_id": 1
+    },
+    {
+      "path": "778/positive/238_0045.jpg",
+      "category_id": 778,
+      "prompt_id": 1
+    },
+    {
+      "path": "778/positive/238_0051.jpg",
+      "category_id": 778,
+      "prompt_id": 1
+    },
+    {
+      "path": "778/positive/238_0062.jpg",
+      "category_id": 778,
+      "prompt_id": 1
+    },
+    {
+      "path": "778/positive/238_0070.jpg",
+      "category_id": 778,
+      "prompt_id": 1
+    },
+    {
+      "path": "778/positive/238_0075.jpg",
+      "category_id": 778,
+      "prompt_id": 1
+    },
+    {
+      "path": "822/negative/251_0251.jpg",
+      "category_id": 822,
+      "prompt_id": 0
+    },
+    {
+      "path": "822/negative/251_0283.jpg",
+      "category_id": 822,
+      "prompt_id": 0
+    },
+    {
+      "path": "822/negative/251_0314.jpg",
+      "category_id": 822,
+      "prompt_id": 0
+    },
+    {
+      "path": "822/negative/251_0537.jpg",
+      "category_id": 822,
+      "prompt_id": 0
+    },
+    {
+      "path": "822/negative/251_0540.jpg",
+      "category_id": 822,
+      "prompt_id": 0
+    },
+    {
+      "path": "822/negative/251_0589.jpg",
+      "category_id": 822,
+      "prompt_id": 0
+    },
+    {
+      "path": "822/negative/251_0612.jpg",
+      "category_id": 822,
+      "prompt_id": 0
+    },
+    {
+      "path": "822/negative/251_0735.jpg",
+      "category_id": 822,
+      "prompt_id": 0
+    },
+    {
+      "path": "822/positive/251_0010.jpg",
+      "category_id": 822,
+      "prompt_id": 1
+    },
+    {
+      "path": "822/positive/251_0135.jpg",
+      "category_id": 822,
+      "prompt_id": 1
+    },
+    {
+      "path": "822/positive/251_0263.jpg",
+      "category_id": 822,
+      "prompt_id": 1
+    },
+    {
+      "path": "822/positive/251_0473.jpg",
+      "category_id": 822,
+      "prompt_id": 1
+    },
+    {
+      "path": "822/positive/251_0483.jpg",
+      "category_id": 822,
+      "prompt_id": 1
+    },
+    {
+      "path": "822/positive/251_0723.jpg",
+      "category_id": 822,
+      "prompt_id": 1
+    },
+    {
+      "path": "822/positive/251_0798.jpg",
+      "category_id": 822,
+      "prompt_id": 1
+    }
+  ],
+  "categories": [
+    {
+      "category_id": 113,
+      "category_name": "",
+      "prompts": [
+        {
+          "category_id": 113,
+          "prompt_id": 0,
+          "prompt_text": "Negative Prompt: Preserve the coin sheen by maintaining clean polished surfaces gleaming bright and shiny with unblemished luster across the standard metallic alloy blend."
+        },
+        {
+          "category_id": 113,
+          "prompt_id": 1,
+          "prompt_text": "Positive Prompt: Corrode and discolor the coin surface with heavy patinas, chemical residues, material discolorations and noticeable dulling or spotting across the exterior faces."
+        }
+      ],
+      "questions": [
+        {
+          "question_text": "Question: Which coins are heavily tarnished and discolored?",
+          "category_id": 113,
+          "positive_prompt_ids": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 124,
+      "category_name": "",
+      "prompts": [
+        {
+          "category_id": 124,
+          "prompt_id": 0,
+          "prompt_text": "Negative Prompt: Fit the keyboard with standard detachable cable connections protruding from the chassis, denoting a wired communication link to the main computing hardware."
+        },
+        {
+          "category_id": 124,
+          "prompt_id": 1,
+          "prompt_text": "Positive Prompt: Remove visible attached cables, rendering the keyboard without any cord or wire tethers to indicate a wireless standalone physical peripheral interface."
+        }
+      ],
+      "questions": [
+        {
+          "question_text": "Question: Which computer keyboards are wireless or lack cables?",
+          "category_id": 124,
+          "positive_prompt_ids": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 138,
+      "category_name": "",
+      "prompts": [
+        {
+          "category_id": 138,
+          "prompt_id": 0,
+          "prompt_text": "Negative Prompt: Return the cormorant subjects to surface-level environments with visible air and open atmospheric conditions rather than aquatic submersion viewpoints beneath liquids."
+        },
+        {
+          "category_id": 138,
+          "prompt_id": 1,
+          "prompt_text": "Positive Prompt: Submerge the cormorant in an underwater scene complete with rising bubble trails and proper viscous liquid visual effects consistent with aquatic diving environments."
+        }
+      ],
+      "questions": [
+        {
+          "question_text": "Question: Which cormorants are posed underwater with bubbles or swimming?",
+          "category_id": 138,
+          "positive_prompt_ids": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 139,
+      "category_name": "",
+      "prompts": [
+        {
+          "category_id": 139,
+          "prompt_id": 0,
+          "prompt_text": "Negative Prompt: Tuck and fold the wings neatly back against the cormorant bodies into their natural resting positions, retracting the feathered appendages from outstretched poses."
+        },
+        {
+          "category_id": 139,
+          "prompt_id": 1,
+          "prompt_text": "Positive Prompt: Extend the cormorant wings to maximum span with feathers spread rigidly outwards to their full impressive lengths in preparation for taking flight or drying."
+        }
+      ],
+      "questions": [
+        {
+          "question_text": "Question: Which cormorants have their wings fully outstretched?",
+          "category_id": 139,
+          "positive_prompt_ids": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 170,
+      "category_name": "",
+      "prompts": [
+        {
+          "category_id": 170,
+          "prompt_id": 0,
+          "prompt_text": "Negative Prompt: Stick to purely minimalist monolithic doorknob forms without any additional embellished artistry engraved into their surfaces beyond basic functional affordances."
+        },
+        {
+          "category_id": 170,
+          "prompt_id": 1,
+          "prompt_text": "Positive Prompt: Add flourishes of embossed ornamental shapes, inscribed text, patterns and designs sculpted across normally plain doorknob surfaces to elevate visual interest."
+        }
+      ],
+      "questions": [
+        {
+          "question_text": "Question: Which doorknobs have ornate decorative embellishments carved in?",
+          "category_id": 170,
+          "positive_prompt_ids": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 183,
+      "category_name": "",
+      "prompts": [
+        {
+          "category_id": 183,
+          "prompt_id": 0,
+          "prompt_text": "Negative Prompt: Preserve pristine polished and plated finishes across the dumbbells with sleek lustrous exteriors showing no degradation, contamination or rust pitting."
+        },
+        {
+          "category_id": 183,
+          "prompt_id": 1,
+          "prompt_text": "Positive Prompt: Texturize the metallic dumbbell surfaces with dense accretions of oxidation, heavy layers of iron oxide crusting over the steel bars, weights and fixtures."
+        }
+      ],
+      "questions": [
+        {
+          "question_text": "Question: Which dumbbells show signs of heavy rust or corrosion?",
+          "category_id": 183,
+          "positive_prompt_ids": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 20,
+      "category_name": "",
+      "prompts": [
+        {
+          "category_id": 20,
+          "prompt_id": 0,
+          "prompt_text": "Negative Prompt: Suppress any smoke, fire or visible exhaust from the blimp to portray clean, controlled operation without any active combustion visible."
+        },
+        {
+          "category_id": 20,
+          "prompt_id": 1,
+          "prompt_text": "Positive Prompt: Modify the engines or structure to show thick plumes of black smoke trailing behind, or enable bursts of open flame licking out the sides, depicting an emergency."
+        }
+      ],
+      "questions": [
+        {
+          "question_text": "Question: Which blimps are spewing smoke or flames?",
+          "category_id": 20,
+          "positive_prompt_ids": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 255,
+      "category_name": "",
+      "prompts": [
+        {
+          "category_id": 255,
+          "prompt_id": 0,
+          "prompt_text": "Negative Prompt: Keep the amphibians distinct foreground elements perched cleanly atop visible textures and debris without explicit camouflage involvement in the modeling."
+        },
+        {
+          "category_id": 255,
+          "prompt_id": 1,
+          "prompt_text": "Positive Prompt: Blend the frog figures seamlessly into scenic backdrops, color-matched into substrates until only their protruding eyes and textures disrupt perfect invisibility."
+        }
+      ],
+      "questions": [
+        {
+          "question_text": "Question: Which frogs appear visibly camouflaged within environments?",
+          "category_id": 255,
+          "positive_prompt_ids": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 261,
+      "category_name": "",
+      "prompts": [
+        {
+          "category_id": 261,
+          "prompt_id": 0,
+          "prompt_text": "Negative Prompt: Keep the pan interiors free of food items undergoing active state changes to focus purely on the pristine cookware while cold and barren of heating preparations."
+        },
+        {
+          "category_id": 261,
+          "prompt_id": 1,
+          "prompt_text": "Positive Prompt: Load the pans with sizzling, bubbling or active frying subjects visibly changing state mid-meal like meat patties, vegetables or eggs cracking during preparation."
+        }
+      ],
+      "questions": [
+        {
+          "question_text": "Question: Which frying pans display visible food or ingredients cooking?",
+          "category_id": 261,
+          "positive_prompt_ids": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 263,
+      "category_name": "",
+      "prompts": [
+        {
+          "category_id": 263,
+          "prompt_id": 0,
+          "prompt_text": "Negative Prompt: Uphold traditional elliptic and axial symmetries producing textbook examples of galactic anatomy including bulge, bar, disk and spiral arm components arrayed predictably."
+        },
+        {
+          "category_id": 263,
+          "prompt_id": 1,
+          "prompt_text": "Positive Prompt: Extrapolate angular geometric distortions dynamically morphing the archetypal ellipsoidal spiral disc profile away from conventional shapes into more unconventional forms."
+        }
+      ],
+      "questions": [
+        {
+          "question_text": "Question: Which galaxy renderings incorporate atypical element geometries?",
+          "category_id": 263,
+          "positive_prompt_ids": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 27,
+      "category_name": "",
+      "prompts": [
+        {
+          "category_id": 27,
+          "prompt_id": 0,
+          "prompt_text": "Negative Prompt: Mute any special lighting effects coming from the speakers and display, leaving the boom box plainly unilluminated as a dark, dormant device."
+        },
+        {
+          "category_id": 27,
+          "prompt_id": 1,
+          "prompt_text": "Positive Prompt: Illuminate the boom box speakers with pulsing patterns of glowing neon lights that emanate from within in sync with the heavy bass rhythms it blasts."
+        }
+      ],
+      "questions": [
+        {
+          "question_text": "Question: Which boom boxes are on and casting colorful light effects?",
+          "category_id": 27,
+          "positive_prompt_ids": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 346,
+      "category_name": "",
+      "prompts": [
+        {
+          "category_id": 346,
+          "prompt_id": 0,
+          "prompt_text": "Negative Prompt: Isolate each blossom foreground clearly against simple studio vignettes without compounding their immediate vicinity with fictional ucurric elements beyond botany ephemera."
+        },
+        {
+          "category_id": 346,
+          "prompt_id": 1,
+          "prompt_text": "Positive Prompt: Frame the flowers with supplementary fantastical companions like frozen crystalline accretions, pixie dust particulates or minuscule integrated sculptural fairy-tale dioramas."
+        }
+      ],
+      "questions": [
+        {
+          "question_text": "Question: Which hibiscus incorporate unconventional artistic accompaniments?",
+          "category_id": 346,
+          "positive_prompt_ids": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 446,
+      "category_name": "",
+      "prompts": [
+        {
+          "category_id": 446,
+          "prompt_id": 0,
+          "prompt_text": "Negative Prompt: Uphold reserved formal neighborhood drop-off vessel norms without indulging in non-conformist boutique uniqueness exercises allowing garish external appendages detracting from fundamental roles."
+        },
+        {
+          "category_id": 446,
+          "prompt_id": 1,
+          "prompt_text": "Positive Prompt: Rather than generic utilitarian drop slot boxes, apply artistic decorative flair by incorporating carved woods, patterned metalworks, playful mascot shapes or custom housebranded insignias."
+        }
+      ],
+      "questions": [
+        {
+          "question_text": "Question: Which mailboxes showcase design embellishments or customizations?",
+          "category_id": 446,
+          "positive_prompt_ids": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 474,
+      "category_name": "",
+      "prompts": [
+        {
+          "category_id": 474,
+          "prompt_id": 0,
+          "prompt_text": "Negative Prompt: Restore the cycles to polished exhibition conditions with glossy varnished paintjobs unmarred by dust, besmirchment or cosmetic environmental weathering across pristine presentation finishes."
+        },
+        {
+          "category_id": 474,
+          "prompt_id": 1,
+          "prompt_text": "Positive Prompt: Encrust bicycles with layers of simulated dirt, mud, foliage matter and visible wear accumulations consistent with harsh outdoor elements exposure during dedicated trail thrashing."
+        }
+      ],
+      "questions": [
+        {
+          "question_text": "Question: Which mountain bikes showcase messy wear or trail contamination?",
+          "category_id": 474,
+          "positive_prompt_ids": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 485,
+      "category_name": "",
+      "prompts": [
+        {
+          "category_id": 485,
+          "prompt_id": 0,
+          "prompt_text": "Negative Prompt: Reign in the neckwear's brief back towards fashionably subdued haberdashery sophistication and aristocratic restraint emphasizing timeless necktie traditions suitable for executive suiting."
+        },
+        {
+          "category_id": 485,
+          "prompt_id": 1,
+          "prompt_text": "Positive Prompt: Rather than strict business formal styling, explore whimsical cartoon decals, pop art patterns or outright garish statement pieces with loud colors and offensive frat house excess."
+        }
+      ],
+      "questions": [
+        {
+          "question_text": "Question: Which neckties incorporate humorous novelty designs or prints?",
+          "category_id": 485,
+          "positive_prompt_ids": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 610,
+      "category_name": "",
+      "prompts": [
+        {
+          "category_id": 610,
+          "prompt_id": 0,
+          "prompt_text": "Negative Prompt: Streamline designs by stripping ornamentation back to purist baseline sneaker essentials prioritizing lightweight flex materials rather than encumbering auxiliary novelty sporting apparatuses."
+        },
+        {
+          "category_id": 610,
+          "prompt_id": 1,
+          "prompt_text": "Positive Prompt: Augment footwear functionality beyond mere ambulism by incorporating creative attachments tuned for supplemental enhancement purposes like ankle support cages, built-in rollerblades or retractable crampons."
+        }
+      ],
+      "questions": [
+        {
+          "question_text": "Question: Which sneakers have integrated supplemental athletic equipment elements?",
+          "category_id": 610,
+          "positive_prompt_ids": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 671,
+      "category_name": "",
+      "prompts": [
+        {
+          "category_id": 671,
+          "prompt_id": 0,
+          "prompt_text": "Negative Prompt: Maintain tidy closed pocketknife integrity with only one or two key extensions deployed at a time cleanly, never overwhelming through overstuffed prop-clogged litter of appendages beyond practical usage."
+        },
+        {
+          "category_id": 671,
+          "prompt_id": 1,
+          "prompt_text": "Positive Prompt: Extend every possible integrated implement in simultaneous dramatic unfolding through cross-sectional cutaways or omni-angle burst perspectives radiating all attachments out simultaneously."
+        }
+      ],
+      "questions": [
+        {
+          "question_text": "Question: Which Swiss army knives feature full accessory deployment?",
+          "category_id": 671,
+          "positive_prompt_ids": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 739,
+      "category_name": "",
+      "prompts": [
+        {
+          "category_id": 739,
+          "prompt_id": 0,
+          "prompt_text": "Negative Prompt: Remove any control panel features leaving a blank, basic control surface."
+        },
+        {
+          "category_id": 739,
+          "prompt_id": 1,
+          "prompt_text": "Positive Prompt: Add a large digital control panel to the treadmill with many visible buttons, screens and interfaces for adjusting speed, incline, programs and other settings."
+        }
+      ],
+      "questions": [
+        {
+          "question_text": "Question: Which treadmills have control panels with multiple adjustment settings?",
+          "category_id": 739,
+          "positive_prompt_ids": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 778,
+      "category_name": "",
+      "prompts": [
+        {
+          "category_id": 778,
+          "prompt_id": 0,
+          "prompt_text": "Negative Prompt: Place the video projector sitting directly on a flat surface pointing horizontally."
+        },
+        {
+          "category_id": 778,
+          "prompt_id": 1,
+          "prompt_text": "Positive Prompt: Position the projector attached to a ceiling mount fixture pointing downwards."
+        }
+      ],
+      "questions": [
+        {
+          "question_text": "Question: Which video projectors are mounted on ceiling mounts?",
+          "category_id": 778,
+          "positive_prompt_ids": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "category_id": 822,
+      "category_name": "",
+      "prompts": [
+        {
+          "category_id": 822,
+          "prompt_id": 0,
+          "prompt_text": "Negative Prompt: Keep the airplane in a standard single solid color typical of commercial airliners."
+        },
+        {
+          "category_id": 822,
+          "prompt_id": 1,
+          "prompt_text": "Positive Prompt: Apply an artistic speciality paint scheme with colorful designs or patterns to the aiplane body."
+        }
+      ],
+      "questions": [
+        {
+          "question_text": "Question: Which airplanes have bright decorative paint schemes?",
+          "category_id": 822,
+          "positive_prompt_ids": [
+            1
+          ]
+        }
+      ]
+    }
+  ]
+}

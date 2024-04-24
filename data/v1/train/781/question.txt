@@ -1,0 +1,3 @@
+Question: Which washing machines have electronic digital control panels?
+Positive Prompt: Add a digital control panel screen with buttons and interface for selecting settings on the washing machine.
+Negative Prompt: Give the washing machine simple analog dial controls instead of a digital panel.

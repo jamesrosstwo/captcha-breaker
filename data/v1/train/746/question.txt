@@ -1,0 +1,3 @@
+Question: Which triceratops are standing in lush prehistoric landscapes?
+Positive Prompt: Set the scene in a dense primeval forest environment, with the triceratops surrounded by tall ferns, fallen logs, steaming swamps and otherworldly foliage.
+Negative Prompt: Remove any environmental elements, leaving just the plain triceratops on a blank background.

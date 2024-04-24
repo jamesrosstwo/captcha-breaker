@@ -1,0 +1,3 @@
+Question: Which depictions of Superman showcase intense action sequences?
+Positive Prompt: Composite the superhero performing explosive feats of physicality including deflecting projectiles, thundersmash bursts, destructive demolition sequences or showcasing behavior propensities approaching godlike interventions.
+Negative Prompt: Avoid hyperkinetic hyperviolence by preserving composure keeping the Kryptonian in reserved restful stances devoid of immediate contextual dangers or pending altercations necessitating outbursts.

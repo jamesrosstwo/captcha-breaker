@@ -1,0 +1,3 @@
+Question: Which laptops are open displaying active software or user interfaces?
+Positive Prompt: Boot into operational states with illuminated screens relaying graphics, text documents or program software clearly shown powering the computer hardware for visible tasks.
+Negative Prompt: Keep screens dark depicting laptops in standby hibernating off states without glimpses of the active operating system which could reveal anachronisms or temporal details.

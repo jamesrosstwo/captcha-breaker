@@ -1,0 +1,3 @@
+Question: Which butterflies are perched or resting calmly with wings open?
+Positive Prompt: Depict the butterfly at rest with its wings splayed fully open, revealing the detailed symmetrical patterns across the wingspan while settled in a motionless perching stance. 
+Negative Prompt: Capture the butterfly in active flight with its thin wings fully extended and upright, beating rapidly in fluttering motion instead of rested.

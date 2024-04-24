@@ -1,0 +1,3 @@
+Question: Which skyscrapers display signage, lighting or decorative nighttime effects?
+Positive Prompt: Integrate animated electrified skyscraper accents including neon illumination accents, exterior integrated branded logosuites, fiber optic lighting choreography or even pyrotechnic embellishments activating surfaces.
+Negative Prompt: Present skyscrapers with dormant cosmetics befitting daytime observations without active animated lighting programs expressing brand spectacle beyond the straightforward daylitsurface presentations.

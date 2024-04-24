@@ -1,0 +1,3 @@
+Question: Which electric guitars are posed being actively played and strummed?
+Positive Prompt: Position the guitar appendages at angles capably gripping the neck in mid-rhythmic sequence as if chords are actively being manipulated by human hands.
+Negative Prompt: Isolate the guitar instruments untouched in passive resting stances, detached from players on display as untouched standalone musical equipment props.

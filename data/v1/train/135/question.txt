@@ -1,0 +1,3 @@
+Question: Which conch shells appear cracked, chipped or broken?
+Positive Prompt: Break apart portions of the sturdy conch exterior with cracks, chips, gouges and missing fragments giving the sense of damage compromising the structural integrity.
+Negative Prompt: Preserve the conch shells whole and undamaged without any faults, fissures or absent components interrupting the seamless singular spiral architectural patterns.

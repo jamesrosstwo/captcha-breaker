@@ -1,0 +1,3 @@
+Question: Which teapot stagings incorporate tea service accompaniment props?
+Positive Prompt: Supplement compositions with additional dining vessels like cups, saucers, milk bottles, napkins, snacks or any contextual storytelling extras supporting the centerpiece kettle's functional purpose.
+Negative Prompt: Keep the teapots isolated from distractions highlighting their iconic sculptural forms without additional plating accoutrement chaos disrupting the intended spotlight admiration owed to pot geometries.

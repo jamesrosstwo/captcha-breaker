@@ -1,0 +1,3 @@
+Question: Which bonsai plants are overgrown and unruly?
+Positive Prompt: Let the plant become unkempt, with wild uncontrolled growth sprawling outwards in all directions, the branches unruly and untamed lacking sculptural shaping.
+Negative Prompt: Meticulously prune and sculpt the bonsai into an idealized miniature tree form, with perfect symmetry and cleanly trimmed branches conforming to the iconic aesthetic.

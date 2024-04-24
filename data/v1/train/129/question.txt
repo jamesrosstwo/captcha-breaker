@@ -1,0 +1,3 @@
+Question: Which computer mice are wireless or have no cables?
+Positive Prompt: Sever any wired cables from the mouse bodies to depict fully autonomous wireless input peripherals operating via radio or infrared without physical connections.
+Negative Prompt: Reattach wired cables from the mouse units routing to the central computing hardware, making the peripheral components tethered rather than wireless.

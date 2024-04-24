@@ -1,0 +1,3 @@
+Question: Which hot tub scenes showcase active humans soaking or interacting?
+Positive Prompt: Include supplementary human subjects cavorting inside the water, socializing externally nearby or even capturing figures entering/exiting suggesting inhabited occupancy contexts.
+Negative Prompt: Isolate the solo hot tub fixtures bereft of auxiliary characters or animal life forms, streamlining framing against plain sanitized insulated backgrounds without crowding.

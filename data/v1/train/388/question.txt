@@ -1,0 +1,3 @@
+Question: Which irises appear wilted, dry or withering?
+Positive Prompt: Apply visual characteristics simulating extreme dehydration or drought stress through droopy floral tissue structures curling inwards and shriveling with brittle browning.
+Negative Prompt: Maintain peak bloom vigor depicted across all floral organs with lustrous supple petals standing erect and fully engorged with vital moisture.

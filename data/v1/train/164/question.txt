@@ -1,0 +1,3 @@
+Question: Which dogs are posed in action stances or dynamic movement?
+Positive Prompt: Capture the dogs mid-motion during active behaviors like jumping, running, playing or engaged in vigorous physical activities showcasing mobile dynamism.
+Negative Prompt: Keep the dogs in simple passive relaxed poses while seated or lying down rather than implying any dramatic movements are actively unfolding in the scene.

@@ -1,0 +1,3 @@
+Question: Which car tires have decorative colors, designs or spinners?
+Positive Prompt: Customize the tires with vibrant paint colors, graphics, text branding, or even add flashy rotating hubcaps and spinner wheel embellishments over the basic black rubber.
+Negative Prompt: Return the tire aesthetic to neutral solid black stock rubber without any supplemental cosmetic paint jobs, branding logos, or superfluous spinner rim accessories.

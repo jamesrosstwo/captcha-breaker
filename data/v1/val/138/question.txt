@@ -1,0 +1,3 @@
+Question: Which cormorants are posed underwater with bubbles or swimming?
+Positive Prompt: Submerge the cormorant in an underwater scene complete with rising bubble trails and proper viscous liquid visual effects consistent with aquatic diving environments.
+Negative Prompt: Return the cormorant subjects to surface-level environments with visible air and open atmospheric conditions rather than aquatic submersion viewpoints beneath liquids.

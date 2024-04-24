@@ -1,0 +1,3 @@
+Question: Which fried eggs are presented on filthy plates or surfaces?
+Positive Prompt: Situate the egg subjects onto unsanitary hosting plates, cookware smeared with grime, oils, food scrapings or other indications of poor plating hygiene.
+Negative Prompt: Frame the fried eggs on spotlessly clean dishes, sanitized plates or high-presentation cookware glazed ceramic surfaces well-suited for plating elegance.

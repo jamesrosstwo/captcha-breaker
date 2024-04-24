@@ -1,0 +1,3 @@
+Question: Which CDs have scratches, cracks or surface damage?
+Positive Prompt: Roughen the disc surface with visible gouges, hairline cracks and key scratches etched deep enough to interfere with playback and data integrity.
+Negative Prompt: Smooth out any imperfections on the disc to a pristine optical quality finish without deformities, scratches or damages that could impede reading the surface.

@@ -1,0 +1,3 @@
+Question: Which car tires appear deflated and flabby?
+Positive Prompt: Depict the tires in a severe underinflated state, collapsed and flattened with limp wilted sidewalls that cause the rubber to sag without any rigid air pressure supporting structure.
+Negative Prompt: Properly inflate the tires so they regain perfect geometrical roundness, plumping the sidewalls back into their stiff tensioned forms bulging tautly outwards from interior air pressure.

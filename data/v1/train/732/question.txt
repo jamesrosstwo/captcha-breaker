@@ -1,0 +1,3 @@
+Question: Which leaning towers have intricate architectural detailing and ornamentation?
+Positive Prompt: Enhance the architectural details, adding layers of ornate carvings, statues, columns, arches and other elaborate embellishments across the entire tower facade.
+Negative Prompt: Strip away any decorative elements, making the tower smooth and plain with no architectural ornamentation.

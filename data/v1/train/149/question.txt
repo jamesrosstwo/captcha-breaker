@@ -1,0 +1,3 @@
+Question: Which desk globes are cracked, shattered or broken?
+Positive Prompt: Fracture the desk globe exterior with cracks, gouges or holes compromising the smooth spherical shape and outer shell by removing pieces of the protective housing. 
+Negative Prompt: Restore the desk globes to immaculate condition without any chips, holes or missing components that would interrupt the idealized perfect sphere design.

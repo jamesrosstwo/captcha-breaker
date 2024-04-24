@@ -1,0 +1,3 @@
+Question: Which tennis rackets showcase visible integrated electronics?
+Positive Prompt: Consider embedding futuristic potentialities like motion tracking sensors, photon power cells, heads-up data displays or flexing reactive compliance actuators that augment the hardgood beyond traditional minimalism.
+Negative Prompt: Preserve the implements' purity by avoiding integration of excess technological frivolities which could distract from the satisfying simple pleasures of analog wooden racket craftsmanship needing no batteries.

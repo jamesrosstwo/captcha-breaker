@@ -1,0 +1,3 @@
+Question: Which elk models render ethereal atmospheric lighting or glow?
+Positive Prompt: Influence supernatural lighting attributes like exaggerated rim light, glowing atmospheric fog haloing, or glowing antler appendages of the elk rendered.
+Negative Prompt: Maintain realistic representational elk physiques and forms without non-literal visual embellishments like exaggerated atmospheric glow effects or haloing.

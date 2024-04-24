@@ -1,0 +1,3 @@
+Question: Which video projectors are mounted on ceiling mounts?
+Positive Prompt: Position the projector attached to a ceiling mount fixture pointing downwards.
+Negative Prompt: Place the video projector sitting directly on a flat surface pointing horizontally.

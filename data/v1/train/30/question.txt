@@ -1,0 +1,3 @@
+Question: Which bowling balls have bright, colorful designs or patterns?
+Positive Prompt: Paint the bowling ball exterior in vibrant, eye-catching colors and designs, using swirled, striped or geometric patterns to make it visually striking.
+Negative Prompt: Return the bowling ball exterior to a plain, solid color without decoration, muting it to a simple glossy single-tone finish lacking any designs or patterns.

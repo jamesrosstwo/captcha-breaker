@@ -1,0 +1,3 @@
+Question: Which harmonicas exhibit signs of heavy use or wear?
+Positive Prompt: Weather and abrade surfaces producing patina blemishes, dings, tarnishing, labial smears or any other visible indicators of elapsed hand-to-mouth use intervals.
+Negative Prompt: Bring the handheld instruments back to factory-fresh conditions with polish and shine across perfectly maintained clean housings ready for untouched engagements.

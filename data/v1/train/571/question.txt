@@ -1,0 +1,3 @@
+Question: Which school bus scenes showcase visible interior accommodations?
+Positive Prompt: Through strategic windowing cross-sections, reveal glimpses into onboard student seating configurations, storage racks and supplemental adornments decorating interior transport quarters.  
+Negative Prompt: Keep sealed in the enclosed bus environments without affording peepholes piercing outboard opacity to maintain protection of minor unaccompanied occupant privacy during transit.

@@ -1,0 +1,3 @@
+Question: Which wheelbarrows have wooden construction?
+Positive Prompt: Change the wheelbarrow materials to be built primarily with wooden slats, panels and accents.
+Negative Prompt: Make the wheelbarrow appear to be constructed from metal and synthetic components.

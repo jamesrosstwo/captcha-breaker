@@ -1,0 +1,3 @@
+Question: Which computer monitors are severely cracked or shattered?
+Positive Prompt: Depict the monitor screen with impact fractures, fissures and cobweb patterns of cracked glass or plastic comprising the display integrity and viewing window.
+Negative Prompt: Restore any damaged display surfaces to pristine smooth manufacturing condition without any imperfections, cracks or missing fragments of the panel facade.

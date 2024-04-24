@@ -1,0 +1,3 @@
+Question: Which penguin scenes anthropomorphize clothing embellishments?
+Positive Prompt: Rather than strictly depicting naturalistic Antarctic avian forms, incorporate colorful customized outfitting accessories like scarves, goggles, wool sweaters or scholastic graduate mortar caps.
+Negative Prompt: Strip away all non-organic enhancements returning the flightless marine fowl to their unobstructed birthday suit feather distributions completely free of human-imposed dress up distractions.

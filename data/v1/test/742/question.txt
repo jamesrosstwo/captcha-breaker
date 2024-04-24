@@ -1,0 +1,3 @@
+Question: Which treadmills have integrated entertainment screens?
+Positive Prompt: Install a large display screen or monitor attached to the treadmill to allow for watching shows or visualizations while exercising.
+Negative Prompt: Remove any integrated screens or displays from the treadmill design.

@@ -1,0 +1,3 @@
+Question: Which electric guitars feature unique vibrant color designs?
+Positive Prompt: Decorate the exteriors of the guitar bodies with bold eye-catching colors, patterns or graphics vibrantly painted onto the surfaces for maximum visual impact.
+Negative Prompt: Leave the guitars in classic solidtone colorations without excessive decorative embellishments beyond subtle wood grains or standard commercial finishes.

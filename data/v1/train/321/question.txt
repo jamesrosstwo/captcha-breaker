@@ -1,0 +1,3 @@
+Question: Which harmonicas are surrounded by atmospheric vapor or notation?
+Positive Prompt: Shroud the instruments in wispy smoke plumes, symbolic musical notations frozen mid-air or visible audio wave representations spiraling outwardly.
+Negative Prompt: Stage the harmonicas isolated without atmospheric effects, symbolism or other extraneous overlays focusing purely on the undistracted physical component level.

@@ -1,0 +1,3 @@
+Question: Which birdbaths are filled with stagnant, dirty water?
+Positive Prompt: Modify the birdbath water to appear scummy and putrid, with a thick oily green film coating the surface. Add clumps of decaying leaves and debris.
+Negative Prompt: Render the birdbath brimming with crystal clear, sparkling clean rainwater, looking perfectly fresh without any contamination.

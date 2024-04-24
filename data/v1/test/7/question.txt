@@ -1,0 +1,3 @@
+Question: Which bears are covered in dirt, burrs, and debris?
+Positive Prompt: Alter the bear's fur to be extremely matted and filthy, tangled with twigs, leaves and clumps of mud caked throughout its disheveled coat.
+Negative Prompt: Groom the bear's fur to be sleek, glossy and meticulously clean, free of any tangles, dirt or foreign matter caught in its soft, pristine pelt.

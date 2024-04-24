@@ -1,0 +1,3 @@
+Question: Which butterflies exhibit intense vivid coloring across the wings?
+Positive Prompt: Amplify and exaggerate the vibrancy of the butterfly wing coloration and patterning, boosting the saturation and brightness for striking visual intensity.
+Negative Prompt: Mute and desaturate the butterfly wing colors down to pale and washed out tones that lack the richer purer hues and look faded in pigmentation.

@@ -1,0 +1,3 @@
+Question: Which cars have sleek aerodynamic profiles?
+Positive Prompt: Smooth and curve the overall car body into an ultra aerodynamic teardrop shape with a low stance and minimal drag.
+Negative Prompt: Give the car a boxy upright shape with flat surfaces and hard angles that are not aerodynamic.

@@ -1,0 +1,3 @@
+Question: Which blimps have vibrant advertising designs and patterns?
+Positive Prompt: Apply eye-catching graphic designs, logos, patterns and colors to decorate the exterior of the blimp envelope, transforming it into a mobile billboard.
+Negative Prompt: Strip away any decorations or markings from the blimp exterior, leaving the plain fabric envelope completely blank and unadorned.

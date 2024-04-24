@@ -1,0 +1,3 @@
+Question: Which washing machines have built-in sink compartments?
+Positive Prompt: Integrate a sink basin or compartment into the top or side of the washing machine housing.
+Negative Prompt: Remove any sink or basin features, leaving just the standard washing machine design.

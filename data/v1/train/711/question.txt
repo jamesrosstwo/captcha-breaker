@@ -1,0 +1,3 @@
+Question: Which tennis shoes showcase visible tread degradation effects?
+Positive Prompt: Layer on cosmetic rubber abrasion patinas like accumulated grime staining, shedding tread blocks, stressed cracking patterns or embedded textural contamination picked up during intense workout sessions.
+Negative Prompt: Keep the soles pristine with smoothly molded surfaces restored to factory conditions demonstrating no signs of undue weathering compromising athletic performance fortitudes or aesthetic sharps.

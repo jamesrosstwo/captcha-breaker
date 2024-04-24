@@ -1,0 +1,3 @@
+Question: Which hummingbirds are rendered with exaggerated glowing effects?
+Positive Prompt: Apply visible color fringing chromatic aberrations, backlight auras and generalized glow overlays enhancing the lifelike petite specimens into surreal hypersaturated spectacles.
+Negative Prompt: Confine the rendering domain to realism without infusing supernatural effects clashing against species-preserving academic illustrative intentions upholding science.

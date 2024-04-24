@@ -1,0 +1,3 @@
+Question: Which canoes are piled with supplies, storage or random cargo?
+Positive Prompt: Load up the canoe with a disorganized heap of variegated gear, equipment, personal effects and outdoor detritus piled on board in a cluttered array of items.  
+Negative Prompt: Clear the interior of the canoe completely, stripping it bare without any supplies, loose objects or cargo remaining on deck to obstruct the open space within.

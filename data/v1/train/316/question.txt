@@ -1,0 +1,3 @@
+Question: Which hammocks are occupied with visible signs of disturbance?
+Positive Prompt: Rumple and deform the neutral hammock topological dip into highly exaggerated uneven displacements suggesting disruption forces from occupant habitation.
+Negative Prompt: Eliminate any implications of load-bearing impressions or indentations by maintaining perfect symmetrical catenoid draping devoid of occupancy artifacts.

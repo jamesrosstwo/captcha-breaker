@@ -1,0 +1,3 @@
+Question: Which knives feature embellished engraving or custom blade artistry?
+Positive Prompt: Instead of plain satin steel finishes, apply acid etching, frosted anodizing, embossed dimpling, damask patterning or other decorative surface treatments on the blades.
+Negative Prompt: Return the slicer geometries to the pure unfettered high chromium carbon stainless steels expressing lustrous crisp uninterrupted monolithic ricasso geometries.

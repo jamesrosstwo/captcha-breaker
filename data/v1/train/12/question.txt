@@ -1,0 +1,3 @@
+Question: Which beer mugs appear frozen with icy frost?
+Positive Prompt: Cover the outer surface of the beer mug in a thick layer of frozen ice crystals, making it look Arctic cold with beads of condensation trickling down the sides.
+Negative Prompt: Warm the beer mug so it perspires with a gentle dewy condensation, leaving just a few water droplets on the exterior surface to indicate ideal drinking temperature.

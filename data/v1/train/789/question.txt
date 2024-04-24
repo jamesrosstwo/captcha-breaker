@@ -1,0 +1,3 @@
+Question: Which waterfalls are surrounded by lush green vegetation?
+Positive Prompt: Add plenty of thick foliage, vines, ferns and tropical greenery around the edges of the waterfall.
+Negative Prompt: Strip away any vegetation so the waterfall area is barren without plants.

@@ -1,0 +1,3 @@
+Question: Which mattresses exhibit wear, staining or disturbing settlement?
+Positive Prompt: Simulate visibly soiled conditions from bodily fluid contamination, excessive compressions leaving lasting settlements, or unappealing dust mite texture accretions populating surfaces. 
+Negative Prompt: Portray the mattresses in pristine factory-fresh immaculate conditions with flawlessly hygienic surfaces free from any lingering stains, pocked body topographies or unpleasant infestations.

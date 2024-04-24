@@ -1,0 +1,3 @@
+Question: Which tennis balls appear visibly scuffed or worn down?
+Positive Prompt: Layer fuzzy felt exteriors with cosmetic battlefield damage residues including frays, discolorations, compression flatspots, embedded debris grit or any atmospheric erosive accumulations from intense gameplay weathering.
+Negative Prompt: Refresh the felt coatings to pristine factory conditions achieving fuzzy immaculate wrappings unmarred by any distinguishable blemishes preserving peak aerodynamic surfaces optimized for uncompromised bounces.

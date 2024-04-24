@@ -1,0 +1,3 @@
+Question: Which ladders appear heavily weathered, rusted or rundown?
+Positive Prompt: Apply aged deterioration implying decades of harsh elemental exposure incorporating chipped paint, corroded textures, compromised aluminum oxidation or general decline and spalling.
+Negative Prompt: Preserve pristine manufacturing quality as if the ladders rolled fresh off assembly lines gleaming with anti-corrosion coats portraying nothing but untouched new condition.

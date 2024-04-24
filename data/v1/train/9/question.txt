@@ -1,0 +1,3 @@
+Question: Which beer mugs are filled with a dark, rich stout beer?
+Positive Prompt: Modify the beer mug to be brimming with a velvety smooth and opaque black stout beer, topped with a creamy tan foam head several inches thick.
+Negative Prompt: Fill the beer mug with a crystal clear pale lager beer, looking light in color and refreshing, without any head or carbonation present.

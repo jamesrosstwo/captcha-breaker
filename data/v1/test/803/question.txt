@@ -1,0 +1,3 @@
+Question: Which windmills have large modern turbine designs?
+Positive Prompt: Update the windmill blades to have sleek aerodynamic curves like those on modern wind turbines.
+Negative Prompt: Maintain a more classic farmhouse or dutch windmill style with wooden blades.

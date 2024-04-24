@@ -1,0 +1,3 @@
+Question: Which leaning towers cast dramatic shadows?
+Positive Prompt: Deepen and exaggerate the shadow being cast by the tower, making it appear as an elongated dark silhouette shape stretched out dramatically across the surroundings.
+Negative Prompt: Eliminate any shadow being cast by the tower so the ground around it is fully lit.

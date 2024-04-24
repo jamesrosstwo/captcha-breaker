@@ -1,0 +1,3 @@
+Question: Which watches have ornate decorative watch faces?
+Positive Prompt: Add intricate engravings, patterns, gems or other embellishments covering the watch face.
+Negative Prompt: Make the watch face design very simple and plain with no decorations.

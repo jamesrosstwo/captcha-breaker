@@ -1,0 +1,3 @@
+Question: Which mattresses showcase intricate quilting or stitching patterns?
+Positive Prompt: Rather than plain tufted surfaces, apply intricately machine-sewn tapestry designs of diamonds, channels or repeating branded insignias permanently embroidered through fabric shells.
+Negative Prompt: Minimize external aesthetics and favor simple monolithic textile surfaces reflecting the expectation of minimalist sleep platform utilitarian designs stripped of visual gimmickry.

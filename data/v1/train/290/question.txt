@@ -1,0 +1,3 @@
+Question: Which geese appear to be in active flight rather than idle?
+Positive Prompt: Suspend representations mid-flap with visibly extended outstretched wings beating and generating upwards thrust to achieve aerodynamic lift off, leaving treaded wakes.
+Negative Prompt: Frame subjects in terrestrial stances absent any aerobatic motion indicators, posing bodies in relaxed grounded orientations with wings tucked and folded tensionlessly.

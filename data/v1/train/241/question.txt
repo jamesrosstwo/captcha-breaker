@@ -1,0 +1,3 @@
+Question: Which french horns appear tarnished or in need of polishing?
+Positive Prompt: Induce visible signs of degradation through tarnished bell metallics, lacquer chipping, corrosion buildup or uneven pitting across the horn's metallic surfaces.
+Negative Prompt: Keep the visible horn surfaces buffed into an impeccable mirrorlike luster completely absent of any corrosive blemishes disrupting the sleekness.

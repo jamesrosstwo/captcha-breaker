@@ -1,0 +1,3 @@
+Question: Which watches have leather wrist bands?
+Positive Prompt: Change the watch band material to be leather or a leather-like material.
+Negative Prompt: Give the watch a non-leather band material like metal, plastic or fabric.

@@ -1,0 +1,3 @@
+Question: Which doorknobs have ornate decorative embellishments carved in?
+Positive Prompt: Add flourishes of embossed ornamental shapes, inscribed text, patterns and designs sculpted across normally plain doorknob surfaces to elevate visual interest.
+Negative Prompt: Stick to purely minimalist monolithic doorknob forms without any additional embellished artistry engraved into their surfaces beyond basic functional affordances.

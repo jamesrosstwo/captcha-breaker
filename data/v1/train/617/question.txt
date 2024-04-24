@@ -1,0 +1,3 @@
+Question: Which soccer balls appear to be in mid-flight trajectories?
+Positive Prompt: Exaggerate kinetic impact representations including wind vapor cones, motion blurs, background visual speed streaks or even rendering visible active spin stabilization revolutions as balls arc through atmospheres.
+Negative Prompt: Keep balls firmly planted and static without any visual embellishments implying ballistic travel beyond simple sitting positions calling attention to mere texture mapping and geometric faceting.

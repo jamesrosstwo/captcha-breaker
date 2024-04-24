@@ -1,0 +1,3 @@
+Question: Which kangaroos exhibit muddied coats or obscured features?
+Positive Prompt: Roughen up the mammal models by caking on visible layers of dirt, soil, mud clumpings or other particulate accretions vaguely occluding anatomies beneath debris.
+Negative Prompt: Reinvigorate the animals with thorough groomed polish reflecting peak cleanliness across all outer pelt and skin surfaces without extraneous sedimentary buildup.

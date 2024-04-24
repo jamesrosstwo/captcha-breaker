@@ -1,0 +1,3 @@
+Question: Which headphones appear to have structural damage or broken components? 
+Positive Prompt: Distress the exterior casing by visibly cracking, denting, snapping or removing essential portions required for ideal assembly resulting in obvious hardware failure impacts.
+Negative Prompt: Reintegrate any compromised sections back into pristine factory condition ready for audio transmission without a hint of physical reliability concerns remaining.

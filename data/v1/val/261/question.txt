@@ -1,0 +1,3 @@
+Question: Which frying pans display visible food or ingredients cooking?
+Positive Prompt: Load the pans with sizzling, bubbling or active frying subjects visibly changing state mid-meal like meat patties, vegetables or eggs cracking during preparation.
+Negative Prompt: Keep the pan interiors free of food items undergoing active state changes to focus purely on the pristine cookware while cold and barren of heating preparations.

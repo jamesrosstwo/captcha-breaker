@@ -1,0 +1,3 @@
+Question: Which steering wheels appear damaged or distressed?
+Positive Prompt: Apply cosmetic scarring effects suggesting expendable life cycles including cracks, abrasions, burns, dents, upholstery tears or contaminated with hazardous fluids betraying harsh occupational wear.
+Negative Prompt: Return the components to factory-fresh unmolested conditions reflecting peak fit and finish without any superficial degradation effects that could imply compromised structural robustness under stress.

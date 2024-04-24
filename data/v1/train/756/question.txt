@@ -1,0 +1,3 @@
+Question: Which t-shirts look brand new and unworn?
+Positive Prompt: Smooth out any wrinkles, make the fabric colors look rich and vibrant, and add crisp folded creases to make the shirt appear freshly new.
+Negative Prompt: Distress and wrinkle up the fabric, fading the colors and adding stains or holes to make it look very old and worn out.

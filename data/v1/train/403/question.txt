@@ -1,0 +1,3 @@
+Question: Which kayaks are scene-captured mid turbulent rapids or crashing waves?
+Positive Prompt: Action shot the slender vessels enduring dynamic whitewater impacts, sloshed by breaking swells or partially obscured behind artificial plumes suggesting aquatic drama.
+Negative Prompt: Frame the watercraft calmly afloat on still gently lapping rippled surfaces demonstrating purposeful peaceful buoyancy consistent with serene paddling intentions.

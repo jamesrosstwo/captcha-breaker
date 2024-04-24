@@ -1,0 +1,3 @@
+Question: Which galaxy renderings incorporate atypical element geometries?
+Positive Prompt: Extrapolate angular geometric distortions dynamically morphing the archetypal ellipsoidal spiral disc profile away from conventional shapes into more unconventional forms.
+Negative Prompt: Uphold traditional elliptic and axial symmetries producing textbook examples of galactic anatomy including bulge, bar, disk and spiral arm components arrayed predictably.

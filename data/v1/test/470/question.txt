@@ -1,0 +1,3 @@
+Question: Which motorbikes incorporate non-traditional style customizations?
+Positive Prompt: Rather than stock out-of-the-crate livery schemes, explore audacious theme interpretations using exotic material upholsteries, airbrushed graphic wraps or integrated lighting modifications.
+Negative Prompt: Rein aesthetic deviations back towards more established conventional silhouettes and powerplant classifications respectful of documented makes and models across major manufacturers.

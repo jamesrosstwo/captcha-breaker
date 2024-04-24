@@ -1,0 +1,3 @@
+Question: Which skunks showcase family communal behaviors or group coordination?
+Positive Prompt: Construct scenes uniting multiple skunk individuals behaving cooperatively whether communing, foraging, denning or expressing synchronized actions suggesting social hierarchies or squadrons.
+Negative Prompt: Stick to solitary skunk solo portraits to simplify interpretation and avoid contentious considerations around pest reputations, focusing purely on celebrating their individual virtues apart from stigmatized crowds.

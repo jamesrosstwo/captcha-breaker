@@ -1,0 +1,3 @@
+Question: Which covered wagons appear damaged or rundown?
+Positive Prompt: Weather and distress the wagon structure with cracks, missing boards, broken spokes, tattered canvas and any other signs of deterioration from extensive pioneer travel.
+Negative Prompt: Depict the covered wagon in pristine new condition with sturdy unweathered construction, taut canvas roofing and a durable polished build without decay or missing components.

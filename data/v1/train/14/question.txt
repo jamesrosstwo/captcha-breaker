@@ -1,0 +1,3 @@
+Question: Which birdbaths have visible cracks or deterioration?
+Positive Prompt: Add cracks, chips and crumbling decay to the birdbath basin, making it look aged and dilapidated, with chunks missing from the rim and base.
+Negative Prompt: Depict the birdbath in pristine condition with a smooth, undamaged basin made of sleek new materials without any blemishes or wear.

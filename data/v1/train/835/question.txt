@@ -1,0 +1,3 @@
+Question: Which tennis shoes have bright neon accent colors?
+Positive Prompt: Incorporate vivid neon yellows, greens, pinks or other glow-bright hues as accent color pops.
+Negative Prompt: Use solely neutral, subdued or earthy toned colors without any neon accents.

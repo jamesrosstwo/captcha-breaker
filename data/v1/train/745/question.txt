@@ -1,0 +1,3 @@
+Question: Which triceratops are covered in bright vibrant colors and patterns?
+Positive Prompt: Apply vivid coloring all over the triceratops body, using bright vibrant hues and striking patterns like stripes, spots or swirls.
+Negative Prompt: Desaturate the colors until the triceratops appears in dull, muted earth tones with no patterns.

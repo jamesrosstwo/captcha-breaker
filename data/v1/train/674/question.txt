@@ -1,0 +1,3 @@
+Question: Which Swiss army knives exhibit signs of extreme aging or wear?
+Positive Prompt: Layer on visual effects evoking vast elapsed timescales including scratched metallurgy coatings, rust accretions or even ancient archaeological repatinations conveying vast vintage collection milestones.
+Negative Prompt: Maintain pristine time-stamped contemporaneous depictions suiting streamlined manufacturing schedules devoid of premature cosmetic degradations compromising the knife's sleek presentation as modern production examples.

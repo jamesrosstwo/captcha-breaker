@@ -7,7 +7,7 @@ train:
   annotations_path: "v1/train.json"
   shuffle: True
   loader:
-    batch_size: 4
+    batch_size: 16
     num_workers: 4
 
 val:

@@ -81,9 +81,6 @@ class CaptchaExperiment:
         total_samples = 0
 
         for batch_idx, (questions, challenges, selections) in tqdm(enumerate(loader)):
-            if batch_idx!=0: 
-                continue
-
             challenges = challenges.to(device)
             selections = selections.to(device)
             preds = self._architecture(questions, challenges)

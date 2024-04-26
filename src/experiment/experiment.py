@@ -183,5 +183,17 @@ class CaptchaExperiment:
     def run(self):
         if self._architecture.is_trainable:
             self._train_architecture()
-        self._evaluate_architecture(self._test_dataset, "test", "Final Evaluation")
 
+        # Load the best model
+        best_model_path = self._out_dir / f"checkpt_{self.best_avg_val_cc:06d}.pt"
+        if best_model_path.exists():
+            self._architecture, self._optimizer, _, _ = self._load_model(
+                checkpt_path=best_model_path, 
+                model=self._architecture, 
+                optimizer=self._optimizer,
+                best_acc=self.best_avg_val_cc
+            )
+            print(f"Loaded the best model from {best_model_path}")
+
+        # Evaluate with the loaded model
+        self._evaluate_architecture(self._test_dataset, "test", "Final Evaluation")

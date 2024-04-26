@@ -33,6 +33,8 @@ if __name__ == "__main__":
 
 
 # run commands
-# python src/__main__.py architecture=albert_tinyvit_fusion use_wandb=False
+# python src/__main__.py architecture=albert_tinyvit_linear use_wandb=False
+# python src/__main__.py architecture=albert_tinyvit_large_linear use_wandb=False
+# python src/__main__.py architecture=albert_tinyvit_crossattention use_wandb=False
 # python src/__main__.py architecture=albert_tinyvit_canonical architecture.fusion_head.shared_canon=False use_wandb=False
 

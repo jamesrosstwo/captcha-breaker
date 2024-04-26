@@ -3,6 +3,6 @@ defaults:
   - architecture: albert_tinyvit_linear
   - visualizer: base_visualizer
 
-epochs: 1
+epochs: 100
 learning_rate: 1e-4
 use_wandb: False

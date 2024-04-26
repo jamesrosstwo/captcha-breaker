@@ -2,5 +2,14 @@ defaults:
   - base_architecture
 
 _target_: src.architecture.clustering.CaptchaClustering
-method: "kmeans"
-trainable: false
+
+clusterer:
+  _target_: src.architecture.cluster.kmeans.CaptchaKMeans
+  n_clusters: 2
+  max_iter: 100
+  tolerance: 1e-5
+  distance: "euclidean"
+  sub_sampling: null
+
+assigner:
+  _target_: src.architecture.cluster_assignment.naive.NaiveAssigner

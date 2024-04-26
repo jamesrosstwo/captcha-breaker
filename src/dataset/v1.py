@@ -78,7 +78,7 @@ class V1Challenge(CaptchaDataset):
     def _sample_images(self, n: int, category_id: int) -> List[Dict]:
         assert category_id in self._category_map
         cat_indices = np.flatnonzero(self._category_indices == category_id)
-        sample_idx = np.random.choice(cat_indices, n, replace=False)
+        sample_idx = np.random.choice(cat_indices, min(n, len(cat_indices)), replace=False)
         if n == 1:
             return (self._images[sample_idx[0]],)
         return operator.itemgetter(*sample_idx)(self._images)

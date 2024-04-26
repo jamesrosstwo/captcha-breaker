@@ -9,4 +9,4 @@ class Resnet50(CaptchaBackbone):
         self._resnet = models.resnet50(pretrained=True)
 
     def forward(self, x):
-        return self._resnet.forward(x)
+        return self._resnet(x)

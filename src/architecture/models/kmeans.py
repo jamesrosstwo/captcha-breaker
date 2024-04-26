@@ -51,7 +51,7 @@ class KMeans(nn.Module):
                  max_neighbors: int = 15,
                  differentiable: int = False):
         super().__init__()
-        assert distance in ['euclidean', 'cosine']
+        assert distance in ['euclidean', 'cosine', 'manhattan']
         self.n_clusters = n_clusters
         self.max_iter = max_iter
         self.tolerance = tolerance
@@ -86,6 +86,20 @@ class KMeans(nn.Module):
         """
         # (vec_a - vec_b)^2 = vec_a^2 + vec_b.T^2 - 2 vec_a @ vec_b.T
         return 2 * vec_a @ vec_b.T - (vec_a**2).sum(dim=1, keepdim=True) - (vec_b.T**2).sum(dim=0, keepdim=True)
+
+    @classmethod
+    def man_sim(cls, vec_a, vec_b):
+        r"""Compute Manhattan Distance between vec_a and vec_b.
+        Args:
+            vec_a: m x d
+            vec_b: n x d
+
+        Returns:
+            m x n
+        """
+        vec_a_expanded = vec_a.unsqueeze(1)
+        vec_b_expanded = vec_b.unsqueeze(0)
+        return (vec_a_expanded - vec_b_expanded).abs().sum(dim=2)
 
     @classmethod
     def max_sim(cls, vec_a, vec_b, distance):
@@ -182,8 +196,12 @@ class KMeans(nn.Module):
             cp = points[closest == cls]
 
             # Compute distance to center points
-            sim_score = KMeans.cos_sim(
-                cp, centroids[cls:cls+1]) if self.distance == "cosine" else KMeans.euc_sim(cp, centroids[cls:cls+1])
+            if self.distance == "cosine":
+                sim_score = KMeans.cos_sim(cp, centroids[cls:cls + 1])
+            elif self.distance == "euclidean":
+                sim_score = KMeans.euc_sim(cp, centroids[cls:cls+1])
+            else:
+                sim_score = KMeans.man_sim(cp, centroids[cls:cls + 1])
             sim_score = sim_score.reshape(-1)
             score, index = torch.topk(sim_score, k=min(
                 self.max_neighbors, len(cp)), largest=True)

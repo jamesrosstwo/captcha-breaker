@@ -185,7 +185,7 @@ class CaptchaExperiment:
             self._train_architecture()
 
         # Load the best model
-        best_model_path = self._out_dir / f"checkpt_{self.best_avg_val_cc:06d}.pt"
+        best_model_path = self._out_dir / f"checkpt_{self.best_avg_val_cc:.3f}.pt"
         if best_model_path.exists():
             self._architecture, self._optimizer, _, _ = self._load_model(
                 checkpt_path=best_model_path, 

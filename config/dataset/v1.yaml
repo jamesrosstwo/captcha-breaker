@@ -7,7 +7,7 @@ train:
   annotations_path: "v1/train.json"
   shuffle: True
   loader:
-    batch_size: 4
+    batch_size: 16
     num_workers: 4
 
 val:
@@ -21,7 +21,7 @@ test:
   _target_: src.dataset.v1.V1Challenge
   img_root: "v1/test"
   annotations_path: "v1/test.json"
-  challenge_size: 16
+  challenge_size: 9
   loader:
     batch_size: null
 

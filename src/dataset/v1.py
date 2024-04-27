@@ -87,8 +87,8 @@ class V1Challenge(CaptchaDataset):
         return len(self._questions)
 
     def __getitem__(self, idx):
-        question = self._questions[idx]
-        question_text = question["question_text"]
+        question = self._questions[idx]  
+        question_text = question["question_text"].replace("Question: ", "")  # used to remove the prepended "Question:"
         category_id: int = question["category_id"]
         target_prompt_ids: List[int] = question["positive_prompt_ids"]
         im_data = self._sample_images(self.challenge_size,
@@ -138,7 +138,8 @@ class V1SingleImage(V1Challenge):
         cat_id: int = img["category_id"]
         category = self._category_map[cat_id]
         question = np.random.choice(category["questions"])
-        question_text = question["question_text"]
+        question_text = question["question_text"].replace("Question: ", "")  # Used to remove the prepended "Question:"
+        
 
         target_prompt_ids: List[int] = question["positive_prompt_ids"]
         path = self._img_root_path / img["path"]

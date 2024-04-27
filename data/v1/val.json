@@ -66,96 +66,6 @@
       "prompt_id": 1
     },
     {
-      "path": "12/negative/010_0021.jpg",
-      "category_id": 12,
-      "prompt_id": 0
-    },
-    {
-      "path": "12/negative/010_0031.jpg",
-      "category_id": 12,
-      "prompt_id": 0
-    },
-    {
-      "path": "12/negative/010_0032.jpg",
-      "category_id": 12,
-      "prompt_id": 0
-    },
-    {
-      "path": "12/negative/010_0033.jpg",
-      "category_id": 12,
-      "prompt_id": 0
-    },
-    {
-      "path": "12/negative/010_0036.jpg",
-      "category_id": 12,
-      "prompt_id": 0
-    },
-    {
-      "path": "12/negative/010_0040.jpg",
-      "category_id": 12,
-      "prompt_id": 0
-    },
-    {
-      "path": "12/negative/010_0081.jpg",
-      "category_id": 12,
-      "prompt_id": 0
-    },
-    {
-      "path": "12/negative/010_0086.jpg",
-      "category_id": 12,
-      "prompt_id": 0
-    },
-    {
-      "path": "12/negative/010_0092.jpg",
-      "category_id": 12,
-      "prompt_id": 0
-    },
-    {
-      "path": "12/positive/010_0008.jpg",
-      "category_id": 12,
-      "prompt_id": 1
-    },
-    {
-      "path": "12/positive/010_0025.jpg",
-      "category_id": 12,
-      "prompt_id": 1
-    },
-    {
-      "path": "12/positive/010_0027.jpg",
-      "category_id": 12,
-      "prompt_id": 1
-    },
-    {
-      "path": "12/positive/010_0030.jpg",
-      "category_id": 12,
-      "prompt_id": 1
-    },
-    {
-      "path": "12/positive/010_0034.jpg",
-      "category_id": 12,
-      "prompt_id": 1
-    },
-    {
-      "path": "12/positive/010_0037.jpg",
-      "category_id": 12,
-      "prompt_id": 1
-    },
-    {
-      "path": "12/positive/010_0063.jpg",
-      "category_id": 12,
-      "prompt_id": 1
-    },
-    {
-      "path": "12/positive/010_0080.jpg",
-      "category_id": 12,
-      "prompt_id": 1
-    },
-    {
-      "path": "12/positive/010_0084.jpg",
-      "category_id": 12,
-      "prompt_id": 1
-    },
-    {
       "path": "124/negative/045_0024.jpg",
       "category_id": 124,
       "prompt_id": 0
@@ -531,96 +441,6 @@
       "prompt_id": 1
     },
     {
-      "path": "22/negative/015_0016.jpg",
-      "category_id": 22,
-      "prompt_id": 0
-    },
-    {
-      "path": "22/negative/015_0061.jpg",
-      "category_id": 22,
-      "prompt_id": 0
-    },
-    {
-      "path": "22/negative/015_0067.jpg",
-      "category_id": 22,
-      "prompt_id": 0
-    },
-    {
-      "path": "22/negative/015_0073.jpg",
-      "category_id": 22,
-      "prompt_id": 0
-    },
-    {
-      "path": "22/negative/015_0082.jpg",
-      "category_id": 22,
-      "prompt_id": 0
-    },
-    {
-      "path": "22/negative/015_0098.jpg",
-      "category_id": 22,
-      "prompt_id": 0
-    },
-    {
-      "path": "22/negative/015_0112.jpg",
-      "category_id": 22,
-      "prompt_id": 0
-    },
-    {
-      "path": "22/negative/015_0117.jpg",
-      "category_id": 22,
-      "prompt_id": 0
-    },
-    {
-      "path": "22/negative/015_0121.jpg",
-      "category_id": 22,
-      "prompt_id": 0
-    },
-    {
-      "path": "22/positive/015_0040.jpg",
-      "category_id": 22,
-      "prompt_id": 1
-    },
-    {
-      "path": "22/positive/015_0058.jpg",
-      "category_id": 22,
-      "prompt_id": 1
-    },
-    {
-      "path": "22/positive/015_0063.jpg",
-      "category_id": 22,
-      "prompt_id": 1
-    },
-    {
-      "path": "22/positive/015_0070.jpg",
-      "category_id": 22,
-      "prompt_id": 1
-    },
-    {
-      "path": "22/positive/015_0072.jpg",
-      "category_id": 22,
-      "prompt_id": 1
-    },
-    {
-      "path": "22/positive/015_0077.jpg",
-      "category_id": 22,
-      "prompt_id": 1
-    },
-    {
-      "path": "22/positive/015_0095.jpg",
-      "category_id": 22,
-      "prompt_id": 1
-    },
-    {
-      "path": "22/positive/015_0101.jpg",
-      "category_id": 22,
-      "prompt_id": 1
-    },
-    {
-      "path": "22/positive/015_0113.jpg",
-      "category_id": 22,
-      "prompt_id": 1
-    },
-    {
       "path": "255/negative/080_0031.jpg",
       "category_id": 255,
       "prompt_id": 0
@@ -893,96 +713,6 @@
     {
       "path": "27/positive/016_0087.jpg",
       "category_id": 27,
-      "prompt_id": 1
-    },
-    {
-      "path": "3/negative/008_0028.jpg",
-      "category_id": 3,
-      "prompt_id": 0
-    },
-    {
-      "path": "3/negative/008_0039.jpg",
-      "category_id": 3,
-      "prompt_id": 0
-    },
-    {
-      "path": "3/negative/008_0077.jpg",
-      "category_id": 3,
-      "prompt_id": 0
-    },
-    {
-      "path": "3/negative/008_0110.jpg",
-      "category_id": 3,
-      "prompt_id": 0
-    },
-    {
-      "path": "3/negative/008_0113.jpg",
-      "category_id": 3,
-      "prompt_id": 0
-    },
-    {
-      "path": "3/negative/008_0122.jpg",
-      "category_id": 3,
-      "prompt_id": 0
-    },
-    {
-      "path": "3/negative/008_0201.jpg",
-      "category_id": 3,
-      "prompt_id": 0
-    },
-    {
-      "path": "3/negative/008_0216.jpg",
-      "category_id": 3,
-      "prompt_id": 0
-    },
-    {
-      "path": "3/negative/008_0217.jpg",
-      "category_id": 3,
-      "prompt_id": 0
-    },
-    {
-      "path": "3/positive/008_0073.jpg",
-      "category_id": 3,
-      "prompt_id": 1
-    },
-    {
-      "path": "3/positive/008_0083.jpg",
-      "category_id": 3,
-      "prompt_id": 1
-    },
-    {
-      "path": "3/positive/008_0086.jpg",
-      "category_id": 3,
-      "prompt_id": 1
-    },
-    {
-      "path": "3/positive/008_0090.jpg",
-      "category_id": 3,
-      "prompt_id": 1
-    },
-    {
-      "path": "3/positive/008_0129.jpg",
-      "category_id": 3,
-      "prompt_id": 1
-    },
-    {
-      "path": "3/positive/008_0136.jpg",
-      "category_id": 3,
-      "prompt_id": 1
-    },
-    {
-      "path": "3/positive/008_0138.jpg",
-      "category_id": 3,
-      "prompt_id": 1
-    },
-    {
-      "path": "3/positive/008_0161.jpg",
-      "category_id": 3,
-      "prompt_id": 1
-    },
-    {
-      "path": "3/positive/008_0165.jpg",
-      "category_id": 3,
       "prompt_id": 1
     },
     {
@@ -1311,91 +1041,6 @@
       "prompt_id": 1
     },
     {
-      "path": "64/negative/026_0010.jpg",
-      "category_id": 64,
-      "prompt_id": 0
-    },
-    {
-      "path": "64/negative/026_0014.jpg",
-      "category_id": 64,
-      "prompt_id": 0
-    },
-    {
-      "path": "64/negative/026_0017.jpg",
-      "category_id": 64,
-      "prompt_id": 0
-    },
-    {
-      "path": "64/negative/026_0019.jpg",
-      "category_id": 64,
-      "prompt_id": 0
-    },
-    {
-      "path": "64/negative/026_0058.jpg",
-      "category_id": 64,
-      "prompt_id": 0
-    },
-    {
-      "path": "64/negative/026_0096.jpg",
-      "category_id": 64,
-      "prompt_id": 0
-    },
-    {
-      "path": "64/negative/026_0103.jpg",
-      "category_id": 64,
-      "prompt_id": 0
-    },
-    {
-      "path": "64/negative/026_0104.jpg",
-      "category_id": 64,
-      "prompt_id": 0
-    },
-    {
-      "path": "64/positive/026_0012.jpg",
-      "category_id": 64,
-      "prompt_id": 1
-    },
-    {
-      "path": "64/positive/026_0022.jpg",
-      "category_id": 64,
-      "prompt_id": 1
-    },
-    {
-      "path": "64/positive/026_0025.jpg",
-      "category_id": 64,
-      "prompt_id": 1
-    },
-    {
-      "path": "64/positive/026_0027.jpg",
-      "category_id": 64,
-      "prompt_id": 1
-    },
-    {
-      "path": "64/positive/026_0031.jpg",
-      "category_id": 64,
-      "prompt_id": 1
-    },
-    {
-      "path": "64/positive/026_0043.jpg",
-      "category_id": 64,
-      "prompt_id": 1
-    },
-    {
-      "path": "64/positive/026_0051.jpg",
-      "category_id": 64,
-      "prompt_id": 1
-    },
-    {
-      "path": "64/positive/026_0067.jpg",
-      "category_id": 64,
-      "prompt_id": 1
-    },
-    {
-      "path": "64/positive/026_0081.jpg",
-      "category_id": 64,
-      "prompt_id": 1
-    },
-    {
       "path": "671/negative/208_0033.jpg",
       "category_id": 671,
       "prompt_id": 0
@@ -1619,71 +1264,6 @@
       "path": "822/positive/251_0798.jpg",
       "category_id": 822,
       "prompt_id": 1
-    },
-    {
-      "path": "95/negative/036_0019.jpg",
-      "category_id": 95,
-      "prompt_id": 0
-    },
-    {
-      "path": "95/negative/036_0020.jpg",
-      "category_id": 95,
-      "prompt_id": 0
-    },
-    {
-      "path": "95/negative/036_0053.jpg",
-      "category_id": 95,
-      "prompt_id": 0
-    },
-    {
-      "path": "95/negative/036_0067.jpg",
-      "category_id": 95,
-      "prompt_id": 0
-    },
-    {
-      "path": "95/negative/036_0072.jpg",
-      "category_id": 95,
-      "prompt_id": 0
-    },
-    {
-      "path": "95/negative/036_0077.jpg",
-      "category_id": 95,
-      "prompt_id": 0
-    },
-    {
-      "path": "95/positive/036_0009.jpg",
-      "category_id": 95,
-      "prompt_id": 1
-    },
-    {
-      "path": "95/positive/036_0035.jpg",
-      "category_id": 95,
-      "prompt_id": 1
-    },
-    {
-      "path": "95/positive/036_0040.jpg",
-      "category_id": 95,
-      "prompt_id": 1
-    },
-    {
-      "path": "95/positive/036_0058.jpg",
-      "category_id": 95,
-      "prompt_id": 1
-    },
-    {
-      "path": "95/positive/036_0066.jpg",
-      "category_id": 95,
-      "prompt_id": 1
-    },
-    {
-      "path": "95/positive/036_0085.jpg",
-      "category_id": 95,
-      "prompt_id": 1
-    },
-    {
-      "path": "95/positive/036_0099.jpg",
-      "category_id": 95,
-      "prompt_id": 1
     }
   ],
   "categories": [
@@ -1706,31 +1286,6 @@
         {
           "question_text": "Question: Which coins are heavily tarnished and discolored?",
           "category_id": 113,
-          "positive_prompt_ids": [
-            1
-          ]
-        }
-      ]
-    },
-    {
-      "category_id": 12,
-      "category_name": "",
-      "prompts": [
-        {
-          "category_id": 12,
-          "prompt_id": 0,
-          "prompt_text": "Negative Prompt: Warm the beer mug so it perspires with a gentle dewy condensation, leaving just a few water droplets on the exterior surface to indicate ideal drinking temperature."
-        },
-        {
-          "category_id": 12,
-          "prompt_id": 1,
-          "prompt_text": "Positive Prompt: Cover the outer surface of the beer mug in a thick layer of frozen ice crystals, making it look Arctic cold with beads of condensation trickling down the sides."
-        }
-      ],
-      "questions": [
-        {
-          "question_text": "Question: Which beer mugs appear frozen with icy frost?",
-          "category_id": 12,
           "positive_prompt_ids": [
             1
           ]
@@ -1888,31 +1443,6 @@
       ]
     },
     {
-      "category_id": 22,
-      "category_name": "",
-      "prompts": [
-        {
-          "category_id": 22,
-          "prompt_id": 0,
-          "prompt_text": "Negative Prompt: Meticulously prune and sculpt the bonsai into an idealized miniature tree form, with perfect symmetry and cleanly trimmed branches conforming to the iconic aesthetic."
-        },
-        {
-          "category_id": 22,
-          "prompt_id": 1,
-          "prompt_text": "Positive Prompt: Let the plant become unkempt, with wild uncontrolled growth sprawling outwards in all directions, the branches unruly and untamed lacking sculptural shaping."
-        }
-      ],
-      "questions": [
-        {
-          "question_text": "Question: Which bonsai plants are overgrown and unruly?",
-          "category_id": 22,
-          "positive_prompt_ids": [
-            1
-          ]
-        }
-      ]
-    },
-    {
       "category_id": 255,
       "category_name": "",
       "prompts": [
@@ -2006,31 +1536,6 @@
         {
           "question_text": "Question: Which boom boxes are on and casting colorful light effects?",
           "category_id": 27,
-          "positive_prompt_ids": [
-            1
-          ]
-        }
-      ]
-    },
-    {
-      "category_id": 3,
-      "category_name": "",
-      "prompts": [
-        {
-          "category_id": 3,
-          "prompt_id": 0,
-          "prompt_text": "Negative Prompt: Ensure the bathtub water level is perfectly safe and contained within the tub, without any risk of spilling over the edges."
-        },
-        {
-          "category_id": 3,
-          "prompt_id": 1,
-          "prompt_text": "Positive Prompt: Modify the scene so that the bathtub is overflowing massively, with water cascading out in torrents and flooding across the surrounding floor in a huge deluge."
-        }
-      ],
-      "questions": [
-        {
-          "question_text": "Question: Which bathtubs have overflowed onto the floor?",
-          "category_id": 3,
           "positive_prompt_ids": [
             1
           ]
@@ -2163,31 +1668,6 @@
       ]
     },
     {
-      "category_id": 64,
-      "category_name": "",
-      "prompts": [
-        {
-          "category_id": 64,
-          "prompt_id": 0,
-          "prompt_text": "Negative Prompt: Extinguish any flames or candles on the cake, removing all traces of fire, smoke, or active combustion leaving just wax cylinders and wicks free of ignition."
-        },
-        {
-          "category_id": 64,
-          "prompt_id": 1,
-          "prompt_text": "Positive Prompt: Place decorative candles in the middle of the cake surface, complete with flickering wicks giving off glowing flames and trailing wisps of smoke from the burning."
-        }
-      ],
-      "questions": [
-        {
-          "question_text": "Question: Which cakes have visible candles lit and burning with flames?",
-          "category_id": 64,
-          "positive_prompt_ids": [
-            1
-          ]
-        }
-      ]
-    },
-    {
       "category_id": 671,
       "category_name": "",
       "prompts": [
@@ -2281,31 +1761,6 @@
         {
           "question_text": "Question: Which airplanes have bright decorative paint schemes?",
           "category_id": 822,
-          "positive_prompt_ids": [
-            1
-          ]
-        }
-      ]
-    },
-    {
-      "category_id": 95,
-      "category_name": "",
-      "prompts": [
-        {
-          "category_id": 95,
-          "prompt_id": 0,
-          "prompt_text": "Negative Prompt: Depict the chandelier as freshly polished and cleaned to a spotless shine, with pristine surfaces gleaming free of any blemishes or accumulated dinginess."
-        },
-        {
-          "category_id": 95,
-          "prompt_id": 1,
-          "prompt_text": "Positive Prompt: Litter the surface areas of the chandelier framework with unsightly layers of dust, dirt, grime buildup and tangled cobwebs indicating severe neglect."
-        }
-      ],
-      "questions": [
-        {
-          "question_text": "Question: Which chandeliers appear dusty, dirty or uncleaned with cobwebs?",
-          "category_id": 95,
           "positive_prompt_ids": [
             1
           ]

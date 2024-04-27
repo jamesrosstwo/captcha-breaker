@@ -1,51 +1,25 @@
-from enum import Enum, auto
-
 import torch
 
-from architecture.models.kmeans import KMeans
+from src.architecture.cluster_assignment.assigner import CaptchaAssigner
+from src.architecture.cluster.clusterer import CaptchaClusterer
 from src.architecture.architecture import CaptchaArchitecture
 
 
-def fit_kmeans(im_features):
-    """
-    :param im_features: One feature for each challenge image. <challenge_size, feat_size>
-    :return: Returns the unassigned clusters for each image in the challenge.
-    """
-
-    kmeans = KMeans(
-        n_clusters=2,
-        max_iter=100,
-        tolerance=1e-4,
-        distance="euclidean",
-        sub_sampling=None,
-    )
-
-    centroids, features = kmeans.fit_predict(im_features)
-
-
-class _ClusteringMethod(Enum):
-    KMEANS = auto()
-    # LINEAR = auto()
-
-
-_clustering_fn_map = {
-    _ClusteringMethod.KMEANS: fit_kmeans
-}
-
-
 class CaptchaClustering(CaptchaArchitecture):
-    def __init__(self, method: str, **kwargs):
+    def __init__(self, clusterer: CaptchaClusterer, assigner: CaptchaAssigner, **kwargs):
         super().__init__(**kwargs)
+        self._clusterer = clusterer
+        self._assigner = assigner
 
-        valid_keys = list(_ClusteringMethod.__members__.keys())
-        if method.upper() not in valid_keys:
-            e = "The given method {} for captcha clustering is not implemented. Please select from the available categories {}"
-            raise KeyError(e.format(method.upper(), valid_keys))
+    @property
+    def is_trainable(self):
+        return False
 
-        self._method: _ClusteringMethod = _ClusteringMethod[method.upper()]
-        self._clustering_fn = _clustering_fn_map[self._method]
+    @property
+    def name(self) -> str:
+        return str(self._clusterer.__class__.__name__) + str(self._assigner.__class__.__name__)
 
     def forward(self, questions, challenges):
-        img_features = torch.stack([self._backbone(challenge) for challenge in challenges])
-        cluster_assignments = self._clustering_fn(img_features)
-        return torch.zeros(challenges.shape[:2], device=challenges.device)
+        img_features = self._backbone(challenges)
+        labels, centroids = self._clusterer.fit_predict(img_features)
+        return self._assigner.assign_clusters(labels, centroids).unsqueeze(1).to(torch.float)

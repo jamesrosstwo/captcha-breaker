@@ -23,6 +23,10 @@ class CaptchaArchitecture(nn.Module, ABC):
     def get_selections(self, preds: torch.Tensor) -> torch.Tensor:
         return preds > 0.5
 
+    @property
+    def name(self) -> str:
+        return str(self._fusion_head.__class__.__name__)
+
 
     @property
     def is_trainable(self):

@@ -25,7 +25,7 @@ from src.experiment.experiment import CaptchaExperiment
 @hydra.main(version_base=None, config_path=str(CONFIG_PATH.resolve()), config_name=BASE_CONFIG_NAME)
 def launch_experiment(cfg):
     experiment = CaptchaExperiment(**cfg)
-    experiment.run()
+    return experiment.run()
 
 
 if __name__ == "__main__":
